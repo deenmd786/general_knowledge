@@ -1,0 +1,45 @@
+{
+    "date": "05-09-2026",
+    "daily_content": {
+        "paheli": {
+            "icon": "🤔",
+            "question": "An ever-fresh riddle, solve it if you are wise: I fly high without wings, with a string tied around my neck. What am I?",
+            "answer": "A Kite"
+        },
+        "joke": {
+            "icon": "😂",
+            "characters": "Teacher - Chintu",
+            "dialogue": [
+                "Teacher: Chintu, tell me what is special about September 5th?",
+                "Chintu: Sir, on this day, teachers get to relax!",
+                "Teacher: Oh really! How so?",
+                "Chintu: Because on this day, students become teachers to teach the class, while you sit back and relax on your chair!"
+            ]
+        },
+        "prerak_kahani": {
+            "icon": "📖",
+            "title": "True Knowledge and the Master's Guidance",
+            "story": "Once, a disciple asked his guru, 'What is the secret to achieving success in life?' The guru took him to a river and submerged his head in the water. As the disciple struggled desperately to breathe, the guru pulled him out. The guru asked, 'What did you need the most while you were underwater?' The disciple replied, 'Air!' The guru smiled and said, 'That is the secret to success. When your desire for success is as intense as your need for air underwater, nothing can stop you from succeeding.'",
+            "moral": "Right guidance and strong willpower are the keys to success."
+        },
+        "word_of_the_day": {
+            "icon": "📚",
+            "word": "Perseverance",
+            "meaning": "Continued effort and determination to achieve something despite difficulties or delays.",
+            "example": "To succeed in the toughest exams, one requires perseverance and continuous practice."
+        },
+        "today_in_history": {
+            "icon": "🏛️",
+            "fact": "On September 5, 1888, Dr. Sarvepalli Radhakrishnan, the second President of India and a great educationist, was born. His birthday is celebrated across India as 'Teachers' Day'."
+        },
+        "did_you_know": {
+            "icon": "💡",
+            "fact": "Did you know? In our solar system, Venus is the only planet that rotates in a clockwise direction, while all other planets rotate in the opposite direction."
+        },
+        "quote_of_the_day": {
+            "icon": "✨",
+            "quote": "Teachers are not those who stuff facts into the mind of the student, but true teachers are those who prepare them for the challenges of tomorrow.",
+            "author": "Dr. Sarvepalli Radhakrishnan"
+        }
+    }
+}
