@@ -1,0 +1,43 @@
+{
+    "date": "01-09-2026",
+    "daily_content": {
+        "paheli": {
+            "icon": "🤔",
+            "question": "I am never sick, yet I swallow bullets. Both kids and elders get scared hearing my loud voice. Tell me, what am I?",
+            "answer": "A Gun"
+        },
+        "joke": {
+            "icon": "😂",
+            "characters": "Teacher - Student",
+            "dialogue": [
+                "Teacher: Ramu, tell me how many countries are there in the world?",
+                "Ramu: Madam, what a childish question! There is only one country in the world, 'India', all the rest are 'foreign'!"
+            ]
+        },
+        "prerak_kahani": {
+            "icon": "📖",
+            "title": "The Chain of Thought (The Elephant's Rope)",
+            "story": "A man noticed that huge elephants were being held back by only a small rope tied to their front leg. He asked the trainer why these powerful elephants didn't just break the rope and escape. The trainer replied, 'When they were very young, we used the same size rope to tie them. At that age, they couldn't break it. As they grew up, they were conditioned to believe they could never break the rope. Because they believe the rope can still hold them, they never try to break free.'",
+            "moral": "Believe in your capabilities. Just because you failed at something once before, doesn't mean you will fail again. Never give up trying."
+        },
+        "word_of_the_day": {
+            "icon": "📚",
+            "word": "Resolution (Sankalp)",
+            "meaning": "Firm determination (making a strong decision)",
+            "example": "I have made a resolution to secure the first position in the exam."
+        },
+        "today_in_history": {
+            "icon": "🏛️",
+            "fact": "On September 1, 1956, the Life Insurance Corporation of India (LIC) was established."
+        },
+        "did_you_know": {
+            "icon": "💡",
+            "fact": "Did you know? Real honey is the only food that never spoils, even after thousands of years."
+        },
+        "quote_of_the_day": {
+            "icon": "✨",
+            "quote": "Education is the most powerful weapon which you can use to change the world.",
+            "author": "Nelson Mandela"
+        }
+    }
+}
