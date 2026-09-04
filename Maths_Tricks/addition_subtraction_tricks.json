@@ -1,0 +1,168 @@
+{
+    "category": {
+        "en": "Addition & Subtraction Tricks",
+        "hi": "जोड़ और घटाव के ट्रिक्स"
+    },
+    "tricks": [
+        {
+            "id": "left_to_right_addition",
+            "title": {
+                "en": "1. Left-to-Right Addition",
+                "hi": "1. बाएं से दाएं जोड़"
+            },
+            "icon": "➡️",
+            "rule": {
+                "en": "Instead of adding right-to-left like on paper, add the hundreds, then tens, then units. It is much faster for your brain!",
+                "hi": "कागज पर दाएं से बाएं जोड़ने के बजाय, पहले सैकड़ा, फिर दहाई, फिर इकाई को जोड़ें। मानसिक गणना के लिए यह बहुत तेज़ है!"
+            },
+            "visual_example": {
+                "en": "📝 345 + 231 = ? \n🔹 Step 1 (Hundreds): 300 + 200 = 500 \n🔹 Step 2 (Tens): 40 + 30 = 70 \n🔹 Step 3 (Units): 5 + 1 = 6 \n✅ Answer: 500 + 70 + 6 = 576",
+                "hi": "📝 345 + 231 = ? \n🔹 चरण 1 (सैकड़ा): 300 + 200 = 500 \n🔹 चरण 2 (दहाई): 40 + 30 = 70 \n🔹 चरण 3 (इकाई): 5 + 1 = 6 \n✅ उत्तर: 500 + 70 + 6 = 576"
+            }
+        },
+        {
+            "id": "breaking_down_addition",
+            "title": {
+                "en": "2. Breaking Down Numbers (Addition)",
+                "hi": "2. संख्याओं को तोड़ना (जोड़)"
+            },
+            "icon": "🧩",
+            "rule": {
+                "en": "Split the second number into Tens and Units to make it easy to add step-by-step.",
+                "hi": "दूसरी संख्या को दहाई और इकाई में तोड़ दें ताकि उसे आसानी से एक-एक करके जोड़ा जा सके।"
+            },
+            "visual_example": {
+                "en": "📝 45 + 32 = ? \n🔹 Step 1: Break 32 into 30 and 2 \n🔹 Step 2: 45 + 30 = 75 \n🔹 Step 3: 75 + 2 = 77 \n✅ Answer: 77",
+                "hi": "📝 45 + 32 = ? \n🔹 चरण 1: 32 को 30 और 2 में तोड़ें \n🔹 चरण 2: 45 + 30 = 75 \n🔹 चरण 3: 75 + 2 = 77 \n✅ उत्तर: 77"
+            }
+        },
+        {
+            "id": "breaking_down_subtraction",
+            "title": {
+                "en": "3. Breaking Down Numbers (Subtraction)",
+                "hi": "3. संख्याओं को तोड़ना (घटाव)"
+            },
+            "icon": "✂️",
+            "rule": {
+                "en": "Split the number you are subtracting into Tens and Units, and subtract them one by one.",
+                "hi": "जिस संख्या को घटाना है उसे दहाई और इकाई में तोड़ दें, और उन्हें एक-एक करके घटाएं।"
+            },
+            "visual_example": {
+                "en": "📝 87 - 34 = ? \n🔹 Step 1: Break 34 into 30 and 4 \n🔹 Step 2: 87 - 30 = 57 \n🔹 Step 3: 57 - 4 = 53 \n✅ Answer: 53",
+                "hi": "📝 87 - 34 = ? \n🔹 चरण 1: 34 को 30 और 4 में तोड़ें \n🔹 चरण 2: 87 - 30 = 57 \n🔹 चरण 3: 57 - 4 = 53 \n✅ उत्तर: 53"
+            }
+        },
+        {
+            "id": "friendly_numbers",
+            "title": {
+                "en": "4. Finding Friendly Numbers (Grouping)",
+                "hi": "4. अनुकूल संख्याएं खोजना (समूह बनाना)"
+            },
+            "icon": "🤝",
+            "rule": {
+                "en": "When adding a list of numbers, look for pairs that end in 0 (like summing to 10 or 100) first.",
+                "hi": "जब कई संख्याओं को जोड़ना हो, तो पहले उन जोड़ों को खोजें जिनका योग 10 या 100 होता है।"
+            },
+            "visual_example": {
+                "en": "📝 24 + 35 + 16 = ? \n🔹 Step 1: Pair 24 and 16 (they make 40!) \n🔹 Step 2: 24 + 16 = 40 \n🔹 Step 3: 40 + 35 = 75 \n✅ Answer: 75",
+                "hi": "📝 24 + 35 + 16 = ? \n🔹 चरण 1: 24 और 16 का जोड़ा बनाएं (वे 40 बनते हैं!) \n🔹 चरण 2: 24 + 16 = 40 \n🔹 चरण 3: 40 + 35 = 75 \n✅ उत्तर: 75"
+            }
+        },
+        {
+            "id": "rounding_up_addition",
+            "title": {
+                "en": "5. Rounding Up Trick (Addition)",
+                "hi": "5. निकटतम संख्या का ट्रिक (जोड़)"
+            },
+            "icon": "➕",
+            "rule": {
+                "en": "Round one number to the nearest 10 to make it easy, add them, and then subtract the extra amount you added.",
+                "hi": "एक संख्या को निकटतम 10 के करीब ले जाएं, उन्हें जोड़ें, और फिर जितना अतिरिक्त जोड़ा था उसे घटा दें।"
+            },
+            "visual_example": {
+                "en": "📝 68 + 45 = ? \n🔹 Step 1: Think of 68 as 70 (added 2) \n🔹 Step 2: 70 + 45 = 115 \n🔹 Step 3: Subtract the extra 2 \n✅ Answer: 115 - 2 = 113",
+                "hi": "📝 68 + 45 = ? \n🔹 चरण 1: 68 को 70 मान लें (2 जोड़ा) \n🔹 चरण 2: 70 + 45 = 115 \n🔹 चरण 3: अतिरिक्त 2 घटा दें \n✅ उत्तर: 115 - 2 = 113"
+            }
+        },
+        {
+            "id": "rounding_up_subtraction",
+            "title": {
+                "en": "6. Rounding Up Trick (Subtraction)",
+                "hi": "6. निकटतम संख्या का ट्रिक (घटाव)"
+            },
+            "icon": "➖",
+            "rule": {
+                "en": "Round the number you are subtracting to the nearest 10, subtract it, and then add back the difference.",
+                "hi": "जिस संख्या को घटाना है उसे निकटतम 10 तक ले जाएं, उसे घटाएं, और फिर अंतर को वापस जोड़ दें।"
+            },
+            "visual_example": {
+                "en": "📝 83 - 29 = ? \n🔹 Step 1: Think of 29 as 30 (added 1) \n🔹 Step 2: 83 - 30 = 53 \n🔹 Step 3: Add back the 1 \n✅ Answer: 53 + 1 = 54",
+                "hi": "📝 83 - 29 = ? \n🔹 चरण 1: 29 को 30 मान लें (1 जोड़ा) \n🔹 चरण 2: 83 - 30 = 53 \n🔹 चरण 3: 1 को वापस जोड़ें \n✅ उत्तर: 53 + 1 = 54"
+            }
+        },
+        {
+            "id": "magic_9s",
+            "title": {
+                "en": "7. Magic of 9, 99, and 999",
+                "hi": "7. 9, 99, और 999 का जादू"
+            },
+            "icon": "✨",
+            "rule": {
+                "en": "To add 9, add 10 and subtract 1. To add 99, add 100 and subtract 1. To add 999, add 1000 and subtract 1.",
+                "hi": "9 जोड़ने के लिए, 10 जोड़ें और 1 घटाएं। 99 के लिए, 100 जोड़ें और 1 घटाएं। 999 के लिए, 1000 जोड़ें और 1 घटाएं।"
+            },
+            "visual_example": {
+                "en": "📝 145 + 99 = ? \n🔹 Step 1: Add 100 ➡️ 145 + 100 = 245 \n🔹 Step 2: Subtract 1 ➡️ 245 - 1 = 244 \n✅ Answer: 244",
+                "hi": "📝 145 + 99 = ? \n🔹 चरण 1: 100 जोड़ें ➡️ 145 + 100 = 245 \n🔹 चरण 2: 1 घटाएं ➡️ 245 - 1 = 244 \n✅ उत्तर: 244"
+            }
+        },
+        {
+            "id": "vedic_subtraction",
+            "title": {
+                "en": "8. Subtracting from 100, 1000 (Vedic Math)",
+                "hi": "8. 100, 1000 से घटाना (वैदिक गणित)"
+            },
+            "icon": "💯",
+            "rule": {
+                "en": "Rule: 'All from 9 and the last from 10'. Subtract all digits of the number from 9, and the final digit from 10.",
+                "hi": "नियम: 'सभी 9 से और अंतिम 10 से'। संख्या के सभी अंकों को 9 से घटाएं, और अंतिम अंक को 10 से।"
+            },
+            "visual_example": {
+                "en": "📝 1000 - 456 = ? \n🔹 Step 1: 9 - 4 = 5 \n🔹 Step 2: 9 - 5 = 4 \n🔹 Step 3: 10 - 6 = 4 \n✅ Answer: 544",
+                "hi": "📝 1000 - 456 = ? \n🔹 चरण 1: 9 - 4 = 5 \n🔹 चरण 2: 9 - 5 = 4 \n🔹 चरण 3: 10 - 6 = 4 \n✅ उत्तर: 544"
+            }
+        },
+        {
+            "id": "doubling_trick",
+            "title": {
+                "en": "9. Adding Close Numbers (Doubling)",
+                "hi": "9. करीब की संख्याओं को जोड़ना (दोगुना करना)"
+            },
+            "icon": "👯",
+            "rule": {
+                "en": "If two numbers are very close to each other, double one of them and add or subtract the small difference.",
+                "hi": "यदि दो संख्याएँ एक-दूसरे के बहुत करीब हैं, तो उनमें से एक को दोगुना करें और छोटे अंतर को जोड़ें या घटाएं।"
+            },
+            "visual_example": {
+                "en": "📝 34 + 36 = ? \n🔹 Step 1: They are close to 35. Double 35! \n🔹 Step 2: 35 + 35 = 70 \n✅ Answer: 70",
+                "hi": "📝 34 + 36 = ? \n🔹 चरण 1: ये 35 के करीब हैं। 35 को दोगुना करें! \n🔹 चरण 2: 35 + 35 = 70 \n✅ उत्तर: 70"
+            }
+        },
+        {
+            "id": "reversed_two_digit",
+            "title": {
+                "en": "10. Subtracting Reversed 2-Digit Numbers",
+                "hi": "10. उल्टी 2-अंकीय संख्याओं को घटाना"
+            },
+            "icon": "🔄",
+            "rule": {
+                "en": "Find the difference between the two digits of the number, and simply multiply that difference by 9.",
+                "hi": "संख्या के दोनों अंकों के बीच का अंतर ज्ञात करें, और उस अंतर को 9 से गुणा कर दें।"
+            },
+            "visual_example": {
+                "en": "📝 82 - 28 = ? \n🔹 Step 1: Digits are 8 and 2. Difference is (8 - 2 = 6). \n🔹 Step 2: Multiply by 9 ➡️ 6 × 9 = 54 \n✅ Answer: 54",
+                "hi": "📝 82 - 28 = ? \n🔹 चरण 1: अंक 8 और 2 हैं। अंतर (8 - 2 = 6) है। \n🔹 चरण 2: 9 से गुणा करें ➡️ 6 × 9 = 54 \n✅ उत्तर: 54"
+            }
+        }
+    ]
+}

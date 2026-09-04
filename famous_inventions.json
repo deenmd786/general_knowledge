@@ -1,0 +1,196 @@
+{
+    "famous_inventions": [
+        {
+            "id": "telephone",
+            "name": {
+                "en": "Telephone",
+                "hi": "टेलीफोन"
+            },
+            "inventor": {
+                "en": "Alexander Graham Bell",
+                "hi": "अलेक्जेंडर ग्राहम बेल"
+            },
+            "icon": "☎️",
+            "fact": {
+                "en": "Invented in 1876, it allowed people to talk to each other across long distances for the first time.",
+                "hi": "1876 में इसका आविष्कार हुआ, जिससे लोगों ने पहली बार लंबी दूरी पर एक-दूसरे से बात की।"
+            }
+        },
+        {
+            "id": "light_bulb",
+            "name": {
+                "en": "Light Bulb",
+                "hi": "विद्युत बल्ब (लाइट बल्ब)"
+            },
+            "inventor": {
+                "en": "Thomas Edison",
+                "hi": "थॉमस एडिसन"
+            },
+            "icon": "💡",
+            "fact": {
+                "en": "Edison created a practical and long-lasting electric light bulb that changed how the world lived after dark.",
+                "hi": "एडिसन ने एक व्यावहारिक और लंबे समय तक चलने वाला बल्ब बनाया जिसने रात के समय दुनिया के जीने का तरीका बदल दिया।"
+            }
+        },
+        {
+            "id": "airplane",
+            "name": {
+                "en": "Airplane",
+                "hi": "हवाई जहाज़"
+            },
+            "inventor": {
+                "en": "The Wright Brothers (Orville and Wilbur)",
+                "hi": "राइट ब्रदर्स (ऑरविल और विल्बर)"
+            },
+            "icon": "✈️",
+            "fact": {
+                "en": "In 1903, they successfully flew the first engine-powered airplane in the sky.",
+                "hi": "1903 में, उन्होंने आसमान में पहला इंजन से चलने वाला हवाई जहाज़ सफलतापूर्वक उड़ाया था।"
+            }
+        },
+        {
+            "id": "computer",
+            "name": {
+                "en": "Computer",
+                "hi": "कंप्यूटर"
+            },
+            "inventor": {
+                "en": "Charles Babbage",
+                "hi": "चार्ल्स बैबेज"
+            },
+            "icon": "💻",
+            "fact": {
+                "en": "Known as the 'Father of the Computer', he designed the first mechanical computing machine.",
+                "hi": "उन्हें 'कंप्यूटर का जनक' कहा जाता है, उन्होंने पहली यांत्रिक कंप्यूटिंग मशीन डिज़ाइन की थी।"
+            }
+        },
+        {
+            "id": "television",
+            "name": {
+                "en": "Television",
+                "hi": "टेलीविज़न (टीवी)"
+            },
+            "inventor": {
+                "en": "John Logie Baird",
+                "hi": "जॉन लॉगी बेयर्ड"
+            },
+            "icon": "📺",
+            "fact": {
+                "en": "He demonstrated the first working mechanical television system in the 1920s.",
+                "hi": "उन्होंने 1920 के दशक में पहली काम करने वाली मैकेनिकल टेलीविज़न प्रणाली का प्रदर्शन किया था।"
+            }
+        },
+        {
+            "id": "radio",
+            "name": {
+                "en": "Radio",
+                "hi": "रेडियो"
+            },
+            "inventor": {
+                "en": "Guglielmo Marconi",
+                "hi": "गुग्लिल्मो मार्कोनी"
+            },
+            "icon": "📻",
+            "fact": {
+                "en": "He developed the first practical system for sending messages wirelessly using radio waves.",
+                "hi": "उन्होंने रेडियो तरंगों का उपयोग करके बिना तारों के संदेश भेजने की पहली व्यावहारिक प्रणाली विकसित की।"
+            }
+        },
+        {
+            "id": "telescope",
+            "name": {
+                "en": "Telescope",
+                "hi": "दूरबीन (टेलीस्कोप)"
+            },
+            "inventor": {
+                "en": "Galileo Galilei (improved for astronomy)",
+                "hi": "गैलीलियो गैलीली (खगोल विज्ञान के लिए सुधारा)"
+            },
+            "icon": "🔭",
+            "fact": {
+                "en": "Galileo used it to look at the night sky and discovered the moons of Jupiter.",
+                "hi": "गैलीलियो ने इसका उपयोग रात के आकाश को देखने के लिए किया और बृहस्पति के चंद्रमाओं की खोज की।"
+            }
+        },
+        {
+            "id": "printing_press",
+            "name": {
+                "en": "Printing Press",
+                "hi": "प्रिंटिंग प्रेस (छापाखाना)"
+            },
+            "inventor": {
+                "en": "Johannes Gutenberg",
+                "hi": "जोहान्स गुटेनबर्ग"
+            },
+            "icon": "🖨️",
+            "fact": {
+                "en": "It made it possible to print books quickly and cheaply, helping to spread knowledge across the world.",
+                "hi": "इसने किताबों को जल्दी और सस्ते में छापना संभव बनाया, जिससे दुनिया भर में ज्ञान फैलाने में मदद मिली।"
+            }
+        },
+        {
+            "id": "steam_engine",
+            "name": {
+                "en": "Steam Engine",
+                "hi": "भाप का इंजन"
+            },
+            "inventor": {
+                "en": "James Watt",
+                "hi": "जेम्स वाट"
+            },
+            "icon": "🚂",
+            "fact": {
+                "en": "His improvements to the steam engine powered the Industrial Revolution, running early factories and trains.",
+                "hi": "भाप के इंजन में उनके सुधारों ने औद्योगिक क्रांति को शक्ति दी, जिससे शुरुआती कारखाने और ट्रेनें चलीं।"
+            }
+        },
+        {
+            "id": "world_wide_web",
+            "name": {
+                "en": "World Wide Web (Internet)",
+                "hi": "वर्ल्ड वाइड वेब (इंटरनेट)"
+            },
+            "inventor": {
+                "en": "Tim Berners-Lee",
+                "hi": "टिम बर्नर्स-ली"
+            },
+            "icon": "🌐",
+            "fact": {
+                "en": "He invented the World Wide Web, which allows us to browse websites and share information globally.",
+                "hi": "उन्होंने वर्ल्ड वाइड वेब का आविष्कार किया, जो हमें वेबसाइट ब्राउज़ करने और विश्व स्तर पर जानकारी साझा करने की अनुमति देता है।"
+            }
+        },
+        {
+            "id": "compass",
+            "name": {
+                "en": "Magnetic Compass",
+                "hi": "चुंबकीय कंपास (दिक्सूचक)"
+            },
+            "inventor": {
+                "en": "Ancient Chinese Inventors",
+                "hi": "प्राचीन चीनी आविष्कारक"
+            },
+            "icon": "🧭",
+            "fact": {
+                "en": "Invented in ancient China, it helped sailors navigate the oceans safely by always pointing North.",
+                "hi": "प्राचीन चीन में आविष्कार किया गया, इसने हमेशा उत्तर दिशा दिखाकर नाविकों को सुरक्षित यात्रा करने में मदद की।"
+            }
+        },
+        {
+            "id": "wheel",
+            "name": {
+                "en": "The Wheel",
+                "hi": "पहिया"
+            },
+            "inventor": {
+                "en": "Ancient Mesopotamians",
+                "hi": "प्राचीन मेसोपोटामियाई"
+            },
+            "icon": "🛞",
+            "fact": {
+                "en": "One of the oldest and most important inventions, it completely changed transport and machinery.",
+                "hi": "सबसे पुराने और सबसे महत्वपूर्ण आविष्कारों में से एक, इसने परिवहन और मशीनरी को पूरी तरह से बदल दिया।"
+            }
+        }
+    ]
+}

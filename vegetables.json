@@ -1,0 +1,284 @@
+{
+    "vegetables": [
+        {
+            "id": "potato",
+            "name": {
+                "en": "Potato",
+                "hi": "आलू"
+            },
+            "icon": "🥔",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg",
+            "scientific_name": "Solanum tuberosum",
+            "category": {
+                "en": "A root vegetable that grows underground",
+                "hi": "एक जड़ वाली सब्जी जो जमीन के नीचे उगती है"
+            }
+        },
+        {
+            "id": "tomato",
+            "name": {
+                "en": "Tomato",
+                "hi": "टमाटर"
+            },
+            "icon": "🍅",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+            "scientific_name": "Solanum lycopersicum",
+            "category": {
+                "en": "Botanically a fruit, but eaten as a vegetable",
+                "hi": "वनस्पति विज्ञान के अनुसार यह एक फल है, लेकिन सब्जी के रूप में खाया जाता है"
+            }
+        },
+        {
+            "id": "onion",
+            "name": {
+                "en": "Onion",
+                "hi": "प्याज"
+            },
+            "icon": "🧅",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Onion_on_White.JPG",
+            "scientific_name": "Allium cepa",
+            "category": {
+                "en": "Grows in layers and can make you cry when cut",
+                "hi": "परतों में उगता है और काटने पर आंसू ला सकता है"
+            }
+        },
+        {
+            "id": "carrot",
+            "name": {
+                "en": "Carrot",
+                "hi": "गाजर"
+            },
+            "icon": "🥕",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Carrots_of_many_colors.jpg",
+            "scientific_name": "Daucus carota",
+            "category": {
+                "en": "Rich in Vitamin A, good for eyesight",
+                "hi": "विटामिन ए से भरपूर, आंखों की रोशनी के लिए अच्छा"
+            }
+        },
+        {
+            "id": "spinach",
+            "name": {
+                "en": "Spinach",
+                "hi": "पालक"
+            },
+            "icon": "🥬",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Spinach.jpg",
+            "scientific_name": "Spinacia oleracea",
+            "category": {
+                "en": "Leafy green vegetable high in iron",
+                "hi": "आयरन से भरपूर हरी पत्तेदार सब्जी"
+            }
+        },
+        {
+            "id": "broccoli",
+            "name": {
+                "en": "Broccoli",
+                "hi": "ब्रोकोली"
+            },
+            "icon": "🥦",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg",
+            "scientific_name": "Brassica oleracea var. italica",
+            "category": {
+                "en": "Looks like a miniature green tree",
+                "hi": "एक छोटे हरे पेड़ की तरह दिखता है"
+            }
+        },
+        {
+            "id": "cauliflower",
+            "name": {
+                "en": "Cauliflower",
+                "hi": "फूलगोभी"
+            },
+            "icon": "🥦",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cauliflower_01.jpg",
+            "scientific_name": "Brassica oleracea var. botrytis",
+            "category": {
+                "en": "Has a white head called a 'curd'",
+                "hi": "इसका सफेद हिस्सा खाया जाता है"
+            }
+        },
+        {
+            "id": "cabbage",
+            "name": {
+                "en": "Cabbage",
+                "hi": "पत्ता गोभी / बंद गोभी"
+            },
+            "icon": "🥬",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cabbage_and_cross_section_on_white.jpg",
+            "scientific_name": "Brassica oleracea var. capitata",
+            "category": {
+                "en": "Made entirely of tightly packed leaves",
+                "hi": "पूरी तरह से कसकर बंधे पत्तों से बनी होती है"
+            }
+        },
+        {
+            "id": "eggplant",
+            "name": {
+                "en": "Eggplant / Brinjal",
+                "hi": "बैंगन"
+            },
+            "icon": "🍆",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Eggplant.jpg",
+            "scientific_name": "Solanum melongena",
+            "category": {
+                "en": "Often purple and known as the 'King of Vegetables'",
+                "hi": "अक्सर बैंगनी रंग का होता है और इसे 'सब्जियों का राजा' कहा जाता है"
+            }
+        },
+        {
+            "id": "cucumber",
+            "name": {
+                "en": "Cucumber",
+                "hi": "खीरा"
+            },
+            "icon": "🥒",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cucumber_and_slices.jpg",
+            "scientific_name": "Cucumis sativus",
+            "category": {
+                "en": "Very high in water content, keeps you hydrated",
+                "hi": "पानी की मात्रा बहुत अधिक होती है, आपको हाइड्रेटेड रखता है"
+            }
+        },
+        {
+            "id": "peas",
+            "name": {
+                "en": "Peas",
+                "hi": "मटर"
+            },
+            "icon": "🫛",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Peas_in_pods_-_Studio.jpg",
+            "scientific_name": "Pisum sativum",
+            "category": {
+                "en": "Small round green seeds that grow in a pod",
+                "hi": "छोटे गोल हरे बीज जो फली में उगते हैं"
+            }
+        },
+        {
+            "id": "capsicum",
+            "name": {
+                "en": "Capsicum / Bell Pepper",
+                "hi": "शिमला मिर्च"
+            },
+            "icon": "🫑",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bell_pepper_isolated_on_white_background.jpg",
+            "scientific_name": "Capsicum annuum",
+            "category": {
+                "en": "Comes in green, red, and yellow colors",
+                "hi": "हरे, लाल और पीले रंगों में आती है"
+            }
+        },
+        {
+            "id": "garlic",
+            "name": {
+                "en": "Garlic",
+                "hi": "लहसुन"
+            },
+            "icon": "🧄",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Garlic_Press_and_Garlic.jpg",
+            "scientific_name": "Allium sativum",
+            "category": {
+                "en": "Used for flavor and has medicinal properties",
+                "hi": "स्वाद के लिए उपयोग किया जाता है और इसमें औषधीय गुण होते हैं"
+            }
+        },
+        {
+            "id": "ginger",
+            "name": {
+                "en": "Ginger",
+                "hi": "अदरक"
+            },
+            "icon": "🫚",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ginger_root.jpg",
+            "scientific_name": "Zingiber officinale",
+            "category": {
+                "en": "A spicy root used in cooking and tea",
+                "hi": "एक मसालेदार जड़ जिसका उपयोग खाना पकाने और चाय में किया जाता है"
+            }
+        },
+        {
+            "id": "radish",
+            "name": {
+                "en": "Radish",
+                "hi": "मूली"
+            },
+            "icon": "🥕",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Red_radish.jpg",
+            "scientific_name": "Raphanus sativus",
+            "category": {
+                "en": "A crunchy root vegetable, often eaten in salads",
+                "hi": "एक कुरकुरी जड़ वाली सब्जी, अक्सर सलाद में खाई जाती है"
+            }
+        },
+        {
+            "id": "okra",
+            "name": {
+                "en": "Okra / Ladyfinger",
+                "hi": "भिंडी"
+            },
+            "icon": "🥒",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Okra_%28Abelmoschus_esculentus%29.jpg",
+            "scientific_name": "Abelmoschus esculentus",
+            "category": {
+                "en": "Long, green vegetable with edible seeds inside",
+                "hi": "लंबी, हरी सब्जी जिसके अंदर खाने योग्य बीज होते हैं"
+            }
+        },
+        {
+            "id": "pumpkin",
+            "name": {
+                "en": "Pumpkin",
+                "hi": "कद्दू / पेठा"
+            },
+            "icon": "🎃",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/French_pan_pumpkin_2011.jpg",
+            "scientific_name": "Cucurbita",
+            "category": {
+                "en": "A large, round, orange vegetable",
+                "hi": "एक बड़ी, गोल, नारंगी सब्जी"
+            }
+        },
+        {
+            "id": "mushroom",
+            "name": {
+                "en": "Mushroom",
+                "hi": "मशरूम / कुकुरमुत्ता"
+            },
+            "icon": "🍄",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Agaricus_bisporus_1.jpg",
+            "scientific_name": "Agaricus bisporus",
+            "category": {
+                "en": "Actually a fungus, not a plant!",
+                "hi": "वास्तव में यह एक कवक (फंगस) है, पौधा नहीं!"
+            }
+        },
+        {
+            "id": "corn",
+            "name": {
+                "en": "Corn / Maize",
+                "hi": "मक्का / भुट्टा"
+            },
+            "icon": "🌽",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sweet_corn_ears.jpg",
+            "scientific_name": "Zea mays",
+            "category": {
+                "en": "Grows on tall stalks and produces yellow kernels",
+                "hi": "लंबे डंठल पर उगता है और इसमें पीले दाने होते हैं"
+            }
+        },
+        {
+            "id": "sweet_potato",
+            "name": {
+                "en": "Sweet Potato",
+                "hi": "शकरकंद"
+            },
+            "icon": "🍠",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sweet_potato.jpg",
+            "scientific_name": "Ipomoea batatas",
+            "category": {
+                "en": "Naturally sweet root vegetable",
+                "hi": "प्राकृतिक रूप से मीठी जड़ वाली सब्जी"
+            }
+        }
+    ]
+}

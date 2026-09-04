@@ -1,0 +1,168 @@
+{
+    "category": {
+        "en": "Percentages & Fractions Tricks",
+        "hi": "प्रतिशत और भिन्न के ट्रिक्स"
+    },
+    "tricks": [
+        {
+            "id": "find_10_percent",
+            "title": {
+                "en": "1. Find 10% Instantly",
+                "hi": "1. तुरंत 10% निकालें"
+            },
+            "icon": "🔟",
+            "rule": {
+                "en": "To find 10% of any number, just move the decimal point one place to the left. If it ends in a zero, just drop the zero!",
+                "hi": "किसी भी संख्या का 10% निकालने के लिए, बस दशमलव को एक स्थान बाईं ओर खिसकाएं। यदि अंत में शून्य है, तो बस शून्य को हटा दें!"
+            },
+            "visual_example": {
+                "en": "📝 10% of 450 = ? \n🔹 Step 1: Drop the zero or move decimal 1 place left. \n✅ Answer: 45",
+                "hi": "📝 450 का 10% = ? \n🔹 चरण 1: शून्य हटा दें या दशमलव 1 स्थान बाईं ओर खिसकाएं। \n✅ उत्तर: 45"
+            }
+        },
+        {
+            "id": "find_1_percent",
+            "title": {
+                "en": "2. Find 1% Instantly",
+                "hi": "2. तुरंत 1% निकालें"
+            },
+            "icon": "1️⃣",
+            "rule": {
+                "en": "To find 1% of any number, move the decimal point TWO places to the left. Easy!",
+                "hi": "किसी भी संख्या का 1% निकालने के लिए, दशमलव को दो स्थान बाईं ओर खिसकाएं। बहुत आसान!"
+            },
+            "visual_example": {
+                "en": "📝 1% of 450 = ? \n🔹 Step 1: Move decimal 2 places left (450.0 ➡️ 4.50) \n✅ Answer: 4.5",
+                "hi": "📝 450 का 1% = ? \n🔹 चरण 1: दशमलव को 2 स्थान बाईं ओर खिसकाएं (450.0 ➡️ 4.50) \n✅ उत्तर: 4.5"
+            }
+        },
+        {
+            "id": "find_5_percent",
+            "title": {
+                "en": "3. The 5% Trick",
+                "hi": "3. 5% का ट्रिक"
+            },
+            "icon": "🖐️",
+            "rule": {
+                "en": "First, find 10% (by moving the decimal). Then, just cut that number in half!",
+                "hi": "पहले 10% निकालें (दशमलव खिसकाकर)। फिर, उस संख्या को बस आधा कर दें!"
+            },
+            "visual_example": {
+                "en": "📝 5% of 240 = ? \n🔹 Step 1: 10% of 240 is 24 \n🔹 Step 2: Half of 24 is 12 \n✅ Answer: 12",
+                "hi": "📝 240 का 5% = ? \n🔹 चरण 1: 240 का 10% = 24 है \n🔹 चरण 2: 24 का आधा 12 है \n✅ उत्तर: 12"
+            }
+        },
+        {
+            "id": "reversible_percentages",
+            "title": {
+                "en": "4. Reversible Percentages (x% of y = y% of x)",
+                "hi": "4. उलटने योग्य प्रतिशत (x% का y = y% का x)"
+            },
+            "icon": "🔄",
+            "rule": {
+                "en": "Percentages are reversible! If a question looks hard, flip the numbers. 18% of 50 is hard, but 50% of 18 is super easy!",
+                "hi": "प्रतिशत को उलटा जा सकता है! यदि कोई प्रश्न कठिन लगे, तो संख्याओं को पलट दें। 50 का 18% मुश्किल है, लेकिन 18 का 50% बहुत आसान है!"
+            },
+            "visual_example": {
+                "en": "📝 18% of 50 = ? \n🔹 Step 1: Flip it ➡️ 50% of 18 \n🔹 Step 2: 50% means half. Half of 18 is 9 \n✅ Answer: 9",
+                "hi": "📝 50 का 18% = ? \n🔹 चरण 1: इसे पलटें ➡️ 18 का 50% \n🔹 चरण 2: 50% का मतलब आधा होता है। 18 का आधा 9 है \n✅ उत्तर: 9"
+            }
+        },
+        {
+            "id": "find_20_percent",
+            "title": {
+                "en": "5. The 20% Double Trick",
+                "hi": "5. 20% का डबल ट्रिक"
+            },
+            "icon": "✌️",
+            "rule": {
+                "en": "Find 10% by moving the decimal, and then just double your answer!",
+                "hi": "दशमलव खिसकाकर 10% निकालें, और फिर अपने उत्तर को दोगुना कर दें!"
+            },
+            "visual_example": {
+                "en": "📝 20% of 65 = ? \n🔹 Step 1: 10% of 65 is 6.5 \n🔹 Step 2: Double 6.5 (6.5 + 6.5) = 13 \n✅ Answer: 13",
+                "hi": "📝 65 का 20% = ? \n🔹 चरण 1: 65 का 10% = 6.5 है \n🔹 चरण 2: 6.5 को दोगुना करें (6.5 + 6.5) = 13 \n✅ उत्तर: 13"
+            }
+        },
+        {
+            "id": "find_25_percent",
+            "title": {
+                "en": "6. Find 25% (Divide by 4)",
+                "hi": "6. 25% निकालें (4 से भाग दें)"
+            },
+            "icon": "🍕",
+            "rule": {
+                "en": "25% is exactly one-quarter (1/4). To find 25%, just divide the number by 4 (or cut it in half, twice).",
+                "hi": "25% का मतलब बिल्कुल एक-चौथाई (1/4) होता है। 25% निकालने के लिए, बस संख्या को 4 से भाग दें (या दो बार आधा करें)।"
+            },
+            "visual_example": {
+                "en": "📝 25% of 80 = ? \n🔹 Step 1: Half of 80 is 40 \n🔹 Step 2: Half of 40 is 20 \n✅ Answer: 20",
+                "hi": "📝 80 का 25% = ? \n🔹 चरण 1: 80 का आधा 40 है \n🔹 चरण 2: 40 का आधा 20 है \n✅ उत्तर: 20"
+            }
+        },
+        {
+            "id": "find_15_percent",
+            "title": {
+                "en": "7. The 15% Restaurant Tip Trick",
+                "hi": "7. 15% रेस्टोरेंट टिप ट्रिक"
+            },
+            "icon": "🍽️",
+            "rule": {
+                "en": "To find 15%, first find 10%. Then find 5% (which is half of the 10%). Add them both together!",
+                "hi": "15% निकालने के लिए, पहले 10% निकालें। फिर 5% निकालें (जो 10% का आधा है)। दोनों को एक साथ जोड़ दें!"
+            },
+            "visual_example": {
+                "en": "📝 15% of 60 = ? \n🔹 Step 1: 10% of 60 is 6 \n🔹 Step 2: 5% is half of 6, which is 3 \n🔹 Step 3: Add them ➡️ 6 + 3 = 9 \n✅ Answer: 9",
+                "hi": "📝 60 का 15% = ? \n🔹 चरण 1: 60 का 10% = 6 है \n🔹 चरण 2: 5%, 6 का आधा है, जो 3 है \n🔹 चरण 3: इन्हें जोड़ें ➡️ 6 + 3 = 9 \n✅ उत्तर: 9"
+            }
+        },
+        {
+            "id": "find_75_percent",
+            "title": {
+                "en": "8. Find 75% Easily",
+                "hi": "8. 75% आसानी से निकालें"
+            },
+            "icon": "🍰",
+            "rule": {
+                "en": "75% is just 50% + 25%. Find half the number (50%), find a quarter of the number (25%), and add them up!",
+                "hi": "75% असल में 50% + 25% होता है। संख्या का आधा (50%) निकालें, संख्या का चौथाई (25%) निकालें, और उन्हें जोड़ दें!"
+            },
+            "visual_example": {
+                "en": "📝 75% of 40 = ? \n🔹 Step 1: 50% (half) is 20 \n🔹 Step 2: 25% (quarter) is 10 \n🔹 Step 3: Add ➡️ 20 + 10 = 30 \n✅ Answer: 30",
+                "hi": "📝 40 का 75% = ? \n🔹 चरण 1: 50% (आधा) 20 है \n🔹 चरण 2: 25% (चौथाई) 10 है \n🔹 चरण 3: जोड़ें ➡️ 20 + 10 = 30 \n✅ उत्तर: 30"
+            }
+        },
+        {
+            "id": "fraction_to_percent_magic",
+            "title": {
+                "en": "9. Fraction to Percent Magic",
+                "hi": "9. भिन्न से प्रतिशत का जादू"
+            },
+            "icon": "🪄",
+            "rule": {
+                "en": "Memorize these magic fractions to divide instead of calculating percent: 1/5 = 20%, 1/4 = 25%, 1/3 = 33.3%, 1/2 = 50%.",
+                "hi": "प्रतिशत की गणना करने के बजाय भाग देने के लिए इन जादुई भिन्नों को याद करें: 1/5 = 20%, 1/4 = 25%, 1/3 = 33.3%, 1/2 = 50%।"
+            },
+            "visual_example": {
+                "en": "📝 20% of 45 = ? \n🔹 Step 1: 20% is exactly 1/5. \n🔹 Step 2: Just divide by 5 ➡️ 45 ÷ 5 = 9 \n✅ Answer: 9",
+                "hi": "📝 45 का 20% = ? \n🔹 चरण 1: 20% का मतलब 1/5 होता है। \n🔹 चरण 2: बस 5 से भाग दें ➡️ 45 ÷ 5 = 9 \n✅ उत्तर: 9"
+            }
+        },
+        {
+            "id": "subtract_from_100",
+            "title": {
+                "en": "10. The 90% and 99% Trick",
+                "hi": "10. 90% और 99% का ट्रिक"
+            },
+            "icon": "✂️",
+            "rule": {
+                "en": "To find 90%, find 10% and subtract it from the total. To find 99%, find 1% and subtract it from the total!",
+                "hi": "90% निकालने के लिए, 10% निकालें और इसे कुल में से घटा दें। 99% निकालने के लिए, 1% निकालें और इसे कुल में से घटा दें!"
+            },
+            "visual_example": {
+                "en": "📝 90% of 120 = ? \n🔹 Step 1: 10% of 120 is 12 \n🔹 Step 2: 120 - 12 = 108 \n✅ Answer: 108",
+                "hi": "📝 120 का 90% = ? \n🔹 चरण 1: 120 का 10% = 12 है \n🔹 चरण 2: 120 - 12 = 108 \n✅ उत्तर: 108"
+            }
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "insects": [
+        {
+            "id": "ant",
+            "name": {
+                "en": "Ant",
+                "hi": "चींटी"
+            },
+            "icon": "🐜",
+            "scientific_name": "Formicidae",
+            "fact": {
+                "en": "Can carry items much heavier than their own body weight.",
+                "hi": "यह अपने शरीर के वजन से कई गुना भारी चीज़ें उठा सकती है।"
+            }
+        },
+        {
+            "id": "butterfly",
+            "name": {
+                "en": "Butterfly",
+                "hi": "तितली"
+            },
+            "icon": "🦋",
+            "scientific_name": "Rhopalocera",
+            "fact": {
+                "en": "Tastes its food using its feet.",
+                "hi": "यह अपने पैरों से भोजन का स्वाद चखती है।"
+            }
+        },
+        {
+            "id": "honey_bee",
+            "name": {
+                "en": "Honey Bee",
+                "hi": "मधुमक्खी"
+            },
+            "icon": "🐝",
+            "scientific_name": "Apis",
+            "fact": {
+                "en": "Collects nectar from flowers to make honey.",
+                "hi": "यह फूलों का रस चूसकर शहद बनाती है।"
+            }
+        },
+        {
+            "id": "mosquito",
+            "name": {
+                "en": "Mosquito",
+                "hi": "मच्छर"
+            },
+            "icon": "🦟",
+            "scientific_name": "Culicidae",
+            "fact": {
+                "en": "Only female mosquitoes bite humans and animals for blood.",
+                "hi": "केवल मादा मच्छर ही इंसानों और जानवरों का खून चूसती हैं।"
+            }
+        },
+        {
+            "id": "housefly",
+            "name": {
+                "en": "Housefly",
+                "hi": "मक्खी"
+            },
+            "icon": "🪰",
+            "scientific_name": "Musca domestica",
+            "fact": {
+                "en": "Can walk upside down on ceilings thanks to sticky pads on its feet.",
+                "hi": "अपने पैरों के चिपचिपे पैड के कारण यह छत पर उल्टी चल सकती है।"
+            }
+        },
+        {
+            "id": "cockroach",
+            "name": {
+                "en": "Cockroach",
+                "hi": "तिलचट्टा / कॉकरोच"
+            },
+            "icon": "🪳",
+            "scientific_name": "Blattodea",
+            "fact": {
+                "en": "Can live for up to a week even without its head.",
+                "hi": "सिर कटने के बाद भी यह हफ़्तों तक ज़िंदा रह सकता है।"
+            }
+        },
+        {
+            "id": "ladybug",
+            "name": {
+                "en": "Ladybug",
+                "hi": "सोनपंखी (लेडीबग)"
+            },
+            "icon": "🐞",
+            "scientific_name": "Coccinellidae",
+            "fact": {
+                "en": "Has a red shell with black spots and eats pests that harm plants.",
+                "hi": "इसके शरीर पर काले धब्बे होते हैं और यह पौधों को नुकसान पहुँचाने वाले कीड़ों को खाती है।"
+            }
+        },
+        {
+            "id": "grasshopper",
+            "name": {
+                "en": "Grasshopper",
+                "hi": "टिड्डा"
+            },
+            "icon": "🦗",
+            "scientific_name": "Caelifera",
+            "fact": {
+                "en": "Can leap 20 times the length of its own body.",
+                "hi": "यह अपने शरीर की लंबाई से 20 गुना ऊंची छलांग लगा सकता है।"
+            }
+        },
+        {
+            "id": "beetle",
+            "name": {
+                "en": "Beetle",
+                "hi": "भृंग (बीटल)"
+            },
+            "icon": "🪲",
+            "scientific_name": "Coleoptera",
+            "fact": {
+                "en": "They have hard, shell-like front wings to protect their bodies.",
+                "hi": "इनके शरीर की रक्षा के लिए इनके आगे के पंख कठोर खोल जैसे होते हैं।"
+            }
+        },
+        {
+            "id": "caterpillar",
+            "name": {
+                "en": "Caterpillar",
+                "hi": "इल्ली (कैटरपिलर)"
+            },
+            "icon": "🐛",
+            "scientific_name": "Lepidoptera (Larva)",
+            "fact": {
+                "en": "Spins a cocoon and later transforms into a beautiful butterfly or moth.",
+                "hi": "यह कोकून बनाता है और बाद में एक सुंदर तितली बन जाता है।"
+            }
+        },
+        {
+            "id": "spider",
+            "name": {
+                "en": "Spider",
+                "hi": "मकड़ी"
+            },
+            "icon": "🕷️",
+            "scientific_name": "Araneae",
+            "fact": {
+                "en": "Not an insect! It is an arachnid because it has 8 legs instead of 6.",
+                "hi": "यह कीट नहीं है! 8 पैर होने के कारण इसे अष्टपाद (Arachnid) कहा जाता है।"
+            }
+        },
+        {
+            "id": "scorpion",
+            "name": {
+                "en": "Scorpion",
+                "hi": "बिच्छू"
+            },
+            "icon": "🦂",
+            "scientific_name": "Scorpiones",
+            "fact": {
+                "en": "Also an arachnid, known for the venomous stinger at the end of its tail.",
+                "hi": "यह भी एक अष्टपाद है, जिसकी पूंछ के अंत में एक ज़हरीला डंक होता है।"
+            }
+        },
+        {
+            "id": "earthworm",
+            "name": {
+                "en": "Earthworm",
+                "hi": "केंचुआ"
+            },
+            "icon": "🪱",
+            "scientific_name": "Lumbricina",
+            "fact": {
+                "en": "Known as the farmer's friend because it makes the soil fertile.",
+                "hi": "इसे किसान का मित्र कहा जाता है क्योंकि यह मिट्टी को उपजाऊ बनाता है।"
+            }
+        },
+        {
+            "id": "snail",
+            "name": {
+                "en": "Snail",
+                "hi": "घोंघा"
+            },
+            "icon": "🐌",
+            "scientific_name": "Gastropoda",
+            "fact": {
+                "en": "A mollusk that carries its shell home on its back and moves very slowly.",
+                "hi": "यह अपनी पीठ पर अपना खोल लेकर चलता है और बहुत धीरे चलता है।"
+            }
+        },
+        {
+            "id": "cricket",
+            "name": {
+                "en": "Cricket",
+                "hi": "झींगुर"
+            },
+            "icon": "🦗",
+            "scientific_name": "Grylloidea",
+            "fact": {
+                "en": "Makes a loud chirping sound at night by rubbing its wings together.",
+                "hi": "यह रात में अपने पंखों को रगड़कर तेज़ आवाज़ निकालता है।"
+            }
+        },
+        {
+            "id": "firefly",
+            "name": {
+                "en": "Firefly",
+                "hi": "जुगनू"
+            },
+            "icon": "🌟",
+            "scientific_name": "Lampyridae",
+            "fact": {
+                "en": "A type of beetle that produces its own light to glow in the dark.",
+                "hi": "यह एक प्रकार का भृंग है जो अंधेरे में चमकने के लिए अपना खुद का प्रकाश पैदा करता है।"
+            }
+        },
+        {
+            "id": "wasp",
+            "name": {
+                "en": "Wasp",
+                "hi": "ततैया (बर्र)"
+            },
+            "icon": "🐝",
+            "scientific_name": "Vespidae",
+            "fact": {
+                "en": "Unlike a honey bee, a wasp can sting multiple times without losing its stinger.",
+                "hi": "मधुमक्खी के विपरीत, ततैया अपना डंक खोए बिना कई बार डंक मार सकती है।"
+            }
+        },
+        {
+            "id": "termite",
+            "name": {
+                "en": "Termite",
+                "hi": "दीमक"
+            },
+            "icon": "🪵",
+            "scientific_name": "Isoptera",
+            "fact": {
+                "en": "Eats dead plant material and wood, which can destroy wooden furniture.",
+                "hi": "यह लकड़ी खाती है और लकड़ी के फर्नीचर को पूरी तरह नष्ट कर सकती है।"
+            }
+        },
+        {
+            "id": "moth",
+            "name": {
+                "en": "Moth",
+                "hi": "पतंगा"
+            },
+            "icon": "🦋",
+            "scientific_name": "Lepidoptera",
+            "fact": {
+                "en": "Looks like a butterfly but mostly flies at night and loves light.",
+                "hi": "यह तितली जैसा दिखता है, लेकिन ज़्यादातर रात में उड़ता है और रोशनी की तरफ आकर्षित होता है।"
+            }
+        },
+        {
+            "id": "dragonfly",
+            "name": {
+                "en": "Dragonfly",
+                "hi": "व्याध पतंग (ड्रैगनफ्लाई)"
+            },
+            "icon": "🚁",
+            "scientific_name": "Anisoptera",
+            "fact": {
+                "en": "An amazing flier that can fly straight up, down, and even backwards like a helicopter.",
+                "hi": "यह एक हेलीकॉप्टर की तरह सीधे ऊपर, नीचे और यहाँ तक कि पीछे की ओर भी उड़ सकता है।"
+            }
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "deep_sea_animals": [
+        {
+            "id": "anglerfish",
+            "name": {
+                "en": "Anglerfish",
+                "hi": "एंगलरफिश"
+            },
+            "icon": "🎣",
+            "scientific_name": "Lophiiformes",
+            "fact": {
+                "en": "Has a glowing lure on its head like a fishing rod to attract prey in the pitch-black ocean.",
+                "hi": "घने अंधेरे गहरे समुद्र में शिकार को आकर्षित करने के लिए इसके सिर पर मछली पकड़ने वाले कांटे (फिशिंग रॉड) जैसा चमकता हुआ हिस्सा होता है।"
+            }
+        },
+        {
+            "id": "giant_squid",
+            "name": {
+                "en": "Giant Squid",
+                "hi": "विशाल स्क्विड (जाइंट स्क्विड)"
+            },
+            "icon": "🦑",
+            "scientific_name": "Architeuthis dux",
+            "fact": {
+                "en": "A massive creature with the largest eyes in the animal kingdom, the size of dinner plates!",
+                "hi": "यह एक विशाल जीव है जिसकी आंखें जानवरों की दुनिया में सबसे बड़ी (रात के खाने की प्लेट के आकार की) होती हैं!"
+            }
+        },
+        {
+            "id": "dumbo_octopus",
+            "name": {
+                "en": "Dumbo Octopus",
+                "hi": "डंबो ऑक्टोपस"
+            },
+            "icon": "🐙",
+            "scientific_name": "Grimpoteuthis",
+            "fact": {
+                "en": "Has two ear-like fins on its head, making it look like a flying elephant when it swims.",
+                "hi": "इसके सिर पर कान जैसे दो पंख होते हैं, जिससे यह तैरते समय उड़ने वाले हाथी जैसा दिखता है।"
+            }
+        },
+        {
+            "id": "blobfish",
+            "name": {
+                "en": "Blobfish",
+                "hi": "ब्लॉबफिश"
+            },
+            "icon": "🐟",
+            "scientific_name": "Psychrolutes marcidus",
+            "fact": {
+                "en": "Often called the world's ugliest animal, its jelly-like body helps it survive under extreme water pressure.",
+                "hi": "इसे अक्सर दुनिया का सबसे बदसूरत जानवर कहा जाता है, इसका जेली जैसा शरीर इसे पानी के भारी दबाव में जीवित रहने में मदद करता है।"
+            }
+        },
+        {
+            "id": "vampire_squid",
+            "name": {
+                "en": "Vampire Squid",
+                "hi": "वैम्पायर स्क्विड"
+            },
+            "icon": "🦇",
+            "scientific_name": "Vampyroteuthis infernalis",
+            "fact": {
+                "en": "Despite its scary name, it doesn't drink blood! It hides by turning its body inside-out like a dark cloak.",
+                "hi": "डरावने नाम के बावजूद यह खून नहीं पीता! यह अपने शरीर को एक काले लबादे की तरह उल्टा करके छिप जाता है।"
+            }
+        },
+        {
+            "id": "goblin_shark",
+            "name": {
+                "en": "Goblin Shark",
+                "hi": "गॉब्लिन शार्क"
+            },
+            "icon": "🦈",
+            "scientific_name": "Mitsukurina owstoni",
+            "fact": {
+                "en": "A rare shark with a long, pointy nose and jaws that can suddenly shoot forward to catch fish.",
+                "hi": "एक दुर्लभ शार्क जिसकी लंबी, नुकीली नाक होती है और इसके जबड़े मछली पकड़ने के लिए अचानक आगे की ओर निकल सकते हैं।"
+            }
+        },
+        {
+            "id": "gulper_eel",
+            "name": {
+                "en": "Gulper Eel (Pelican Eel)",
+                "hi": "गल्पर ईल"
+            },
+            "icon": "🐍",
+            "scientific_name": "Saccopharyngiformes",
+            "fact": {
+                "en": "Has a massive mouth that can stretch wide enough to swallow animals larger than itself.",
+                "hi": "इसका मुंह इतना बड़ा होता है कि यह अपने से बड़े जानवरों को भी आसानी से निगल सकती है।"
+            }
+        },
+        {
+            "id": "giant_isopod",
+            "name": {
+                "en": "Giant Isopod",
+                "hi": "जाइंट आइसोपोड"
+            },
+            "icon": "🪲",
+            "scientific_name": "Bathynomus",
+            "fact": {
+                "en": "Looks like a giant underwater pillbug or woodlouse, and crawls on the ocean floor looking for food.",
+                "hi": "यह पानी के नीचे एक विशाल कीड़े जैसा दिखता है, और भोजन की तलाश में समुद्र तल पर रेंगता है।"
+            }
+        },
+        {
+            "id": "lanternfish",
+            "name": {
+                "en": "Lanternfish",
+                "hi": "लालटेन मछली (लैटर्नफिश)"
+            },
+            "icon": "🔦",
+            "scientific_name": "Myctophidae",
+            "fact": {
+                "en": "Has special organs on its body that glow in the dark to help it see and communicate.",
+                "hi": "इसके शरीर पर विशेष अंग होते हैं जो अंधेरे में चमकते हैं जिससे इसे देखने और संवाद करने में मदद मिलती है।"
+            }
+        },
+        {
+            "id": "hagfish",
+            "name": {
+                "en": "Hagfish",
+                "hi": "हैगफिश"
+            },
+            "icon": "🪱",
+            "scientific_name": "Myxini",
+            "fact": {
+                "en": "When attacked, this jawless fish releases huge amounts of thick slime to choke its predators.",
+                "hi": "हमला होने पर, बिना जबड़े वाली यह मछली शिकारियों का दम घोंटने के लिए भारी मात्रा में गाढ़ा स्लाइम (चिपचिपा पदार्थ) छोड़ती है।"
+            }
+        }
+    ]
+}

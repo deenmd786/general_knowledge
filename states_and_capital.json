@@ -1,0 +1,512 @@
+{
+    "india": {
+        "states": [
+            {
+                "state": {
+                    "en": "Andhra Pradesh",
+                    "hi": "आंध्र प्रदेश"
+                },
+                "capital": {
+                    "en": "Amaravati",
+                    "hi": "अमरावती"
+                },
+                "famous_for": {
+                    "en": "Tirupati Temple",
+                    "hi": "तिरुपति मंदिर"
+                }
+            },
+            {
+                "state": {
+                    "en": "Arunachal Pradesh",
+                    "hi": "अरुणाचल प्रदेश"
+                },
+                "capital": {
+                    "en": "Itanagar",
+                    "hi": "ईटानगर"
+                },
+                "famous_for": {
+                    "en": "Tawang Monastery",
+                    "hi": "तवांग मठ"
+                }
+            },
+            {
+                "state": {
+                    "en": "Assam",
+                    "hi": "असम"
+                },
+                "capital": {
+                    "en": "Dispur",
+                    "hi": "दिसपुर"
+                },
+                "famous_for": {
+                    "en": "Kaziranga National Park",
+                    "hi": "काजीरंगा राष्ट्रीय उद्यान"
+                }
+            },
+            {
+                "state": {
+                    "en": "Bihar",
+                    "hi": "बिहार"
+                },
+                "capital": {
+                    "en": "Patna",
+                    "hi": "पटना"
+                },
+                "famous_for": {
+                    "en": "Mahabodhi Temple",
+                    "hi": "महाबोधि मंदिर"
+                }
+            },
+            {
+                "state": {
+                    "en": "Chhattisgarh",
+                    "hi": "छत्तीसगढ़"
+                },
+                "capital": {
+                    "en": "Raipur",
+                    "hi": "रायपुर"
+                },
+                "famous_for": {
+                    "en": "Chitrakote Waterfalls",
+                    "hi": "चित्रकोट जलप्रपात"
+                }
+            },
+            {
+                "state": {
+                    "en": "Goa",
+                    "hi": "गोवा"
+                },
+                "capital": {
+                    "en": "Panaji",
+                    "hi": "पणजी"
+                },
+                "famous_for": {
+                    "en": "Beautiful Beaches",
+                    "hi": "सुंदर समुद्री तट (बीच)"
+                }
+            },
+            {
+                "state": {
+                    "en": "Gujarat",
+                    "hi": "गुजरात"
+                },
+                "capital": {
+                    "en": "Gandhinagar",
+                    "hi": "गांधीनगर"
+                },
+                "famous_for": {
+                    "en": "Statue of Unity",
+                    "hi": "स्टैच्यू ऑफ यूनिटी"
+                }
+            },
+            {
+                "state": {
+                    "en": "Haryana",
+                    "hi": "हरियाणा"
+                },
+                "capital": {
+                    "en": "Chandigarh",
+                    "hi": "चंडीगढ़"
+                },
+                "famous_for": {
+                    "en": "Kurukshetra",
+                    "hi": "कुरुक्षेत्र"
+                }
+            },
+            {
+                "state": {
+                    "en": "Himachal Pradesh",
+                    "hi": "हिमाचल प्रदेश"
+                },
+                "capital": {
+                    "en": "Shimla",
+                    "hi": "शिमला"
+                },
+                "famous_for": {
+                    "en": "Rohtang Pass",
+                    "hi": "रोहतांग दर्रा"
+                }
+            },
+            {
+                "state": {
+                    "en": "Jharkhand",
+                    "hi": "झारखंड"
+                },
+                "capital": {
+                    "en": "Ranchi",
+                    "hi": "रांची"
+                },
+                "famous_for": {
+                    "en": "Betla National Park",
+                    "hi": "बेतला राष्ट्रीय उद्यान"
+                }
+            },
+            {
+                "state": {
+                    "en": "Karnataka",
+                    "hi": "कर्नाटक"
+                },
+                "capital": {
+                    "en": "Bengaluru",
+                    "hi": "बेंगलुरु"
+                },
+                "famous_for": {
+                    "en": "Mysore Palace",
+                    "hi": "मैसूर महल"
+                }
+            },
+            {
+                "state": {
+                    "en": "Kerala",
+                    "hi": "केरल"
+                },
+                "capital": {
+                    "en": "Thiruvananthapuram",
+                    "hi": "तिरुवनंतपुरम"
+                },
+                "famous_for": {
+                    "en": "Backwaters",
+                    "hi": "बैकवॉटर्स"
+                }
+            },
+            {
+                "state": {
+                    "en": "Madhya Pradesh",
+                    "hi": "मध्य प्रदेश"
+                },
+                "capital": {
+                    "en": "Bhopal",
+                    "hi": "भोपाल"
+                },
+                "famous_for": {
+                    "en": "Khajuraho Temples",
+                    "hi": "खजुराहो मंदिर"
+                }
+            },
+            {
+                "state": {
+                    "en": "Maharashtra",
+                    "hi": "महाराष्ट्र"
+                },
+                "capital": {
+                    "en": "Mumbai",
+                    "hi": "मुंबई"
+                },
+                "famous_for": {
+                    "en": "Gateway of India",
+                    "hi": "गेटवे ऑफ इंडिया"
+                }
+            },
+            {
+                "state": {
+                    "en": "Manipur",
+                    "hi": "मणिपुर"
+                },
+                "capital": {
+                    "en": "Imphal",
+                    "hi": "इंफाल"
+                },
+                "famous_for": {
+                    "en": "Loktak Lake",
+                    "hi": "लोकटक झील"
+                }
+            },
+            {
+                "state": {
+                    "en": "Meghalaya",
+                    "hi": "मेघालय"
+                },
+                "capital": {
+                    "en": "Shillong",
+                    "hi": "शिलांग"
+                },
+                "famous_for": {
+                    "en": "Living Root Bridges",
+                    "hi": "जीवित जड़ पुल"
+                }
+            },
+            {
+                "state": {
+                    "en": "Mizoram",
+                    "hi": "मिजोरम"
+                },
+                "capital": {
+                    "en": "Aizawl",
+                    "hi": "आइजोल"
+                },
+                "famous_for": {
+                    "en": "Phawngpui (Blue Mountain)",
+                    "hi": "फवंगपुई (ब्लू माउंटेन)"
+                }
+            },
+            {
+                "state": {
+                    "en": "Nagaland",
+                    "hi": "नागालैंड"
+                },
+                "capital": {
+                    "en": "Kohima",
+                    "hi": "कोहिमा"
+                },
+                "famous_for": {
+                    "en": "Hornbill Festival",
+                    "hi": "हॉर्नबिल महोत्सव"
+                }
+            },
+            {
+                "state": {
+                    "en": "Odisha",
+                    "hi": "ओडिशा"
+                },
+                "capital": {
+                    "en": "Bhubaneswar",
+                    "hi": "भुवनेश्वर"
+                },
+                "famous_for": {
+                    "en": "Konark Sun Temple",
+                    "hi": "कोणार्क सूर्य मंदिर"
+                }
+            },
+            {
+                "state": {
+                    "en": "Punjab",
+                    "hi": "पंजाब"
+                },
+                "capital": {
+                    "en": "Chandigarh",
+                    "hi": "चंडीगढ़"
+                },
+                "famous_for": {
+                    "en": "Golden Temple",
+                    "hi": "स्वर्ण मंदिर"
+                }
+            },
+            {
+                "state": {
+                    "en": "Rajasthan",
+                    "hi": "राजस्थान"
+                },
+                "capital": {
+                    "en": "Jaipur",
+                    "hi": "जयपुर"
+                },
+                "famous_for": {
+                    "en": "Hawa Mahal",
+                    "hi": "हवा महल"
+                }
+            },
+            {
+                "state": {
+                    "en": "Sikkim",
+                    "hi": "सिक्किम"
+                },
+                "capital": {
+                    "en": "Gangtok",
+                    "hi": "गंगटोक"
+                },
+                "famous_for": {
+                    "en": "Mount Kangchenjunga",
+                    "hi": "कंचनजंगा पर्वत"
+                }
+            },
+            {
+                "state": {
+                    "en": "Tamil Nadu",
+                    "hi": "तमिलनाडु"
+                },
+                "capital": {
+                    "en": "Chennai",
+                    "hi": "चेन्नई"
+                },
+                "famous_for": {
+                    "en": "Meenakshi Amman Temple",
+                    "hi": "मीनाक्षी अम्मन मंदिर"
+                }
+            },
+            {
+                "state": {
+                    "en": "Telangana",
+                    "hi": "तेलंगाना"
+                },
+                "capital": {
+                    "en": "Hyderabad",
+                    "hi": "हैदराबाद"
+                },
+                "famous_for": {
+                    "en": "Charminar",
+                    "hi": "चारमीनार"
+                }
+            },
+            {
+                "state": {
+                    "en": "Tripura",
+                    "hi": "त्रिपुरा"
+                },
+                "capital": {
+                    "en": "Agartala",
+                    "hi": "अगरतला"
+                },
+                "famous_for": {
+                    "en": "Neermahal",
+                    "hi": "नीरमहल"
+                }
+            },
+            {
+                "state": {
+                    "en": "Uttar Pradesh",
+                    "hi": "उत्तर प्रदेश"
+                },
+                "capital": {
+                    "en": "Lucknow",
+                    "hi": "लखनऊ"
+                },
+                "famous_for": {
+                    "en": "Taj Mahal",
+                    "hi": "ताज महल"
+                }
+            },
+            {
+                "state": {
+                    "en": "Uttarakhand",
+                    "hi": "उत्तराखंड"
+                },
+                "capital": {
+                    "en": "Dehradun (Winter), Gairsain (Summer)",
+                    "hi": "देहरादून (शीतकालीन), गैरसैंण (ग्रीष्मकालीन)"
+                },
+                "famous_for": {
+                    "en": "Jim Corbett National Park",
+                    "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान"
+                }
+            },
+            {
+                "state": {
+                    "en": "West Bengal",
+                    "hi": "पश्चिम बंगाल"
+                },
+                "capital": {
+                    "en": "Kolkata",
+                    "hi": "कोलकाता"
+                },
+                "famous_for": {
+                    "en": "Sundarbans",
+                    "hi": "सुंदरवन"
+                }
+            }
+        ],
+        "union_territories": [
+            {
+                "territory": {
+                    "en": "Andaman and Nicobar Islands",
+                    "hi": "अंडमान और निकोबार द्वीप समूह"
+                },
+                "capital": {
+                    "en": "Port Blair",
+                    "hi": "पोर्ट ब्लेयर"
+                },
+                "famous_for": {
+                    "en": "Cellular Jail",
+                    "hi": "सेलुलर जेल"
+                }
+            },
+            {
+                "territory": {
+                    "en": "Chandigarh",
+                    "hi": "चंडीगढ़"
+                },
+                "capital": {
+                    "en": "Chandigarh",
+                    "hi": "चंडीगढ़"
+                },
+                "famous_for": {
+                    "en": "Rock Garden",
+                    "hi": "रॉक गार्डन"
+                }
+            },
+            {
+                "territory": {
+                    "en": "Dadra and Nagar Haveli and Daman and Diu",
+                    "hi": "दादरा और नगर हवेली और दमन और दीव"
+                },
+                "capital": {
+                    "en": "Daman",
+                    "hi": "दमन"
+                },
+                "famous_for": {
+                    "en": "Nagoa Beach",
+                    "hi": "नागोआ बीच"
+                }
+            },
+            {
+                "territory": {
+                    "en": "Delhi",
+                    "hi": "दिल्ली"
+                },
+                "capital": {
+                    "en": "New Delhi",
+                    "hi": "नई दिल्ली"
+                },
+                "famous_for": {
+                    "en": "Red Fort",
+                    "hi": "लाल किला"
+                }
+            },
+            {
+                "territory": {
+                    "en": "Jammu and Kashmir",
+                    "hi": "जम्मू और कश्मीर"
+                },
+                "capital": {
+                    "en": "Srinagar (Summer), Jammu (Winter)",
+                    "hi": "श्रीनगर (ग्रीष्मकालीन), जम्मू (शीतकालीन)"
+                },
+                "famous_for": {
+                    "en": "Dal Lake",
+                    "hi": "डल झील"
+                }
+            },
+            {
+                "territory": {
+                    "en": "Ladakh",
+                    "hi": "लद्दाख"
+                },
+                "capital": {
+                    "en": "Leh",
+                    "hi": "लेह"
+                },
+                "famous_for": {
+                    "en": "Pangong Tso Lake",
+                    "hi": "पैंगोंग त्सो झील"
+                }
+            },
+            {
+                "territory": {
+                    "en": "Lakshadweep",
+                    "hi": "लक्षद्वीप"
+                },
+                "capital": {
+                    "en": "Kavaratti",
+                    "hi": "कवरत्ती"
+                },
+                "famous_for": {
+                    "en": "Coral Reefs",
+                    "hi": "प्रवाल भित्तियाँ (कोरल रीफ)"
+                }
+            },
+            {
+                "territory": {
+                    "en": "Puducherry",
+                    "hi": "पुडुचेरी"
+                },
+                "capital": {
+                    "en": "Puducherry",
+                    "hi": "पुडुचेरी"
+                },
+                "famous_for": {
+                    "en": "Aurobindo Ashram",
+                    "hi": "अरबिंदो आश्रम"
+                }
+            }
+        ]
+    }
+}

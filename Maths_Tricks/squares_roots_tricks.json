@@ -1,0 +1,168 @@
+{
+    "category": {
+        "en": "Squares & Square Roots Tricks",
+        "hi": "वर्ग और वर्गमूल के ट्रिक्स"
+    },
+    "tricks": [
+        {
+            "id": "square_ending_in_5",
+            "title": {
+                "en": "1. Square of a Number Ending in 5",
+                "hi": "1. 5 पर समाप्त होने वाली संख्या का वर्ग"
+            },
+            "icon": "🎯",
+            "rule": {
+                "en": "Multiply the first digit by the next counting number. Then just write 25 at the end.",
+                "hi": "पहले अंक को उसकी अगली संख्या (गिनती में) से गुणा करें। फिर अंत में बस 25 लिख दें।"
+            },
+            "visual_example": {
+                "en": "📝 65² = ? \n🔹 Step 1: First digit is 6. Next number is 7. \n🔹 Step 2: 6 × 7 = 42 \n🔹 Step 3: Write 25 at the end \n✅ Answer: 4225",
+                "hi": "📝 65² = ? \n🔹 चरण 1: पहला अंक 6 है। अगली संख्या 7 है। \n🔹 चरण 2: 6 × 7 = 42 \n🔹 चरण 3: अंत में 25 लिखें \n✅ उत्तर: 4225"
+            }
+        },
+        {
+            "id": "square_near_50_below",
+            "title": {
+                "en": "2. Square of Numbers near 50 (41 to 49)",
+                "hi": "2. 50 के करीब की संख्याओं का वर्ग (41 से 49)"
+            },
+            "icon": "🔻",
+            "rule": {
+                "en": "Find how much less the number is from 50. Subtract that from 25 for the first part. Square the difference for the last two digits.",
+                "hi": "पता करें कि संख्या 50 से कितनी कम है। पहले भाग के लिए उसे 25 में से घटाएं। अंतिम दो अंकों के लिए उस अंतर का वर्ग करें।"
+            },
+            "visual_example": {
+                "en": "📝 47² = ? \n🔹 Step 1: 50 - 47 = 3 (It is 3 less) \n🔹 Step 2: 25 - 3 = 22 \n🔹 Step 3: 3² = 09 \n✅ Answer: 2209",
+                "hi": "📝 47² = ? \n🔹 चरण 1: 50 - 47 = 3 (यह 3 कम है) \n🔹 चरण 2: 25 - 3 = 22 \n🔹 चरण 3: 3² = 09 \n✅ उत्तर: 2209"
+            }
+        },
+        {
+            "id": "square_near_50_above",
+            "title": {
+                "en": "3. Square of Numbers near 50 (51 to 59)",
+                "hi": "3. 50 के करीब की संख्याओं का वर्ग (51 से 59)"
+            },
+            "icon": "🔺",
+            "rule": {
+                "en": "Find how much more the number is from 50. Add that to 25 for the first part. Square the difference for the last two digits.",
+                "hi": "पता करें कि संख्या 50 से कितनी ज्यादा है। पहले भाग के लिए उसे 25 में जोड़ें। अंतिम दो अंकों के लिए उस अंतर का वर्ग करें।"
+            },
+            "visual_example": {
+                "en": "📝 54² = ? \n🔹 Step 1: 54 - 50 = 4 (It is 4 more) \n🔹 Step 2: 25 + 4 = 29 \n🔹 Step 3: 4² = 16 \n✅ Answer: 2916",
+                "hi": "📝 54² = ? \n🔹 चरण 1: 54 - 50 = 4 (यह 4 ज्यादा है) \n🔹 चरण 2: 25 + 4 = 29 \n🔹 चरण 3: 4² = 16 \n✅ उत्तर: 2916"
+            }
+        },
+        {
+            "id": "square_near_100_below",
+            "title": {
+                "en": "4. Square of Numbers near 100 (91 to 99)",
+                "hi": "4. 100 के करीब की संख्याओं का वर्ग (91 से 99)"
+            },
+            "icon": "💯",
+            "rule": {
+                "en": "Find how much less it is from 100. Subtract that from the original number. Square the difference for the last two digits.",
+                "hi": "पता करें कि यह 100 से कितना कम है। उसे मूल संख्या में से घटाएं। अंतिम दो अंकों के लिए अंतर का वर्ग करें।"
+            },
+            "visual_example": {
+                "en": "📝 96² = ? \n🔹 Step 1: 100 - 96 = 4 (It is 4 less) \n🔹 Step 2: 96 - 4 = 92 \n🔹 Step 3: 4² = 16 \n✅ Answer: 9216",
+                "hi": "📝 96² = ? \n🔹 चरण 1: 100 - 96 = 4 (यह 4 कम है) \n🔹 चरण 2: 96 - 4 = 92 \n🔹 चरण 3: 4² = 16 \n✅ उत्तर: 9216"
+            }
+        },
+        {
+            "id": "square_near_100_above",
+            "title": {
+                "en": "5. Square of Numbers near 100 (101 to 109)",
+                "hi": "5. 100 के करीब की संख्याओं का वर्ग (101 से 109)"
+            },
+            "icon": "🚀",
+            "rule": {
+                "en": "Find how much more it is from 100. Add that to the original number. Square the difference for the last two digits.",
+                "hi": "पता करें कि यह 100 से कितना ज्यादा है। उसे मूल संख्या में जोड़ें। अंतिम दो अंकों के लिए अंतर का वर्ग करें।"
+            },
+            "visual_example": {
+                "en": "📝 106² = ? \n🔹 Step 1: 106 - 100 = 6 (It is 6 more) \n🔹 Step 2: 106 + 6 = 112 \n🔹 Step 3: 6² = 36 \n✅ Answer: 11236",
+                "hi": "📝 106² = ? \n🔹 चरण 1: 106 - 100 = 6 (यह 6 ज्यादा है) \n🔹 चरण 2: 106 + 6 = 112 \n🔹 चरण 3: 6² = 36 \n✅ उत्तर: 11236"
+            }
+        },
+        {
+            "id": "square_of_ones",
+            "title": {
+                "en": "6. Magic Square of 1s (11, 111, 1111)",
+                "hi": "6. 1 की संख्याओं का जादुई वर्ग (11, 111, 1111)"
+            },
+            "icon": "🪄",
+            "rule": {
+                "en": "Count how many 1s there are. Count up to that number, and then count back down to 1.",
+                "hi": "गिनें कि संख्या में कितने '1' हैं। उस संख्या तक ऊपर गिनें, और फिर वापस 1 तक नीचे गिनें।"
+            },
+            "visual_example": {
+                "en": "📝 111² = ? \n🔹 Step 1: There are three 1s. \n🔹 Step 2: Count up to 3 ➡️ 1, 2, 3 \n🔹 Step 3: Count down ➡️ 2, 1 \n✅ Answer: 12321",
+                "hi": "📝 111² = ? \n🔹 चरण 1: इसमें तीन '1' हैं। \n🔹 चरण 2: 3 तक गिनें ➡️ 1, 2, 3 \n🔹 चरण 3: उल्टी गिनती ➡️ 2, 1 \n✅ उत्तर: 12321"
+            }
+        },
+        {
+            "id": "square_of_nines",
+            "title": {
+                "en": "7. Magic Square of 9s (99, 999, 9999)",
+                "hi": "7. 9 की संख्याओं का जादुई वर्ग (99, 999, 9999)"
+            },
+            "icon": "✨",
+            "rule": {
+                "en": "Write the number minus 1. Then add as many 0s as there are 9s, and always put a 1 at the very end.",
+                "hi": "संख्या में से 1 घटाकर लिखें। फिर जितने '9' बचे हैं उतने '0' लगाएं, और अंत में हमेशा 1 लिखें।"
+            },
+            "visual_example": {
+                "en": "📝 999² = ? \n🔹 Step 1: 999 - 1 = 998 \n🔹 Step 2: There are two 9s, so add two 0s ➡️ 99800 \n🔹 Step 3: Put 1 at the end \n✅ Answer: 998001",
+                "hi": "📝 999² = ? \n🔹 चरण 1: 999 - 1 = 998 \n🔹 चरण 2: यहाँ दो '9' हैं, इसलिए दो '0' लगाएं ➡️ 99800 \n🔹 चरण 3: अंत में 1 लिखें \n✅ उत्तर: 998001"
+            }
+        },
+        {
+            "id": "universal_2_digit_square",
+            "title": {
+                "en": "8. Universal 2-Digit Square Trick",
+                "hi": "8. कोई भी 2-अंकीय वर्ग ट्रिक"
+            },
+            "icon": "⚔️",
+            "rule": {
+                "en": "Use the formula (a+b)². Square the first digit, multiply both digits and double it, square the last digit. Add them together carrying over tens.",
+                "hi": "(a+b)² के सूत्र का उपयोग करें। पहले अंक का वर्ग करें, दोनों अंकों को गुणा करके दोगुना करें, अंतिम अंक का वर्ग करें। दहाई को आगे जोड़ते हुए लिखें।"
+            },
+            "visual_example": {
+                "en": "📝 32² = ? \n🔹 Step 1: 3² = 9 \n🔹 Step 2: (3 × 2) × 2 = 12 \n🔹 Step 3: 2² = 4 \n🔹 Combine: 9 | 12 | 4 (Carry 1 to 9) \n✅ Answer: 1024",
+                "hi": "📝 32² = ? \n🔹 चरण 1: 3² = 9 \n🔹 चरण 2: (3 × 2) × 2 = 12 \n🔹 चरण 3: 2² = 4 \n🔹 मिलाएं: 9 | 12 | 4 (1 को 9 में जोड़ें) \n✅ उत्तर: 1024"
+            }
+        },
+        {
+            "id": "perfect_square_root",
+            "title": {
+                "en": "9. Find Square Root of Perfect Squares",
+                "hi": "9. पूर्ण वर्गों का वर्गमूल ज्ञात करना"
+            },
+            "icon": "🔍",
+            "rule": {
+                "en": "Look at the last digit to find the unit digit of the answer (e.g., ends in 4 = answer ends in 2 or 8). Then look at the first digits to find the nearest tens.",
+                "hi": "उत्तर का इकाई अंक खोजने के लिए अंतिम अंक देखें (जैसे, 4 पर समाप्त = उत्तर 2 या 8 पर समाप्त होगा)। फिर निकटतम दहाई खोजने के लिए पहले अंकों को देखें।"
+            },
+            "visual_example": {
+                "en": "📝 √1024 = ? \n🔹 Step 1: Ends in 4, so answer ends in 2 or 8. \n🔹 Step 2: 10 is near 3² (9). So answer is 32 or 38. \n🔹 Step 3: 35² is 1225. 1024 is smaller, so answer is smaller. \n✅ Answer: 32",
+                "hi": "📝 √1024 = ? \n🔹 चरण 1: अंत में 4 है, इसलिए उत्तर 2 या 8 पर समाप्त होगा। \n🔹 चरण 2: 10, 3² (9) के करीब है। तो उत्तर 32 या 38 होगा। \n🔹 चरण 3: 35² = 1225 होता है। 1024 छोटा है, इसलिए उत्तर छोटा होगा। \n✅ उत्तर: 32"
+            }
+        },
+        {
+            "id": "imperfect_square_root",
+            "title": {
+                "en": "10. Fast Square Root of Imperfect Numbers",
+                "hi": "10. अपूर्ण संख्याओं का तेज़ वर्गमूल"
+            },
+            "icon": "⚖️",
+            "rule": {
+                "en": "Find the closest perfect square. Divide your number by the square root of that perfect square. Then find the average of those two numbers.",
+                "hi": "निकटतम पूर्ण वर्ग खोजें। अपनी संख्या को उस पूर्ण वर्ग के वर्गमूल से भाग दें। फिर उन दोनों संख्याओं का औसत निकालें।"
+            },
+            "visual_example": {
+                "en": "📝 √10 = ? (Closest square is 9, root is 3) \n🔹 Step 1: 10 ÷ 3 = 3.33 \n🔹 Step 2: Average of 3 and 3.33 is (3 + 3.33) / 2 \n✅ Answer: ≈ 3.16",
+                "hi": "📝 √10 = ? (निकटतम वर्ग 9 है, वर्गमूल 3 है) \n🔹 चरण 1: 10 ÷ 3 = 3.33 \n🔹 चरण 2: 3 और 3.33 का औसत (3 + 3.33) / 2 है \n✅ उत्तर: ≈ 3.16"
+            }
+        }
+    ]
+}

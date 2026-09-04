@@ -1,0 +1,176 @@
+{
+    "app_name": "General Knowledge for Students",
+    "base_url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/",
+    "categories": [
+        {
+            "id": "gk_india",
+            "title": {
+                "en": "India General Knowledge",
+                "hi": "भारत सामान्य ज्ञान"
+            },
+            "icon": "🇮🇳",
+            "file_name": "gk.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/gk.json"
+        },
+        {
+            "id": "states_capitals",
+            "title": {
+                "en": "States & Capitals",
+                "hi": "राज्य और राजधानियां"
+            },
+            "icon": "🗺️",
+            "file_name": "states_and_capital.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/states_and_capital.json"
+        },
+        {
+            "id": "fruits",
+            "title": {
+                "en": "Fruits",
+                "hi": "फल"
+            },
+            "icon": "🥭",
+            "file_name": "fruits.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/fruits.json"
+        },
+        {
+            "id": "animals",
+            "title": {
+                "en": "Animals",
+                "hi": "जानवर"
+            },
+            "icon": "🦁",
+            "file_name": "animals.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/animals.json"
+        },
+        {
+            "id": "birds",
+            "title": {
+                "en": "Birds",
+                "hi": "पक्षी"
+            },
+            "icon": "🦚",
+            "file_name": "birds.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/birds.json"
+        },
+        {
+            "id": "insects",
+            "title": {
+                "en": "Insects",
+                "hi": "कीड़े-मकोड़े"
+            },
+            "icon": "🦋",
+            "file_name": "insects.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/insects.json"
+        },
+        {
+            "id": "solar_system",
+            "title": {
+                "en": "Solar System",
+                "hi": "सौर मंडल"
+            },
+            "icon": "🪐",
+            "file_name": "solar_system.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/solar_system.json"
+        },
+        {
+            "id": "human_body",
+            "title": {
+                "en": "Human Body Organs",
+                "hi": "मानव शरीर के अंग"
+            },
+            "icon": "🧠",
+            "file_name": "human_body_organs.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/human_body_organs.json"
+        },
+        {
+            "id": "monuments",
+            "title": {
+                "en": "Famous Monuments",
+                "hi": "प्रसिद्ध स्मारक"
+            },
+            "icon": " ताज",
+            "file_name": "famous_monuments.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/famous_monuments.json"
+        },
+        {
+            "id": "transport",
+            "title": {
+                "en": "Modes of Transport",
+                "hi": "यातायात के साधन"
+            },
+            "icon": "🚀",
+            "file_name": "modes_of_transport.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/modes_of_transport.json"
+        },
+        {
+            "id": "community_helpers",
+            "title": {
+                "en": "Community Helpers",
+                "hi": "हमारे सहायक"
+            },
+            "icon": "👨‍🏫",
+            "file_name": "community_helpers.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/community_helpers.json"
+        },
+        {
+            "id": "inventions",
+            "title": {
+                "en": "Famous Inventions",
+                "hi": "प्रसिद्ध आविष्कार"
+            },
+            "icon": "💡",
+            "file_name": "famous_inventions.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/famous_inventions.json"
+        },
+        {
+            "id": "sea_animals",
+            "title": {
+                "en": "Sea Animals",
+                "hi": "समुद्री जीव"
+            },
+            "icon": "🐬",
+            "file_name": "sea_animals.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/sea_animals.json"
+        },
+        {
+            "id": "deep_sea_animals",
+            "title": {
+                "en": "Deep Sea Animals",
+                "hi": "गहरे समुद्र के जीव"
+            },
+            "icon": "🦑",
+            "file_name": "deep_sea_animals.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/deep_sea_animals.json"
+        },
+        {
+            "id": "world_capitals",
+            "title": {
+                "en": "World Capitals",
+                "hi": "विश्व की राजधानियां"
+            },
+            "icon": "🌍",
+            "file_name": "world_capitals.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/world_capitals.json"
+        },
+        {
+            "id": "festivals",
+            "title": {
+                "en": "Famous Festivals",
+                "hi": "प्रसिद्ध त्योहार"
+            },
+            "icon": "🪔",
+            "file_name": "festivals.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/festivals.json"
+        },
+        {
+            "id": "civic_sense",
+            "title": {
+                "en": "Civic Sense",
+                "hi": "नागरिक बोध"
+            },
+            "icon": "🤝",
+            "file_name": "civic_sense.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/civic_sense.json"
+        }
+    ]
+}

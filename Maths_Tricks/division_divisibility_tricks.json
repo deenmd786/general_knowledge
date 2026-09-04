@@ -1,0 +1,168 @@
+{
+    "category": {
+        "en": "Division & Divisibility Tricks",
+        "hi": "भाग और विभाज्यता के ट्रिक्स"
+    },
+    "tricks": [
+        {
+            "id": "divide_by_5",
+            "title": {
+                "en": "1. Fast Divide by 5",
+                "hi": "1. 5 से जल्दी भाग दें"
+            },
+            "icon": "🖐️",
+            "rule": {
+                "en": "To divide any number by 5, just multiply the number by 2 and move the decimal point one place to the left.",
+                "hi": "किसी भी संख्या को 5 से भाग देने के लिए, बस संख्या को 2 से गुणा करें और दशमलव को एक स्थान बाईं ओर खिसकाएं।"
+            },
+            "visual_example": {
+                "en": "📝 235 ÷ 5 = ? \n🔹 Step 1: Multiply by 2 ➡️ 235 × 2 = 470 \n🔹 Step 2: Move decimal left ➡️ 47.0 \n✅ Answer: 47",
+                "hi": "📝 235 ÷ 5 = ? \n🔹 चरण 1: 2 से गुणा करें ➡️ 235 × 2 = 470 \n🔹 चरण 2: दशमलव बाईं ओर खिसकाएं ➡️ 47.0 \n✅ उत्तर: 47"
+            }
+        },
+        {
+            "id": "divide_by_25",
+            "title": {
+                "en": "2. Fast Divide by 25",
+                "hi": "2. 25 से जल्दी भाग दें"
+            },
+            "icon": "🪙",
+            "rule": {
+                "en": "To divide any number by 25, multiply the number by 4 and move the decimal point two places to the left.",
+                "hi": "किसी भी संख्या को 25 से भाग देने के लिए, संख्या को 4 से गुणा करें और दशमलव को दो स्थान बाईं ओर खिसकाएं।"
+            },
+            "visual_example": {
+                "en": "📝 120 ÷ 25 = ? \n🔹 Step 1: Multiply by 4 ➡️ 120 × 4 = 480 \n🔹 Step 2: Move decimal left twice ➡️ 4.80 \n✅ Answer: 4.8",
+                "hi": "📝 120 ÷ 25 = ? \n🔹 चरण 1: 4 से गुणा करें ➡️ 120 × 4 = 480 \n🔹 चरण 2: दशमलव दो स्थान बाईं ओर खिसकाएं ➡️ 4.80 \n✅ उत्तर: 4.8"
+            }
+        },
+        {
+            "id": "divide_by_50",
+            "title": {
+                "en": "3. Fast Divide by 50",
+                "hi": "3. 50 से जल्दी भाग दें"
+            },
+            "icon": "🎯",
+            "rule": {
+                "en": "To divide by 50, multiply the number by 2 and move the decimal point two places to the left.",
+                "hi": "50 से भाग देने के लिए, संख्या को 2 से गुणा करें और दशमलव को दो स्थान बाईं ओर खिसकाएं।"
+            },
+            "visual_example": {
+                "en": "📝 310 ÷ 50 = ? \n🔹 Step 1: Multiply by 2 ➡️ 310 × 2 = 620 \n🔹 Step 2: Move decimal left twice ➡️ 6.20 \n✅ Answer: 6.2",
+                "hi": "📝 310 ÷ 50 = ? \n🔹 चरण 1: 2 से गुणा करें ➡️ 310 × 2 = 620 \n🔹 चरण 2: दशमलव दो स्थान बाईं ओर खिसकाएं ➡️ 6.20 \n✅ उत्तर: 6.2"
+            }
+        },
+        {
+            "id": "divisibility_by_3",
+            "title": {
+                "en": "4. Divisibility Rule for 3",
+                "hi": "4. 3 की विभाज्यता का नियम"
+            },
+            "icon": "3️⃣",
+            "rule": {
+                "en": "Add all the digits of the number together. If the sum is in the 3 times table, the whole number can be divided by 3.",
+                "hi": "संख्या के सभी अंकों को आपस में जोड़ें। यदि उनका योग 3 के पहाड़े में आता है, तो पूरी संख्या 3 से विभाज्य है।"
+            },
+            "visual_example": {
+                "en": "📝 Is 147 divisible by 3? \n🔹 Step 1: Add digits ➡️ 1 + 4 + 7 = 12 \n🔹 Step 2: Can 12 be divided by 3? Yes! \n✅ Answer: 147 is divisible by 3.",
+                "hi": "📝 क्या 147, 3 से विभाज्य है? \n🔹 चरण 1: अंक जोड़ें ➡️ 1 + 4 + 7 = 12 \n🔹 चरण 2: क्या 12 को 3 से भाग दिया जा सकता है? हाँ! \n✅ उत्तर: 147, 3 से विभाज्य है।"
+            }
+        },
+        {
+            "id": "divisibility_by_4",
+            "title": {
+                "en": "5. Divisibility Rule for 4",
+                "hi": "5. 4 की विभाज्यता का नियम"
+            },
+            "icon": "4️⃣",
+            "rule": {
+                "en": "Look only at the last two digits of the number. If they can be divided by 4, the entire huge number can be too!",
+                "hi": "संख्या के केवल अंतिम दो अंकों को देखें। यदि वे 4 से विभाज्य हैं, तो पूरी बड़ी संख्या भी होगी!"
+            },
+            "visual_example": {
+                "en": "📝 Is 3,516 divisible by 4? \n🔹 Step 1: Look at last two digits ➡️ 16 \n🔹 Step 2: Can 16 be divided by 4? Yes! \n✅ Answer: 3,516 is divisible by 4.",
+                "hi": "📝 क्या 3,516, 4 से विभाज्य है? \n🔹 चरण 1: अंतिम दो अंक देखें ➡️ 16 \n🔹 चरण 2: क्या 16 को 4 से भाग दिया जा सकता है? हाँ! \n✅ उत्तर: 3,516, 4 से विभाज्य है।"
+            }
+        },
+        {
+            "id": "divisibility_by_5_and_10",
+            "title": {
+                "en": "6. Divisibility Rule for 5 and 10",
+                "hi": "6. 5 और 10 की विभाज्यता का नियम"
+            },
+            "icon": "🔟",
+            "rule": {
+                "en": "If a number ends in 0 or 5, it is divisible by 5. If it ends ONLY in 0, it is divisible by 10.",
+                "hi": "यदि कोई संख्या 0 या 5 पर समाप्त होती है, तो वह 5 से विभाज्य है। यदि वह केवल 0 पर समाप्त होती है, तो वह 10 से विभाज्य है।"
+            },
+            "visual_example": {
+                "en": "📝 Number: 845 \n🔹 Ends in 5? Yes ➡️ Divisible by 5. \n🔹 Ends in 0? No ➡️ Not divisible by 10.",
+                "hi": "📝 संख्या: 845 \n🔹 अंत में 5 है? हाँ ➡️ 5 से विभाज्य है। \n🔹 अंत में 0 है? नहीं ➡️ 10 से विभाज्य नहीं है।"
+            }
+        },
+        {
+            "id": "divisibility_by_6",
+            "title": {
+                "en": "7. Divisibility Rule for 6",
+                "hi": "7. 6 की विभाज्यता का नियम"
+            },
+            "icon": "6️⃣",
+            "rule": {
+                "en": "For a number to be divisible by 6, it must pass TWO tests: It must be an Even number (ends in 0,2,4,6,8) AND the sum of its digits must be divisible by 3.",
+                "hi": "6 से विभाज्य होने के लिए, संख्या को दो परीक्षण पास करने होंगे: यह एक सम संख्या (अंत में 0,2,4,6,8) होनी चाहिए और अंकों का योग 3 से विभाज्य होना चाहिए।"
+            },
+            "visual_example": {
+                "en": "📝 Is 234 divisible by 6? \n🔹 Test 1: Is it even? Yes (ends in 4). \n🔹 Test 2: Sum ➡️ 2+3+4 = 9 (Divisible by 3). \n✅ Answer: Yes, it passes both!",
+                "hi": "📝 क्या 234, 6 से विभाज्य है? \n🔹 टेस्ट 1: क्या यह सम है? हाँ (अंत में 4 है)। \n🔹 टेस्ट 2: योग ➡️ 2+3+4 = 9 (3 से विभाज्य है)। \n✅ उत्तर: हाँ, यह दोनों टेस्ट पास करता है!"
+            }
+        },
+        {
+            "id": "divisibility_by_9",
+            "title": {
+                "en": "8. Divisibility Rule for 9",
+                "hi": "8. 9 की विभाज्यता का नियम"
+            },
+            "icon": "9️⃣",
+            "rule": {
+                "en": "Just like the rule for 3, add all the digits together. If the sum can be divided by 9, the number is divisible by 9.",
+                "hi": "3 के नियम की तरह ही, सभी अंकों को आपस में जोड़ें। यदि योग 9 से भाग हो सकता है, तो संख्या 9 से विभाज्य है।"
+            },
+            "visual_example": {
+                "en": "📝 Is 7,893 divisible by 9? \n🔹 Step 1: Add digits ➡️ 7 + 8 + 9 + 3 = 27 \n🔹 Step 2: Can 27 be divided by 9? Yes! \n✅ Answer: 7,893 is divisible by 9.",
+                "hi": "📝 क्या 7,893, 9 से विभाज्य है? \n🔹 चरण 1: अंक जोड़ें ➡️ 7 + 8 + 9 + 3 = 27 \n🔹 चरण 2: क्या 27 को 9 से भाग दिया जा सकता है? हाँ! \n✅ उत्तर: 7,893, 9 से विभाज्य है।"
+            }
+        },
+        {
+            "id": "divisibility_by_11",
+            "title": {
+                "en": "9. Divisibility Rule for 11",
+                "hi": "9. 11 की विभाज्यता का नियम"
+            },
+            "icon": "🛤️",
+            "rule": {
+                "en": "Add alternate digits (1st, 3rd, 5th...). Then add the remaining alternate digits (2nd, 4th...). Subtract the two sums. If the answer is 0 or 11, it is divisible by 11.",
+                "hi": "एकान्तर (alternate) अंकों को जोड़ें (पहला, तीसरा...)। फिर बचे हुए अंकों को जोड़ें (दूसरा, चौथा...)। दोनों योगों को घटाएं। यदि उत्तर 0 या 11 है, तो यह 11 से विभाज्य है।"
+            },
+            "visual_example": {
+                "en": "📝 Is 2,728 divisible by 11? \n🔹 Sum 1: 2 + 2 = 4 \n🔹 Sum 2: 7 + 8 = 15 \n🔹 Difference: 15 - 4 = 11 \n✅ Answer: Yes, because difference is 11.",
+                "hi": "📝 क्या 2,728, 11 से विभाज्य है? \n🔹 योग 1: 2 + 2 = 4 \n🔹 योग 2: 7 + 8 = 15 \n🔹 अंतर: 15 - 4 = 11 \n✅ उत्तर: हाँ, क्योंकि अंतर 11 है।"
+            }
+        },
+        {
+            "id": "cancel_zeros_division",
+            "title": {
+                "en": "10. Canceling Zeros Trick",
+                "hi": "10. शून्य (Zeros) हटाने का ट्रिक"
+            },
+            "icon": "✂️",
+            "rule": {
+                "en": "When dividing large numbers ending in zeros, cross out the exact same number of zeros from both numbers before dividing.",
+                "hi": "जब शून्य पर समाप्त होने वाली बड़ी संख्याओं को भाग देना हो, तो भाग देने से पहले दोनों संख्याओं से समान संख्या में शून्य काट दें।"
+            },
+            "visual_example": {
+                "en": "📝 24,000 ÷ 600 = ? \n🔹 Step 1: Cross out two zeros from both ➡️ 240 ÷ 6 \n🔹 Step 2: Divide normally ➡️ 24 ÷ 6 = 4 \n✅ Answer: 40",
+                "hi": "📝 24,000 ÷ 600 = ? \n🔹 चरण 1: दोनों में से दो शून्य काटें ➡️ 240 ÷ 6 \n🔹 चरण 2: सामान्य रूप से भाग दें ➡️ 24 ÷ 6 = 4 \n✅ उत्तर: 40"
+            }
+        }
+    ]
+}

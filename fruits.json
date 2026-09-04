@@ -1,0 +1,354 @@
+{
+    "fruits": [
+        {
+            "id": "mango",
+            "name": {
+                "en": "Mango",
+                "hi": "आम"
+            },
+            "icon": "🥭",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg",
+            "scientific_name": "Mangifera indica",
+            "category": {
+                "en": "National Fruit of India",
+                "hi": "भारत का राष्ट्रीय फल"
+            }
+        },
+        {
+            "id": "apple",
+            "name": {
+                "en": "Apple",
+                "hi": "सेब"
+            },
+            "icon": "🍎",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+            "scientific_name": "Malus domestica",
+            "category": {
+                "en": "Rich in fiber and vitamin C",
+                "hi": "फाइबर और विटामिन सी से भरपूर"
+            }
+        },
+        {
+            "id": "banana",
+            "name": {
+                "en": "Banana",
+                "hi": "केला"
+            },
+            "icon": "🍌",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+            "scientific_name": "Musa",
+            "category": {
+                "en": "High in potassium and energy",
+                "hi": "पोटैशियम और ऊर्जा का मुख्य स्रोत"
+            }
+        },
+        {
+            "id": "orange",
+            "name": {
+                "en": "Orange",
+                "hi": "संतरा"
+            },
+            "icon": "🍊",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg",
+            "scientific_name": "Citrus sinensis",
+            "category": {
+                "en": "Citrus fruit rich in vitamin C",
+                "hi": "विटामिन सी से भरपूर खट्टा फल"
+            }
+        },
+        {
+            "id": "grapes",
+            "name": {
+                "en": "Grapes",
+                "hi": "अंगूर"
+            },
+            "icon": "🍇",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Table_grapes_on_white.jpg",
+            "scientific_name": "Vitis vinifera",
+            "category": {
+                "en": "Grows in bunches, used to make raisins",
+                "hi": "गुच्छों में उगता है, किशमिश बनाने के काम आता है"
+            }
+        },
+        {
+            "id": "watermelon",
+            "name": {
+                "en": "Watermelon",
+                "hi": "तरबूज"
+            },
+            "icon": "🍉",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Watermelon_cross_BNC.jpg",
+            "scientific_name": "Citrullus lanatus",
+            "category": {
+                "en": "Contains around 92% water",
+                "hi": "इसमें लगभग 92% पानी होता है"
+            }
+        },
+        {
+            "id": "pomegranate",
+            "name": {
+                "en": "Pomegranate",
+                "hi": "अनार"
+            },
+            "icon": "🔴",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pomegranate02_edit.jpg",
+            "scientific_name": "Punica granatum",
+            "category": {
+                "en": "Filled with juicy edible red seeds",
+                "hi": "रसीले लाल दानों से भरपूर फल"
+            }
+        },
+        {
+            "id": "pineapple",
+            "name": {
+                "en": "Pineapple",
+                "hi": "अनानास"
+            },
+            "icon": "🍍",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg",
+            "scientific_name": "Ananas comosus",
+            "category": {
+                "en": "Tropical fruit with sweet and tangy taste",
+                "hi": "खट्टे-मीठे स्वाद वाला उष्णकटिबंधीय फल"
+            }
+        },
+        {
+            "id": "papaya",
+            "name": {
+                "en": "Papaya",
+                "hi": "पपीता"
+            },
+            "icon": "🍈",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Papaya_cross_section_BNC.jpg",
+            "scientific_name": "Carica papaya",
+            "category": {
+                "en": "Good for digestion, contains papain",
+                "hi": "पाचन के लिए अच्छा, पपेन एंजाइम होता है"
+            }
+        },
+        {
+            "id": "guava",
+            "name": {
+                "en": "Guava",
+                "hi": "अमरूद"
+            },
+            "icon": "🍐",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Guava_ID.jpg",
+            "scientific_name": "Psidium guajava",
+            "category": {
+                "en": "Very high in Vitamin C and dietary fiber",
+                "hi": "विटामिन सी और फाइबर की भरपूर मात्रा"
+            }
+        },
+        {
+            "id": "strawberry",
+            "name": {
+                "en": "Strawberry",
+                "hi": "स्ट्रॉबेरी"
+            },
+            "icon": "🍓",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg",
+            "scientific_name": "Fragaria × ananassa",
+            "category": {
+                "en": "Seeds are on the outside",
+                "hi": "इसके बीज फल के बाहर होते हैं"
+            }
+        },
+        {
+            "id": "kiwi",
+            "name": {
+                "en": "Kiwi",
+                "hi": "कीवी"
+            },
+            "icon": "🥝",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+            "scientific_name": "Actinidia deliciosa",
+            "category": {
+                "en": "Fuzzy brown outside, bright green inside",
+                "hi": "बाहर से भूरा और अंदर से हरा होता है"
+            }
+        },
+        {
+            "id": "cherry",
+            "name": {
+                "en": "Cherry",
+                "hi": "चेरी"
+            },
+            "icon": "🍒",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg",
+            "scientific_name": "Prunus avium",
+            "category": {
+                "en": "Small, round, and dark red stone fruit",
+                "hi": "छोटा, गोल और गहरे लाल रंग का फल"
+            }
+        },
+        {
+            "id": "pear",
+            "name": {
+                "en": "Pear",
+                "hi": "नाशपाती"
+            },
+            "icon": "🍐",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pears.jpg",
+            "scientific_name": "Pyrus",
+            "category": {
+                "en": "Bell-shaped and sweet",
+                "hi": "घंटी के आकार का मीठा फल"
+            }
+        },
+        {
+            "id": "peach",
+            "name": {
+                "en": "Peach",
+                "hi": "आड़ू"
+            },
+            "icon": "🍑",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Autumn_Red_peaches.jpg",
+            "scientific_name": "Prunus persica",
+            "category": {
+                "en": "Fuzzy skin with a large pit inside",
+                "hi": "रोएंदार छिलका और अंदर एक बड़ी गुठली"
+            }
+        },
+        {
+            "id": "lemon",
+            "name": {
+                "en": "Lemon",
+                "hi": "नींबू"
+            },
+            "icon": "🍋",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lemon.jpg",
+            "scientific_name": "Citrus limon",
+            "category": {
+                "en": "Very sour citrus fruit",
+                "hi": "बहुत खट्टा खट्टे फल (सिट्रस)"
+            }
+        },
+        {
+            "id": "coconut",
+            "name": {
+                "en": "Coconut",
+                "hi": "नारियल"
+            },
+            "icon": "🥥",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Coconuts_-_single_and_cracked_open.jpg",
+            "scientific_name": "Cocos nucifera",
+            "category": {
+                "en": "Provides water, milk, and oil",
+                "hi": "इससे पानी, दूध और तेल मिलता है"
+            }
+        },
+        {
+            "id": "muskmelon",
+            "name": {
+                "en": "Muskmelon",
+                "hi": "खरबूजा"
+            },
+            "icon": "🍈",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cantaloupe_and_cross_section.jpg",
+            "scientific_name": "Cucumis melo",
+            "category": {
+                "en": "Sweet summer fruit with a net-like skin",
+                "hi": "जाल जैसी त्वचा वाला मीठा गर्मी का फल"
+            }
+        },
+        {
+            "id": "lychee",
+            "name": {
+                "en": "Lychee",
+                "hi": "लीची"
+            },
+            "icon": "🔴",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Litchi_chinensis_Luc_Viatour.jpg",
+            "scientific_name": "Litchi chinensis",
+            "category": {
+                "en": "Rough pink exterior, sweet white flesh",
+                "hi": "बाहर से खुरदुरा गुलाबी, अंदर मीठा सफेद गूदा"
+            }
+        },
+        {
+            "id": "jackfruit",
+            "name": {
+                "en": "Jackfruit",
+                "hi": "कटहल"
+            },
+            "icon": "🍈",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jackfruit_hanging.JPG",
+            "scientific_name": "Artocarpus heterophyllus",
+            "category": {
+                "en": "Largest tree-borne fruit in the world",
+                "hi": "दुनिया का सबसे बड़ा पेड़ पर लगने वाला फल"
+            }
+        },
+        {
+            "id": "dragon_fruit",
+            "name": {
+                "en": "Dragon Fruit",
+                "hi": "ड्रैगन फ्रूट"
+            },
+            "icon": "🐉",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Pitaya_cross_section_ed2.jpg",
+            "scientific_name": "Hylocereus undatus",
+            "category": {
+                "en": "Cactus fruit with pink skin and green scales",
+                "hi": "गुलाबी छिलके और हरे कांटों वाला कैक्टस फल"
+            }
+        },
+        {
+            "id": "custard_apple",
+            "name": {
+                "en": "Custard Apple",
+                "hi": "शरीफा / सीताफल"
+            },
+            "icon": "🍏",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Annona_squamosa_fruit.jpg",
+            "scientific_name": "Annona squamosa",
+            "category": {
+                "en": "Creamy sweet flesh with many black seeds",
+                "hi": "कई काले बीजों वाला मलाईदार मीठा गूदा"
+            }
+        },
+        {
+            "id": "plum",
+            "name": {
+                "en": "Plum",
+                "hi": "आलूबुखारा / बेर"
+            },
+            "icon": "🍑",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Plum_on_tree.jpg",
+            "scientific_name": "Prunus domestica",
+            "category": {
+                "en": "Sweet-tart fruit, dried plums are called prunes",
+                "hi": "खट्टा-मीठा फल, सूखे आलूबुखारे को प्रून कहते हैं"
+            }
+        },
+        {
+            "id": "avocado",
+            "name": {
+                "en": "Avocado",
+                "hi": "एवोकैडो / मक्खन फल"
+            },
+            "icon": "🥑",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Avocado_with_cross_section_edit.jpg",
+            "scientific_name": "Persea americana",
+            "category": {
+                "en": "Rich in healthy fats",
+                "hi": "स्वस्थ वसा (हेल्दी फैट्स) से भरपूर"
+            }
+        },
+        {
+            "id": "blueberry",
+            "name": {
+                "en": "Blueberry",
+                "hi": "ब्लूबेरी"
+            },
+            "icon": "🫐",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Blueberries.jpg",
+            "scientific_name": "Vaccinium sect. Cyanococcus",
+            "category": {
+                "en": "Small blue berries rich in antioxidants",
+                "hi": "एंटीऑक्सीडेंट से भरपूर छोटे नीले जामुन"
+            }
+        }
+    ]
+}

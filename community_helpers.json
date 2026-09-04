@@ -1,0 +1,184 @@
+{
+    "community_helpers": [
+        {
+            "id": "teacher",
+            "name": {
+                "en": "Teacher",
+                "hi": "शिक्षक / अध्यापक"
+            },
+            "icon": "👨‍🏫",
+            "fact": {
+                "en": "Helps students learn new things, read, write, and gain knowledge at school.",
+                "hi": "स्कूल में छात्रों को नई चीजें सीखने, पढ़ने, लिखने और ज्ञान प्राप्त करने में मदद करते हैं।"
+            }
+        },
+        {
+            "id": "doctor",
+            "name": {
+                "en": "Doctor",
+                "hi": "डॉक्टर / चिकित्सक"
+            },
+            "icon": "🧑‍⚕️",
+            "fact": {
+                "en": "Diagnoses illnesses and gives medicine to help sick or injured people feel better.",
+                "hi": "बीमारियों की पहचान करते हैं और बीमार या घायल लोगों को ठीक करने के लिए दवा देते हैं।"
+            }
+        },
+        {
+            "id": "nurse",
+            "name": {
+                "en": "Nurse",
+                "hi": "नर्स / परिचारिका"
+            },
+            "icon": "👩‍⚕️",
+            "fact": {
+                "en": "Works in hospitals to care for patients and helps doctors do their jobs.",
+                "hi": "अस्पतालों में मरीजों की देखभाल करती हैं और डॉक्टरों को उनके काम में मदद करती हैं।"
+            }
+        },
+        {
+            "id": "farmer",
+            "name": {
+                "en": "Farmer",
+                "hi": "किसान"
+            },
+            "icon": "🧑‍🌾",
+            "fact": {
+                "en": "Works hard in the fields to grow crops, vegetables, and fruits for us to eat.",
+                "hi": "हमारे खाने के लिए फसलें, सब्जियां और फल उगाने के लिए खेतों में कड़ी मेहनत करते हैं।"
+            }
+        },
+        {
+            "id": "police_officer",
+            "name": {
+                "en": "Police Officer",
+                "hi": "पुलिस अधिकारी"
+            },
+            "icon": "👮",
+            "fact": {
+                "en": "Protects the community, stops crime, and makes sure everyone follows the law.",
+                "hi": "समुदाय की रक्षा करते हैं, अपराध रोकते हैं और सुनिश्चित करते हैं कि हर कोई कानून का पालन करे।"
+            }
+        },
+        {
+            "id": "firefighter",
+            "name": {
+                "en": "Firefighter",
+                "hi": "दमकलकर्मी (फायरफाइटर)"
+            },
+            "icon": "🧑‍🚒",
+            "fact": {
+                "en": "Drives a big red truck and bravely puts out dangerous fires to save people.",
+                "hi": "एक बड़ा लाल ट्रक चलाते हैं और लोगों को बचाने के लिए बहादुरी से खतरनाक आग बुझाते हैं।"
+            }
+        },
+        {
+            "id": "soldier",
+            "name": {
+                "en": "Soldier",
+                "hi": "सैनिक / फौजी"
+            },
+            "icon": "🪖",
+            "fact": {
+                "en": "Serves in the army to protect our country's borders and keep the nation safe.",
+                "hi": "हमारे देश की सीमाओं की रक्षा करने और राष्ट्र को सुरक्षित रखने के लिए सेना में सेवा करते हैं।"
+            }
+        },
+        {
+            "id": "postman",
+            "name": {
+                "en": "Postman",
+                "hi": "डाकिया"
+            },
+            "icon": "📮",
+            "fact": {
+                "en": "Delivers important letters, bills, and packages right to our homes.",
+                "hi": "महत्वपूर्ण चिट्ठियां, बिल और पार्सल सीधे हमारे घरों तक पहुंचाते हैं।"
+            }
+        },
+        {
+            "id": "scientist",
+            "name": {
+                "en": "Scientist",
+                "hi": "वैज्ञानिक"
+            },
+            "icon": "🧑‍🔬",
+            "fact": {
+                "en": "Does experiments in a lab to discover new things and invent new technologies.",
+                "hi": "नई चीजों की खोज करने और नई तकनीकों का आविष्कार करने के लिए लैब में प्रयोग करते हैं।"
+            }
+        },
+        {
+            "id": "chef",
+            "name": {
+                "en": "Chef / Cook",
+                "hi": "रसोइया (शेफ)"
+            },
+            "icon": "🧑‍🍳",
+            "fact": {
+                "en": "Prepares and cooks delicious and safe food for people in restaurants.",
+                "hi": "रेस्तरां में लोगों के लिए स्वादिष्ट और सुरक्षित भोजन तैयार करते हैं और पकाते हैं।"
+            }
+        },
+        {
+            "id": "mechanic",
+            "name": {
+                "en": "Mechanic",
+                "hi": "मैकेनिक"
+            },
+            "icon": "🧑‍🔧",
+            "fact": {
+                "en": "Uses tools to fix cars, bikes, and other machines when they break down.",
+                "hi": "खराब होने पर कारों, बाइकों और अन्य मशीनों को ठीक करने के लिए औजारों का उपयोग करते हैं।"
+            }
+        },
+        {
+            "id": "plumber",
+            "name": {
+                "en": "Plumber",
+                "hi": "प्लंबर"
+            },
+            "icon": "🪠",
+            "fact": {
+                "en": "Repairs broken water pipes, taps, and toilets so we always have clean water.",
+                "hi": "टूटे हुए पानी के पाइप, नल और शौचालय की मरम्मत करते हैं ताकि हमें हमेशा साफ पानी मिल सके।"
+            }
+        },
+        {
+            "id": "electrician",
+            "name": {
+                "en": "Electrician",
+                "hi": "बिजली मिस्त्री (इलेक्ट्रीशियन)"
+            },
+            "icon": "💡",
+            "fact": {
+                "en": "Safely installs and fixes wires, fans, and lights so our homes have electricity.",
+                "hi": "सुरक्षित रूप से तार, पंखे और लाइट लगाते हैं और ठीक करते हैं ताकि हमारे घरों में बिजली रहे।"
+            }
+        },
+        {
+            "id": "pilot",
+            "name": {
+                "en": "Pilot",
+                "hi": "पायलट"
+            },
+            "icon": "🧑‍✈️",
+            "fact": {
+                "en": "Flies airplanes safely through the sky to take passengers to different cities or countries.",
+                "hi": "यात्रियों को विभिन्न शहरों या देशों में ले जाने के लिए आसमान में सुरक्षित रूप से हवाई जहाज उड़ाते हैं।"
+            }
+        },
+        {
+            "id": "cleaner",
+            "name": {
+                "en": "Sanitation Worker",
+                "hi": "सफाई कर्मचारी"
+            },
+            "icon": "🧹",
+            "fact": {
+                "en": "Works hard to collect trash and keep our streets, schools, and cities clean and healthy.",
+                "hi": "कचरा इकट्ठा करने और हमारी सड़कों, स्कूलों और शहरों को साफ और स्वस्थ रखने के लिए कड़ी मेहनत करते हैं।"
+            }
+        }
+    ]
+}

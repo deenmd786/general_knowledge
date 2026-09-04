@@ -1,0 +1,180 @@
+{
+    "solar_system": [
+        {
+            "id": "sun",
+            "name": {
+                "en": "Sun",
+                "hi": "सूर्य (सूरज)"
+            },
+            "type": {
+                "en": "Star",
+                "hi": "तारा"
+            },
+            "icon": "☀️",
+            "fact": {
+                "en": "The Sun is a huge ball of hot glowing gases at the center of our solar system.",
+                "hi": "सूर्य हमारे सौर मंडल के केंद्र में गर्म चमकती गैसों का एक विशाल गोला है।"
+            }
+        },
+        {
+            "id": "mercury",
+            "name": {
+                "en": "Mercury",
+                "hi": "बुध"
+            },
+            "type": {
+                "en": "Planet (1st from Sun)",
+                "hi": "ग्रह (सूर्य से पहला)"
+            },
+            "icon": "🪨",
+            "fact": {
+                "en": "The smallest and closest planet to the Sun.",
+                "hi": "यह सूर्य के सबसे करीब और सौर मंडल का सबसे छोटा ग्रह है।"
+            }
+        },
+        {
+            "id": "venus",
+            "name": {
+                "en": "Venus",
+                "hi": "शुक्र"
+            },
+            "type": {
+                "en": "Planet (2nd from Sun)",
+                "hi": "ग्रह (सूर्य से दूसरा)"
+            },
+            "icon": "🌕",
+            "fact": {
+                "en": "The hottest planet in our solar system, also known as the Morning or Evening Star.",
+                "hi": "यह हमारे सौर मंडल का सबसे गर्म ग्रह है, जिसे भोर या सांझ का तारा भी कहा जाता है।"
+            }
+        },
+        {
+            "id": "earth",
+            "name": {
+                "en": "Earth",
+                "hi": "पृथ्वी"
+            },
+            "type": {
+                "en": "Planet (3rd from Sun)",
+                "hi": "ग्रह (सूर्य से तीसरा)"
+            },
+            "icon": "🌍",
+            "fact": {
+                "en": "The only planet known to support life and has liquid water on its surface.",
+                "hi": "यह एकमात्र ऐसा ग्रह है जहाँ जीवन है और इसकी सतह पर तरल पानी मौजूद है।"
+            }
+        },
+        {
+            "id": "moon",
+            "name": {
+                "en": "Moon",
+                "hi": "चंद्रमा (चाँद)"
+            },
+            "type": {
+                "en": "Natural Satellite",
+                "hi": "प्राकृतिक उपग्रह"
+            },
+            "icon": "🌙",
+            "fact": {
+                "en": "Earth's only natural satellite. It controls the ocean tides.",
+                "hi": "यह पृथ्वी का एकमात्र प्राकृतिक उपग्रह है। यह समुद्र के ज्वार-भाटे को नियंत्रित करता है।"
+            }
+        },
+        {
+            "id": "mars",
+            "name": {
+                "en": "Mars",
+                "hi": "मंगल"
+            },
+            "type": {
+                "en": "Planet (4th from Sun)",
+                "hi": "ग्रह (सूर्य से चौथा)"
+            },
+            "icon": "🔴",
+            "fact": {
+                "en": "Known as the Red Planet because of the iron oxide (rust) on its surface.",
+                "hi": "इसकी सतह पर मौजूद आयरन ऑक्साइड (जंग) के कारण इसे लाल ग्रह कहा जाता है।"
+            }
+        },
+        {
+            "id": "jupiter",
+            "name": {
+                "en": "Jupiter",
+                "hi": "बृहस्पति (गुरु)"
+            },
+            "type": {
+                "en": "Planet (5th from Sun)",
+                "hi": "ग्रह (सूर्य से पांचवां)"
+            },
+            "icon": "🟠",
+            "fact": {
+                "en": "The largest planet in the solar system, known for its Great Red Spot (a giant storm).",
+                "hi": "यह सौर मंडल का सबसे बड़ा ग्रह है, जो अपने 'ग्रेट रेड स्पॉट' (एक विशाल तूफान) के लिए जाना जाता है।"
+            }
+        },
+        {
+            "id": "saturn",
+            "name": {
+                "en": "Saturn",
+                "hi": "शनि"
+            },
+            "type": {
+                "en": "Planet (6th from Sun)",
+                "hi": "ग्रह (सूर्य से छठा)"
+            },
+            "icon": "🪐",
+            "fact": {
+                "en": "Famous for its beautiful and bright rings made of ice and rock.",
+                "hi": "यह बर्फ और चट्टानों से बने अपने सुंदर और चमकीले छल्लों (रिंग्स) के लिए प्रसिद्ध है।"
+            }
+        },
+        {
+            "id": "uranus",
+            "name": {
+                "en": "Uranus",
+                "hi": "अरुण"
+            },
+            "type": {
+                "en": "Planet (7th from Sun)",
+                "hi": "ग्रह (सूर्य से सातवां)"
+            },
+            "icon": "🧊",
+            "fact": {
+                "en": "An ice giant that spins completely on its side.",
+                "hi": "यह एक बर्फीला दानव ग्रह है जो अपनी धुरी पर पूरी तरह से लेटा हुआ घूमता है।"
+            }
+        },
+        {
+            "id": "neptune",
+            "name": {
+                "en": "Neptune",
+                "hi": "वरुण"
+            },
+            "type": {
+                "en": "Planet (8th from Sun)",
+                "hi": "ग्रह (सूर्य से आठवां)"
+            },
+            "icon": "🔵",
+            "fact": {
+                "en": "The farthest planet from the Sun, known for its strong freezing winds.",
+                "hi": "यह सूर्य से सबसे दूर स्थित ग्रह है, जो अपनी तेज़ ठंडी हवाओं के लिए जाना जाता है।"
+            }
+        },
+        {
+            "id": "pluto",
+            "name": {
+                "en": "Pluto",
+                "hi": "यम (प्लूटो)"
+            },
+            "type": {
+                "en": "Dwarf Planet",
+                "hi": "बौना ग्रह"
+            },
+            "icon": "❄️",
+            "fact": {
+                "en": "Once considered the 9th planet, it is now classified as a dwarf planet.",
+                "hi": "इसे कभी 9वां ग्रह माना जाता था, लेकिन अब इसे बौने ग्रह के रूप में वर्गीकृत किया गया है।"
+            }
+        }
+    ]
+}

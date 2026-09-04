@@ -1,0 +1,134 @@
+{
+    "civic_sense": [
+        {
+            "id": "cleanliness",
+            "title": {
+                "en": "Keep Surroundings Clean",
+                "hi": "आसपास साफ-सफाई रखें"
+            },
+            "icon": "🗑️",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Keep_tidy.svg",
+            "lesson": {
+                "en": "Always throw garbage in the dustbin. A clean environment keeps everyone healthy and beautiful.",
+                "hi": "हमेशा कूड़ा कूड़ेदान में ही डालें। स्वच्छ वातावरण सबको स्वस्थ और सुंदर रखता है।"
+            }
+        },
+        {
+            "id": "national_respect",
+            "title": {
+                "en": "Respect the National Flag and Anthem",
+                "hi": "राष्ट्रीय ध्वज और राष्ट्रगान का सम्मान करें"
+            },
+            "icon": "🇮🇳",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+            "lesson": {
+                "en": "Always stand straight and still when the National Anthem is playing. Treat the Tricolor with pride.",
+                "hi": "राष्ट्रगान बजते समय हमेशा सीधे और शांत खड़े रहें। तिरंगे का पूरे गर्व के साथ सम्मान करें।"
+            }
+        },
+        {
+            "id": "save_water",
+            "title": {
+                "en": "Save Water",
+                "hi": "पानी बचाएं"
+            },
+            "icon": "💧",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Water_Drop.jpg",
+            "lesson": {
+                "en": "Turn off the tap while brushing your teeth. Every single drop of water is precious for our planet.",
+                "hi": "ब्रश करते समय नल बंद रखें। हमारी पृथ्वी के लिए पानी की एक-एक बूंद बहुत कीमती है।"
+            }
+        },
+        {
+            "id": "plant_trees",
+            "title": {
+                "en": "Plant and Protect Trees",
+                "hi": "पेड़ लगाएं और उनकी रक्षा करें"
+            },
+            "icon": "🌱",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tree_planting_icon.svg",
+            "lesson": {
+                "en": "Trees give us oxygen, shade, and fruits. Never pluck leaves or flowers unnecessarily.",
+                "hi": "पेड़ हमें ऑक्सीजन, छाया और फल देते हैं। कभी भी बिना वजह पत्ते या फूल न तोड़ें।"
+            }
+        },
+        {
+            "id": "traffic_rules",
+            "title": {
+                "en": "Follow Traffic Rules",
+                "hi": "यातायात नियमों का पालन करें"
+            },
+            "icon": "🚦",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Traffic_lights_3_states.png",
+            "lesson": {
+                "en": "Always cross the road at the zebra crossing and wait for the green signal. It keeps everyone safe.",
+                "hi": "हमेशा ज़ेबरा क्रॉसिंग से ही सड़क पार करें और हरे सिग्नल का इंतज़ार करें। इससे सब सुरक्षित रहते हैं।"
+            }
+        },
+        {
+            "id": "queue_system",
+            "title": {
+                "en": "Stand in a Queue",
+                "hi": "कतार (लाइन) में खड़े रहें"
+            },
+            "icon": "🧍🧍‍♀️",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Waiting_in_line.svg",
+            "lesson": {
+                "en": "Wait for your turn patiently whether at school, boarding a bus, or buying a ticket. Do not push others.",
+                "hi": "चाहे स्कूल हो, बस में चढ़ना हो या टिकट खरीदना हो, अपनी बारी का धैर्यपूर्वक इंतज़ार करें। दूसरों को धक्का न दें।"
+            }
+        },
+        {
+            "id": "save_electricity",
+            "title": {
+                "en": "Save Electricity",
+                "hi": "बिजली बचाएं"
+            },
+            "icon": "💡",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Light_bulb_icon.svg",
+            "lesson": {
+                "en": "Turn off the lights and fans when you leave a room. Saving energy helps protect our Earth.",
+                "hi": "कमरे से बाहर जाते समय लाइट और पंखे बंद कर दें। ऊर्जा बचाने से हमारी पृथ्वी की रक्षा होती है।"
+            }
+        },
+        {
+            "id": "public_property",
+            "title": {
+                "en": "Protect Public Property",
+                "hi": "सार्वजनिक संपत्ति की रक्षा करें"
+            },
+            "icon": "🚌",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Train_icon.svg",
+            "lesson": {
+                "en": "Do not write on walls, desks, or damage buses and trains. They belong to all of us.",
+                "hi": "दीवारों या डेस्क पर न लिखें और बसों या ट्रेनों को नुकसान न पहुँचाएं। ये हम सबकी संपत्ति हैं।"
+            }
+        },
+        {
+            "id": "animal_kindness",
+            "title": {
+                "en": "Be Kind to Animals",
+                "hi": "जानवरों के प्रति दयालु रहें"
+            },
+            "icon": "🐕",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Dog_icon.svg",
+            "lesson": {
+                "en": "Do not throw stones or tease street animals. Offer them water and treat them with love.",
+                "hi": "सड़क के जानवरों को पत्थर न मारें या चिढ़ाएं नहीं। उन्हें पानी दें और प्यार से पेश आएं।"
+            }
+        },
+        {
+            "id": "respect_elders",
+            "title": {
+                "en": "Respect Elders and Help Others",
+                "hi": "बड़ों का सम्मान करें और दूसरों की मदद करें"
+            },
+            "icon": "🤝",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Handshake_icon.svg",
+            "lesson": {
+                "en": "Always speak politely. Offer your seat to elderly or disabled people in public transport.",
+                "hi": "हमेशा विनम्रता से बोलें। सार्वजनिक परिवहन में बुजुर्गों या विकलांग लोगों को अपनी सीट दें।"
+            }
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "category": {
+        "en": "Cubes & Cube Roots Tricks",
+        "hi": "घन और घनमूल के ट्रिक्स (Cubes & Cube Roots)"
+    },
+    "tricks": [
+        {
+            "id": "last_digit_magic",
+            "title": {
+                "en": "1. The Magic of Last Digits",
+                "hi": "1. अंतिम अंकों का जादू"
+            },
+            "icon": "🪄",
+            "rule": {
+                "en": "Perfect cubes ending in 1, 4, 5, 6, 9, 0 have cube roots ending in the same digit. For 2 & 8, they swap (2 ends in 8, 8 ends in 2). For 3 & 7, they swap too!",
+                "hi": "1, 4, 5, 6, 9, 0 पर समाप्त होने वाले पूर्ण घनों का घनमूल उसी अंक पर समाप्त होता है। 2 और 8 के लिए, वे आपस में बदल जाते हैं (2 का 8, 8 का 2)। 3 और 7 भी आपस में बदल जाते हैं!"
+            },
+            "visual_example": {
+                "en": "📝 Cube ends in 2 ➡️ Root ends in 8 \n📝 Cube ends in 7 ➡️ Root ends in 3 \n📝 Cube ends in 4 ➡️ Root ends in 4",
+                "hi": "📝 घन के अंत में 2 ➡️ मूल के अंत में 8 \n📝 घन के अंत में 7 ➡️ मूल के अंत में 3 \n📝 घन के अंत में 4 ➡️ मूल के अंत में 4"
+            }
+        },
+        {
+            "id": "fast_cube_root",
+            "title": {
+                "en": "2. Find Cube Root in 3 Seconds",
+                "hi": "2. 3 सेकंड में घनमूल ज्ञात करें"
+            },
+            "icon": "⏱️",
+            "rule": {
+                "en": "Look at the last digit to find the unit digit of your answer. Then ignore the last 3 digits. Find the closest perfect cube smaller than the remaining number.",
+                "hi": "अपने उत्तर का इकाई अंक खोजने के लिए अंतिम अंक देखें। फिर अंतिम 3 अंकों को छोड़ दें। बची हुई संख्या से छोटा निकटतम पूर्ण घन खोजें।"
+            },
+            "visual_example": {
+                "en": "📝 ³√17576 = ? \n🔹 Step 1: Ends in 6 ➡️ Answer ends in 6 \n🔹 Step 2: Ignore '576'. Remaining is 17 \n🔹 Step 3: 2³ (8) is smaller than 17, 3³ (27) is bigger. So take 2! \n✅ Answer: 26",
+                "hi": "📝 ³√17576 = ? \n🔹 चरण 1: अंत में 6 है ➡️ उत्तर 6 पर समाप्त होगा \n🔹 चरण 2: '576' को छोड़ दें। 17 बचा \n🔹 चरण 3: 2³ (8), 17 से छोटा है, 3³ (27) बड़ा है। इसलिए 2 लें! \n✅ उत्तर: 26"
+            }
+        },
+        {
+            "id": "cube_starting_with_1",
+            "title": {
+                "en": "3. Cubes of Numbers Starting with 1 (11 to 19)",
+                "hi": "3. 1 से शुरू होने वाली संख्याओं का घन (11 से 19)"
+            },
+            "icon": "🚀",
+            "rule": {
+                "en": "Write: 1, (digit), (digit squared), (digit cubed). Double the two middle numbers and add them straight down.",
+                "hi": "लिखें: 1, (अंक), (अंक का वर्ग), (अंक का घन)। बीच की दो संख्याओं को दोगुना करें और उन्हें सीधे नीचे जोड़ें।"
+            },
+            "visual_example": {
+                "en": "📝 12³ = ? (Digit is 2) \n🔹 Line 1: 1 | 2 | 4 | 8 \n🔹 Line 2: _ | 4 | 8 | _ (Doubled middle numbers) \n🔹 Add: 1 | 6 | 12 | 8 (Carry over 1 from 12) \n✅ Answer: 1728",
+                "hi": "📝 12³ = ? (अंक 2 है) \n🔹 लाइन 1: 1 | 2 | 4 | 8 \n🔹 लाइन 2: _ | 4 | 8 | _ (बीच की संख्याएँ दोगुनी कीं) \n🔹 जोड़ें: 1 | 6 | 12 | 8 (12 में से 1 आगे जोड़ें) \n✅ उत्तर: 1728"
+            }
+        },
+        {
+            "id": "cube_ending_with_1",
+            "title": {
+                "en": "4. Cubes of Numbers Ending with 1 (21, 31, 41...)",
+                "hi": "4. 1 पर समाप्त होने वाली संख्याओं का घन (21, 31, 41...)"
+            },
+            "icon": "🎯",
+            "rule": {
+                "en": "Same as Trick 3, but write the pattern from Right to Left!",
+                "hi": "ट्रिक 3 के समान, लेकिन पैटर्न को दाएं से बाएं (Right to Left) लिखें!"
+            },
+            "visual_example": {
+                "en": "📝 21³ = ? (First digit is 2) \n🔹 Line 1: 8 | 4 | 2 | 1 (Right to Left) \n🔹 Line 2: _ | 8 | 4 | _ (Doubled middle numbers) \n🔹 Add: 8 | 12 | 6 | 1 (Carry over 1 from 12) \n✅ Answer: 9261",
+                "hi": "📝 21³ = ? (पहला अंक 2 है) \n🔹 लाइन 1: 8 | 4 | 2 | 1 (दाएं से बाएं) \n🔹 लाइन 2: _ | 8 | 4 | _ (बीच की संख्याएँ दोगुनी कीं) \n🔹 जोड़ें: 8 | 12 | 6 | 1 (12 में से 1 आगे जोड़ें) \n✅ उत्तर: 9261"
+            }
+        },
+        {
+            "id": "cube_same_digits",
+            "title": {
+                "en": "5. Cubes of Same Digit Numbers (22, 33...)",
+                "hi": "5. समान अंकों वाली संख्याओं का घन (22, 33...)"
+            },
+            "icon": "👯",
+            "rule": {
+                "en": "Write the cube of the digit 4 times. Double the middle two numbers and add them down.",
+                "hi": "अंक के घन को 4 बार लिखें। बीच की दो संख्याओं को दोगुना करें और उन्हें नीचे जोड़ें।"
+            },
+            "visual_example": {
+                "en": "📝 22³ = ? (Digit is 2, Cube is 8) \n🔹 Line 1: 8 | 8 | 8 | 8 \n🔹 Line 2: _ | 16 | 16 | _ (Doubled) \n🔹 Add: 8 | 24 | 24 | 8 (Carry over tens) \n✅ Answer: 10648",
+                "hi": "📝 22³ = ? (अंक 2 है, घन 8 है) \n🔹 लाइन 1: 8 | 8 | 8 | 8 \n🔹 लाइन 2: _ | 16 | 16 | _ (दोगुना किया) \n🔹 जोड़ें: 8 | 24 | 24 | 8 (दहाई को आगे जोड़ें) \n✅ उत्तर: 10648"
+            }
+        },
+        {
+            "id": "general_2_digit_cube",
+            "title": {
+                "en": "6. Universal 2-Digit Cube Method",
+                "hi": "6. कोई भी 2-अंकीय घन (यूनिवर्सल मेथड)"
+            },
+            "icon": "⚔️",
+            "rule": {
+                "en": "For any two digits (a, b), write: (a³) | (a² × b) | (a × b²) | (b³). Double the middle two and add.",
+                "hi": "किन्हीं दो अंकों (a, b) के लिए लिखें: (a³) | (a² × b) | (a × b²) | (b³)। बीच वाले दोनों को दोगुना करके जोड़ें।"
+            },
+            "visual_example": {
+                "en": "📝 23³ = ? (a=2, b=3) \n🔹 Line 1: 8 | 12 | 18 | 27 \n🔹 Line 2: _ | 24 | 36 | _ \n🔹 Add: 8 | 36 | 54 | 27 (Carry over tens) \n✅ Answer: 12167",
+                "hi": "📝 23³ = ? (a=2, b=3) \n🔹 लाइन 1: 8 | 12 | 18 | 27 \n🔹 लाइन 2: _ | 24 | 36 | _ \n🔹 जोड़ें: 8 | 36 | 54 | 27 (दहाई को आगे जोड़ें) \n✅ उत्तर: 12167"
+            }
+        },
+        {
+            "id": "cube_near_100",
+            "title": {
+                "en": "7. Cubes Near 100 (101 to 109)",
+                "hi": "7. 100 के करीब की संख्याओं का घन (101 से 109)"
+            },
+            "icon": "💯",
+            "rule": {
+                "en": "Find the extra amount (e) over 100. Answer has 3 parts: (100 + 3e) | (3 × e²) | (e³). Give 2 digits for each back part.",
+                "hi": "100 से अतिरिक्त मात्रा (e) ज्ञात करें। उत्तर के 3 भाग हैं: (100 + 3e) | (3 × e²) | (e³)। पिछले हर भाग के लिए 2 अंक रखें।"
+            },
+            "visual_example": {
+                "en": "📝 102³ = ? (e = 2) \n🔹 Part 1: 100 + (3×2) = 106 \n🔹 Part 2: 3 × (2²) = 12 \n🔹 Part 3: 2³ = 08 \n✅ Answer: 1061208",
+                "hi": "📝 102³ = ? (e = 2) \n🔹 भाग 1: 100 + (3×2) = 106 \n🔹 भाग 2: 3 × (2²) = 12 \n🔹 भाग 3: 2³ = 08 \n✅ उत्तर: 1061208"
+            }
+        },
+        {
+            "id": "check_perfect_cube",
+            "title": {
+                "en": "8. Digital Root Check for Cubes",
+                "hi": "8. घनों के लिए डिजिटल रूट चेक"
+            },
+            "icon": "🔍",
+            "rule": {
+                "en": "The digital root (sum of all digits to a single number) of ANY perfect cube will ALWAYS be 1, 8, or 9. If it's not, it's not a perfect cube!",
+                "hi": "किसी भी पूर्ण घन का डिजिटल रूट (सभी अंकों का एकल संख्या तक योग) हमेशा 1, 8, या 9 होगा। यदि ऐसा नहीं है, तो वह पूर्ण घन नहीं है!"
+            },
+            "visual_example": {
+                "en": "📝 Is 2744 a perfect cube? \n🔹 Add digits: 2 + 7 + 4 + 4 = 17 \n🔹 Add again: 1 + 7 = 8 \n✅ Answer: Yes, 8 is a valid cube root signature!",
+                "hi": "📝 क्या 2744 एक पूर्ण घन है? \n🔹 अंक जोड़ें: 2 + 7 + 4 + 4 = 17 \n🔹 फिर जोड़ें: 1 + 7 = 8 \n✅ उत्तर: हाँ, 8 एक वैध घनमूल संकेत है!"
+            }
+        },
+        {
+            "id": "subtracting_consecutive_cubes",
+            "title": {
+                "en": "9. Subtracting Consecutive Cubes",
+                "hi": "9. लगातार घनों को घटाना"
+            },
+            "icon": "➖",
+            "rule": {
+                "en": "To find the difference between cubes of two consecutive numbers (a³ - b³), use this super fast formula: 1 + (3 × a × b).",
+                "hi": "दो लगातार संख्याओं के घनों के बीच का अंतर (a³ - b³) ज्ञात करने के लिए, इस सुपर फास्ट सूत्र का उपयोग करें: 1 + (3 × a × b)।"
+            },
+            "visual_example": {
+                "en": "📝 5³ - 4³ = ? \n🔹 Step 1: Multiply 3 × 5 × 4 = 60 \n🔹 Step 2: Add 1 ➡️ 60 + 1 = 61 \n✅ Answer: 61 (Proof: 125 - 64 = 61)",
+                "hi": "📝 5³ - 4³ = ? \n🔹 चरण 1: गुणा करें 3 × 5 × 4 = 60 \n🔹 चरण 2: 1 जोड़ें ➡️ 60 + 1 = 61 \n✅ उत्तर: 61 (प्रमाण: 125 - 64 = 61)"
+            }
+        },
+        {
+            "id": "estimate_cube_root",
+            "title": {
+                "en": "10. Estimating Large Cube Roots",
+                "hi": "10. बड़े घनमूलों का अनुमान लगाना"
+            },
+            "icon": "⚖️",
+            "rule": {
+                "en": "To estimate the cube root of a large imperfect number, find which tens multiples it sits between by memorizing cubes of 10, 20, 30, etc.",
+                "hi": "एक बड़ी अपूर्ण संख्या के घनमूल का अनुमान लगाने के लिए, 10, 20, 30 आदि के घनों को याद करके पता लगाएं कि यह किन दहाई गुणकों के बीच आता है।"
+            },
+            "visual_example": {
+                "en": "📝 ³√50000 = ? \n🔹 Step 1: 30³ is 27,000 \n🔹 Step 2: 40³ is 64,000 \n🔹 Step 3: 50k is closer to 64k \n✅ Answer: It is around 36 or 37.",
+                "hi": "📝 ³√50000 = ? \n🔹 चरण 1: 30³ = 27,000 है \n🔹 चरण 2: 40³ = 64,000 है \n🔹 चरण 3: 50k, 64k के अधिक करीब है \n✅ उत्तर: यह 36 या 37 के आसपास होगा।"
+            }
+        }
+    ]
+}

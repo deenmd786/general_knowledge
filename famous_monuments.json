@@ -1,0 +1,228 @@
+{
+    "monuments": [
+        {
+            "id": "taj_mahal",
+            "name": {
+                "en": "Taj Mahal",
+                "hi": "ताज महल"
+            },
+            "location": {
+                "en": "Agra, India",
+                "hi": "आगरा, भारत"
+            },
+            "icon": "🕌",
+            "fact": {
+                "en": "Built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is made of white marble.",
+                "hi": "इसे मुगल सम्राट शाहजहां ने अपनी पत्नी मुमताज महल की याद में बनवाया था। यह सफेद संगमरमर से बना है।"
+            }
+        },
+        {
+            "id": "red_fort",
+            "name": {
+                "en": "Red Fort",
+                "hi": "लाल किला"
+            },
+            "location": {
+                "en": "New Delhi, India",
+                "hi": "नई दिल्ली, भारत"
+            },
+            "icon": "🏰",
+            "fact": {
+                "en": "The Prime Minister of India hoists the national flag here every year on Independence Day.",
+                "hi": "भारत के प्रधानमंत्री हर साल स्वतंत्रता दिवस पर यहाँ राष्ट्रीय ध्वज फहराते हैं।"
+            }
+        },
+        {
+            "id": "qutub_minar",
+            "name": {
+                "en": "Qutub Minar",
+                "hi": "कुतुब मीनार"
+            },
+            "location": {
+                "en": "New Delhi, India",
+                "hi": "नई दिल्ली, भारत"
+            },
+            "icon": "🗼",
+            "fact": {
+                "en": "It is the tallest brick minaret in the world, standing at 73 meters high.",
+                "hi": "यह दुनिया की सबसे ऊंची ईंटों से बनी मीनार है, जिसकी ऊंचाई 73 मीटर है।"
+            }
+        },
+        {
+            "id": "india_gate",
+            "name": {
+                "en": "India Gate",
+                "hi": "इंडिया गेट"
+            },
+            "location": {
+                "en": "New Delhi, India",
+                "hi": "नई दिल्ली, भारत"
+            },
+            "icon": "⛩️",
+            "fact": {
+                "en": "A war memorial built to honor the soldiers of the Indian Army who died in the First World War.",
+                "hi": "यह प्रथम विश्व युद्ध में शहीद हुए भारतीय सेना के जवानों के सम्मान में बनाया गया एक युद्ध स्मारक है।"
+            }
+        },
+        {
+            "id": "gateway_of_india",
+            "name": {
+                "en": "Gateway of India",
+                "hi": "गेटवे ऑफ इंडिया"
+            },
+            "location": {
+                "en": "Mumbai, India",
+                "hi": "मुंबई, भारत"
+            },
+            "icon": "🏛️",
+            "fact": {
+                "en": "Built right next to the sea to welcome King George V and Queen Mary to India in 1911.",
+                "hi": "इसे 1911 में राजा जॉर्ज पंचम और रानी मैरी के भारत आगमन पर उनके स्वागत के लिए समुद्र के किनारे बनाया गया था।"
+            }
+        },
+        {
+            "id": "statue_of_unity",
+            "name": {
+                "en": "Statue of Unity",
+                "hi": "स्टैच्यू ऑफ यूनिटी"
+            },
+            "location": {
+                "en": "Gujarat, India",
+                "hi": "गुजरात, भारत"
+            },
+            "icon": "🧍‍♂️",
+            "fact": {
+                "en": "The tallest statue in the world, built to honor Sardar Vallabhbhai Patel.",
+                "hi": "यह सरदार वल्लभभाई पटेल के सम्मान में बनाई गई दुनिया की सबसे ऊंची मूर्ति है।"
+            }
+        },
+        {
+            "id": "golden_temple",
+            "name": {
+                "en": "Golden Temple",
+                "hi": "स्वर्ण मंदिर (हरिमंदिर साहिब)"
+            },
+            "location": {
+                "en": "Amritsar, India",
+                "hi": "अमृतसर, भारत"
+            },
+            "icon": "🛕",
+            "fact": {
+                "en": "The holiest Gurdwara of Sikhism, famous for its upper floors covered in real gold.",
+                "hi": "यह सिख धर्म का सबसे पवित्र गुरुद्वारा है, जो असली सोने से ढकी अपनी ऊपरी मंजिलों के लिए प्रसिद्ध है।"
+            }
+        },
+        {
+            "id": "hawa_mahal",
+            "name": {
+                "en": "Hawa Mahal",
+                "hi": "हवा महल"
+            },
+            "location": {
+                "en": "Jaipur, India",
+                "hi": "जयपुर, भारत"
+            },
+            "icon": "🏯",
+            "fact": {
+                "en": "Known as the 'Palace of Winds', it has 953 small windows called Jharokhas.",
+                "hi": "इसे 'हवाओं का महल' कहा जाता है, जिसमें 953 छोटी खिड़कियां (झरोखे) हैं।"
+            }
+        },
+        {
+            "id": "eiffel_tower",
+            "name": {
+                "en": "Eiffel Tower",
+                "hi": "एफिल टावर"
+            },
+            "location": {
+                "en": "Paris, France",
+                "hi": "पेरिस, फ्रांस"
+            },
+            "icon": "🗼",
+            "fact": {
+                "en": "A famous tower made entirely of iron, named after the engineer Gustave Eiffel.",
+                "hi": "यह पूरी तरह से लोहे से बना एक प्रसिद्ध टावर है, जिसका नाम इंजीनियर गुस्ताव एफिल के नाम पर रखा गया है।"
+            }
+        },
+        {
+            "id": "statue_of_liberty",
+            "name": {
+                "en": "Statue of Liberty",
+                "hi": "स्टैच्यू ऑफ लिबर्टी"
+            },
+            "location": {
+                "en": "New York, USA",
+                "hi": "न्यूयॉर्क, अमेरिका"
+            },
+            "icon": "🗽",
+            "fact": {
+                "en": "A giant copper statue that was a gift of friendship from the people of France to the USA.",
+                "hi": "यह तांबे की एक विशाल मूर्ति है जिसे फ्रांस के लोगों ने अमेरिका को दोस्ती के उपहार के रूप में दिया था।"
+            }
+        },
+        {
+            "id": "great_wall_of_china",
+            "name": {
+                "en": "Great Wall of China",
+                "hi": "चीन की विशाल दीवार"
+            },
+            "location": {
+                "en": "China",
+                "hi": "चीन"
+            },
+            "icon": "🧱",
+            "fact": {
+                "en": "The longest wall in the world, built thousands of years ago to protect the Chinese Empire.",
+                "hi": "यह दुनिया की सबसे लंबी दीवार है, जिसे हजारों साल पहले चीनी साम्राज्य की रक्षा के लिए बनाया गया था।"
+            }
+        },
+        {
+            "id": "pyramids_of_giza",
+            "name": {
+                "en": "Pyramids of Giza",
+                "hi": "गीज़ा के पिरामिड"
+            },
+            "location": {
+                "en": "Giza, Egypt",
+                "hi": "गीज़ा, मिस्र"
+            },
+            "icon": "🔺",
+            "fact": {
+                "en": "Huge triangular tombs built in the desert for the ancient Egyptian kings (Pharaohs).",
+                "hi": "ये प्राचीन मिस्र के राजाओं (फिरौन) के लिए रेगिस्तान में बनाए गए विशाल त्रिकोणीय मकबरे हैं।"
+            }
+        },
+        {
+            "id": "colosseum",
+            "name": {
+                "en": "Colosseum",
+                "hi": "कोलोसियम"
+            },
+            "location": {
+                "en": "Rome, Italy",
+                "hi": "रोम, इटली"
+            },
+            "icon": "🏟️",
+            "fact": {
+                "en": "An ancient, giant open-air theater where gladiators used to fight in front of huge crowds.",
+                "hi": "यह एक प्राचीन, विशाल खुला थिएटर है जहाँ ग्लैडिएटर बड़ी भीड़ के सामने लड़ाई किया करते थे।"
+            }
+        },
+        {
+            "id": "leaning_tower_of_pisa",
+            "name": {
+                "en": "Leaning Tower of Pisa",
+                "hi": "पीसा की झुकी हुई मीनार"
+            },
+            "location": {
+                "en": "Pisa, Italy",
+                "hi": "पीसा, इटली"
+            },
+            "icon": "🏗️",
+            "fact": {
+                "en": "Famous worldwide because the entire tower leans to one side due to soft ground.",
+                "hi": "यह दुनिया भर में इसलिए प्रसिद्ध है क्योंकि नरम ज़मीन के कारण पूरी मीनार एक तरफ झुकी हुई है।"
+            }
+        }
+    ]
+}

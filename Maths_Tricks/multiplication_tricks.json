@@ -1,0 +1,168 @@
+{
+    "category": {
+        "en": "Multiplication Tricks",
+        "hi": "गुणा करने के ट्रिक्स (Multiplication Tricks)"
+    },
+    "tricks": [
+        {
+            "id": "multiply_by_11",
+            "title": {
+                "en": "1. Multiply any 2-digit number by 11",
+                "hi": "1. किसी भी 2-अंकीय संख्या को 11 से गुणा करें"
+            },
+            "icon": "⚡",
+            "rule": {
+                "en": "Separate the two digits, add them together, and put the sum in the middle. (If the sum is 10 or more, carry over 1 to the first digit).",
+                "hi": "दोनों अंकों को अलग करें, उन्हें जोड़ें, और योग को बीच में रखें। (यदि योग 10 या अधिक है, तो पहले अंक में 1 जोड़ दें)।"
+            },
+            "visual_example": {
+                "en": "📝 45 × 11 = ? \n🔹 Step 1: 4 _ 5 \n🔹 Step 2: 4 + 5 = 9 \n✅ Answer: 495",
+                "hi": "📝 45 × 11 = ? \n🔹 चरण 1: 4 _ 5 \n🔹 चरण 2: 4 + 5 = 9 \n✅ उत्तर: 495"
+            }
+        },
+        {
+            "id": "multiply_by_5",
+            "title": {
+                "en": "2. Multiply any number by 5",
+                "hi": "2. किसी भी संख्या को 5 से गुणा करें"
+            },
+            "icon": "🖐️",
+            "rule": {
+                "en": "Divide the number by 2. If it's an even number, add a 0 at the end. If it's odd, remove the decimal.",
+                "hi": "संख्या को 2 से भाग दें। यदि यह सम संख्या है, तो अंत में 0 लगाएँ। यदि विषम है, तो दशमलव हटा दें।"
+            },
+            "visual_example": {
+                "en": "📝 42 × 5 = ? \n🔹 Step 1: 42 ÷ 2 = 21 \n🔹 Step 2: Add 0 \n✅ Answer: 210",
+                "hi": "📝 42 × 5 = ? \n🔹 चरण 1: 42 ÷ 2 = 21 \n🔹 चरण 2: 0 लगाएँ \n✅ उत्तर: 210"
+            }
+        },
+        {
+            "id": "multiply_by_25",
+            "title": {
+                "en": "3. Multiply any number by 25",
+                "hi": "3. किसी भी संख्या को 25 से गुणा करें"
+            },
+            "icon": "🪙",
+            "rule": {
+                "en": "Divide the number by 4, then multiply the result by 100 (add two zeros).",
+                "hi": "संख्या को 4 से भाग दें, फिर परिणाम को 100 से गुणा करें (दो शून्य लगाएँ)।"
+            },
+            "visual_example": {
+                "en": "📝 36 × 25 = ? \n🔹 Step 1: 36 ÷ 4 = 9 \n🔹 Step 2: 9 × 100 \n✅ Answer: 900",
+                "hi": "📝 36 × 25 = ? \n🔹 चरण 1: 36 ÷ 4 = 9 \n🔹 चरण 2: 9 × 100 \n✅ उत्तर: 900"
+            }
+        },
+        {
+            "id": "multiply_by_9",
+            "title": {
+                "en": "4. Multiply by 9, 99, or 999",
+                "hi": "4. 9, 99, या 999 से गुणा करें"
+            },
+            "icon": "🪄",
+            "rule": {
+                "en": "To multiply by 9, multiply by 10 and subtract the original number. For 99, multiply by 100 and subtract the number.",
+                "hi": "9 से गुणा करने के लिए, 10 से गुणा करें और मूल संख्या घटाएं। 99 के लिए, 100 से गुणा करें और संख्या घटाएं।"
+            },
+            "visual_example": {
+                "en": "📝 45 × 9 = ? \n🔹 Step 1: 45 × 10 = 450 \n🔹 Step 2: 450 - 45 \n✅ Answer: 405",
+                "hi": "📝 45 × 9 = ? \n🔹 चरण 1: 45 × 10 = 450 \n🔹 चरण 2: 450 - 45 \n✅ उत्तर: 405"
+            }
+        },
+        {
+            "id": "multiply_ending_5",
+            "title": {
+                "en": "5. Multiply same numbers ending in 5 (Squaring)",
+                "hi": "5. 5 पर समाप्त होने वाली समान संख्याओं का गुणा (वर्ग)"
+            },
+            "icon": "🎯",
+            "rule": {
+                "en": "Multiply the first digit by the next higher number. Then write 25 at the end.",
+                "hi": "पहले अंक को उसकी अगली बड़ी संख्या से गुणा करें। फिर अंत में 25 लिख दें।"
+            },
+            "visual_example": {
+                "en": "📝 35 × 35 = ? \n🔹 Step 1: First digit is 3. Next number is 4. \n🔹 Step 2: 3 × 4 = 12 \n🔹 Step 3: Add 25 at the end \n✅ Answer: 1225",
+                "hi": "📝 35 × 35 = ? \n🔹 चरण 1: पहला अंक 3 है। अगली संख्या 4 है। \n🔹 चरण 2: 3 × 4 = 12 \n🔹 चरण 3: अंत में 25 लिखें \n✅ उत्तर: 1225"
+            }
+        },
+        {
+            "id": "multiply_near_100",
+            "title": {
+                "en": "6. Multiply numbers near 100",
+                "hi": "6. 100 के करीब की संख्याओं का गुणा"
+            },
+            "icon": "💯",
+            "rule": {
+                "en": "Find how much less they are than 100. Subtract crosswise for the first part. Multiply the differences for the second part.",
+                "hi": "पता करें कि वे 100 से कितने कम हैं। पहले भाग के लिए तिरछा घटाएँ। दूसरे भाग के लिए अंतरों को गुणा करें।"
+            },
+            "visual_example": {
+                "en": "📝 98 × 97 = ? \n🔹 Diff: (100-98=2) and (100-97=3) \n🔹 Part 1: 98 - 3 = 95 \n🔹 Part 2: 2 × 3 = 06 \n✅ Answer: 9506",
+                "hi": "📝 98 × 97 = ? \n🔹 अंतर: (100-98=2) और (100-97=3) \n🔹 भाग 1: 98 - 3 = 95 \n🔹 भाग 2: 2 × 3 = 06 \n✅ उत्तर: 9506"
+            }
+        },
+        {
+            "id": "same_tens_units_sum_10",
+            "title": {
+                "en": "7. Same Tens digit & Units sum to 10",
+                "hi": "7. दहाई अंक समान और इकाई का योग 10"
+            },
+            "icon": "🧩",
+            "rule": {
+                "en": "Multiply the Tens digit by the next higher number. Then multiply the Unit digits together and put them at the end.",
+                "hi": "दहाई के अंक को अगली बड़ी संख्या से गुणा करें। फिर इकाई के अंकों को आपस में गुणा करके अंत में लिख दें।"
+            },
+            "visual_example": {
+                "en": "📝 43 × 47 = ? \n🔹 Step 1: Tens is 4. Do 4 × 5 = 20 \n🔹 Step 2: Units are 3 and 7. Do 3 × 7 = 21 \n✅ Answer: 2021",
+                "hi": "📝 43 × 47 = ? \n🔹 चरण 1: दहाई 4 है। 4 × 5 = 20 \n🔹 चरण 2: इकाई 3 और 7 हैं। 3 × 7 = 21 \n✅ उत्तर: 2021"
+            }
+        },
+        {
+            "id": "multiply_by_15",
+            "title": {
+                "en": "8. Multiply any number by 15",
+                "hi": "8. किसी भी संख्या को 15 से गुणा करें"
+            },
+            "icon": "⏳",
+            "rule": {
+                "en": "Add a zero to the number (multiply by 10), then add half of that new number to itself.",
+                "hi": "संख्या में शून्य लगाएँ (10 से गुणा करें), फिर उस नई संख्या का आधा हिस्सा उसी में जोड़ दें।"
+            },
+            "visual_example": {
+                "en": "📝 24 × 15 = ? \n🔹 Step 1: 24 × 10 = 240 \n🔹 Step 2: Half of 240 is 120 \n🔹 Step 3: 240 + 120 = 360 \n✅ Answer: 360",
+                "hi": "📝 24 × 15 = ? \n🔹 चरण 1: 24 × 10 = 240 \n🔹 चरण 2: 240 का आधा 120 है \n🔹 चरण 3: 240 + 120 = 360 \n✅ उत्तर: 360"
+            }
+        },
+        {
+            "id": "multiply_by_12",
+            "title": {
+                "en": "9. Multiply by 12 easily",
+                "hi": "9. 12 से आसानी से गुणा करें"
+            },
+            "icon": "🕛",
+            "rule": {
+                "en": "Double the last digit. Then for the other digits, double them and add to the digit on their right.",
+                "hi": "अंतिम अंक को दोगुना करें। फिर अन्य अंकों के लिए, उन्हें दोगुना करें और उनके दाईं ओर वाले अंक में जोड़ें।"
+            },
+            "visual_example": {
+                "en": "📝 23 × 12 = ? \n🔹 Step 1: Double 3 = 6 (Last digit) \n🔹 Step 2: Double 2 and add 3 (2×2 + 3) = 7 \n🔹 Step 3: First digit remains 2 \n✅ Answer: 276",
+                "hi": "📝 23 × 12 = ? \n🔹 चरण 1: 3 को दोगुना करें = 6 (अंतिम अंक) \n🔹 चरण 2: 2 को दोगुना करें और 3 जोड़ें (2×2 + 3) = 7 \n🔹 चरण 3: पहला अंक 2 ही रहेगा \n✅ उत्तर: 276"
+            }
+        },
+        {
+            "id": "criss_cross_method",
+            "title": {
+                "en": "10. Universal 2-Digit Multiplication (Criss-Cross)",
+                "hi": "10. कोई भी 2-अंकीय गुणा (क्रिस-क्रॉस)"
+            },
+            "icon": "⚔️",
+            "rule": {
+                "en": "Multiply straight down on the right. Cross-multiply and add them. Multiply straight down on the left. (Carry over tens when needed).",
+                "hi": "दाईं ओर सीधे नीचे गुणा करें। तिरछा गुणा करके जोड़ें। बाईं ओर सीधे नीचे गुणा करें। (जरूरत पड़ने पर दहाई हासिल लें)।"
+            },
+            "visual_example": {
+                "en": "📝 21 × 13 = ? \n🔹 Step 1 (Right): 1 × 3 = 3 \n🔹 Step 2 (Cross): (2×3) + (1×1) = 6 + 1 = 7 \n🔹 Step 3 (Left): 2 × 1 = 2 \n✅ Answer: 273",
+                "hi": "📝 21 × 13 = ? \n🔹 चरण 1 (दाएँ): 1 × 3 = 3 \n🔹 चरण 2 (तिरछा): (2×3) + (1×1) = 6 + 1 = 7 \n🔹 चरण 3 (बाएँ): 2 × 1 = 2 \n✅ उत्तर: 273"
+            }
+        }
+    ]
+}

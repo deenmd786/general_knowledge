@@ -1,0 +1,233 @@
+{
+    "general_knowledge": {
+        "country": {
+            "name": {
+                "en": "India",
+                "hi": "भारत"
+            },
+            "capital": {
+                "en": "New Delhi",
+                "hi": "नई दिल्ली"
+            },
+            "national_flag": {
+                "name": {
+                    "en": "Tiranga (Tricolor)",
+                    "hi": "तिरंगा"
+                },
+                "image_url": "https://images.unsplash.com/photo-1725428727722-447bce5c27eb?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            "state_emblem": {
+                "name": {
+                    "en": "Lion Capital of Ashoka",
+                    "hi": "अशोक स्तम्भ (सिंह शीर्ष)"
+                },
+                "motto": {
+                    "en": "Satyameva Jayate (Truth Alone Triumphs)",
+                    "hi": "सत्यमेव जयते"
+                },
+                "image_url": "https://images.unsplash.com/photo-1760795300880-3f11dd0f5fda?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        },
+        "key_figures": [
+            {
+                "id": "president",
+                "role": {
+                    "en": "President of India",
+                    "hi": "भारत के राष्ट्रपति"
+                },
+                "name": {
+                    "en": "Droupadi Murmu",
+                    "hi": "द्रौपदी मुर्मू"
+                },
+                "image_url": "https://www.elections.in/government/images/droupadi-murmu.jpg"
+            },
+            {
+                "id": "prime_minister",
+                "role": {
+                    "en": "Prime Minister of India",
+                    "hi": "भारत के प्रधानमंत्री"
+                },
+                "name": {
+                    "en": "Narendra Modi",
+                    "hi": "नरेन्द्र मोदी"
+                },
+                "image_url": "https://tehelka.com/media/2025/05/PM-Modi-1024x682.jpg"
+            },
+            {
+                "id": "father_of_nation",
+                "role": {
+                    "en": "Father of the Nation",
+                    "hi": "राष्ट्रपिता"
+                },
+                "name": {
+                    "en": "Mahatma Gandhi",
+                    "hi": "महात्मा गांधी"
+                },
+                "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg5MDFkOTcwLTgwNTUtMTFlZi1iZjU3LTYzYWRhZWQ5ZDA2YS5qcGc="
+            }
+        ],
+        "national_symbols": [
+            {
+                "id": "national_animal",
+                "category": {
+                    "en": "National Animal",
+                    "hi": "राष्ट्रीय पशु"
+                },
+                "name": {
+                    "en": "Royal Bengal Tiger",
+                    "hi": "रॉयल बंगाल टाइगर (बाघ)"
+                },
+                "image_url": "https://images.unsplash.com/photo-1615824996195-f780bba7cfab?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": "national_bird",
+                "category": {
+                    "en": "National Bird",
+                    "hi": "राष्ट्रीय पक्षी"
+                },
+                "name": {
+                    "en": "Indian Peacock",
+                    "hi": "भारतीय मोर"
+                },
+                "image_url": "https://images.unsplash.com/photo-1547707188-cdbffa0bc270?q=80&w=674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": "national_flower",
+                "category": {
+                    "en": "National Flower",
+                    "hi": "राष्ट्रीय फूल"
+                },
+                "name": {
+                    "en": "Lotus",
+                    "hi": "कमल"
+                },
+                "image_url": "https://images.unsplash.com/photo-1616435577207-ca90abc6b732?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": "national_tree",
+                "category": {
+                    "en": "National Tree",
+                    "hi": "राष्ट्रीय वृक्ष"
+                },
+                "name": {
+                    "en": "Banyan Tree",
+                    "hi": "बरगद (वटवृक्ष)"
+                },
+                "image_url": "https://images.unsplash.com/photo-1601598630657-83687b35e628?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": "national_fruit",
+                "category": {
+                    "en": "National Fruit",
+                    "hi": "राष्ट्रीय फल"
+                },
+                "name": {
+                    "en": "Mango",
+                    "hi": "आम"
+                },
+                "image_url": "https://images.unsplash.com/photo-1732472581875-89ff83f18439?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": "national_aquatic_animal",
+                "category": {
+                    "en": "National Aquatic Animal",
+                    "hi": "राष्ट्रीय जलीय जीव"
+                },
+                "name": {
+                    "en": "Ganges River Dolphin",
+                    "hi": "गंगा नदी डॉल्फ़िन"
+                },
+                "image_url": "https://plus.unsplash.com/premium_photo-1695715758372-df302f63a8ba?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": "national_heritage_animal",
+                "category": {
+                    "en": "National Heritage Animal",
+                    "hi": "राष्ट्रीय विरासत पशु"
+                },
+                "name": {
+                    "en": "Indian Elephant",
+                    "hi": "भारतीय हाथी"
+                },
+                "image_url": "https://images.unsplash.com/photo-1544211412-2a32426e7fd5?q=80&w=689&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": "national_river",
+                "category": {
+                    "en": "National River",
+                    "hi": "राष्ट्रीय नदी"
+                },
+                "name": {
+                    "en": "Ganga (Ganges)",
+                    "hi": "गंगा नदी"
+                },
+                "image_url": "https://images.unsplash.com/photo-1704872833058-1948ac9230c1?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": "national_anthem",
+                "category": {
+                    "en": "National Anthem",
+                    "hi": "राष्ट्रगान"
+                },
+                "name": {
+                    "en": "Jana Gana Mana",
+                    "hi": "जन गण मन"
+                },
+                "composer": {
+                    "en": "Rabindranath Tagore",
+                    "hi": "रवीन्द्रनाथ टैगोर"
+                }
+            },
+            {
+                "id": "national_song",
+                "category": {
+                    "en": "National Song",
+                    "hi": "राष्ट्रगीत"
+                },
+                "name": {
+                    "en": "Vande Mataram",
+                    "hi": "वन्दे मातरम्"
+                },
+                "composer": {
+                    "en": "Bankim Chandra Chattopadhyay",
+                    "hi": "बंकिमचन्द्र चट्टोपाध्याय"
+                }
+            },
+            {
+                "id": "national_currency",
+                "category": {
+                    "en": "National Currency",
+                    "hi": "राष्ट्रीय मुद्रा"
+                },
+                "name": {
+                    "en": "Indian Rupee (₹)",
+                    "hi": "भारतीय रुपया (₹)"
+                },
+                "image_url": "https://images.unsplash.com/photo-1565374392032-8007fb37c26e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "id": "national_calendar",
+                "category": {
+                    "en": "National Calendar",
+                    "hi": "राष्ट्रीय कैलेंडर"
+                },
+                "name": {
+                    "en": "Saka Calendar",
+                    "hi": "शक संवत"
+                }
+            }
+        ],
+        "basic_facts": {
+            "total_states": 28,
+            "total_union_territories": 8,
+            "independence_day": {
+                "en": "15th August",
+                "hi": "15 अगस्त"
+            },
+            "republic_day": {
+                "en": "26th January",
+                "hi": "26 जनवरी"
+            }
+        }
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "animals": [
+        {
+            "id": "lion",
+            "name": {
+                "en": "Lion",
+                "hi": "शेर"
+            },
+            "icon": "🦁",
+            "image_url": "https://images.unsplash.com/photo-1618641662184-bafefb91a542?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Panthera leo",
+            "fact": {
+                "en": "Known as the king of the jungle.",
+                "hi": "इसे जंगल का राजा कहा जाता है।"
+            }
+        },
+        {
+            "id": "tiger",
+            "name": {
+                "en": "Tiger",
+                "hi": "बाघ"
+            },
+            "icon": "🐯",
+            "image_url": "https://images.unsplash.com/photo-1615824996195-f780bba7cfab?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Panthera tigris",
+            "fact": {
+                "en": "The national animal of India.",
+                "hi": "यह भारत का राष्ट्रीय पशु है।"
+            }
+        },
+        {
+            "id": "elephant",
+            "name": {
+                "en": "Elephant",
+                "hi": "हाथी"
+            },
+            "icon": "🐘",
+            "image_url": "https://images.unsplash.com/photo-1603483080228-04f2313d9f10?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Elephas maximus",
+            "fact": {
+                "en": "The largest existing land animal.",
+                "hi": "ज़मीन पर रहने वाला सबसे बड़ा जानवर।"
+            }
+        },
+        {
+            "id": "dog",
+            "name": {
+                "en": "Dog",
+                "hi": "कुत्ता"
+            },
+            "icon": "🐶",
+            "image_url": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Canis lupus familiaris",
+            "fact": {
+                "en": "Known as man's best friend and has a strong sense of smell.",
+                "hi": "इसे इंसान का सबसे अच्छा दोस्त माना जाता है।"
+            }
+        },
+        {
+            "id": "cat",
+            "name": {
+                "en": "Cat",
+                "hi": "बिल्ली"
+            },
+            "icon": "🐱",
+            "image_url": "https://plus.unsplash.com/premium_photo-1674316194408-979a3a6a907a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Felis catus",
+            "fact": {
+                "en": "Can see very well in the dark.",
+                "hi": "यह अंधेरे में भी बहुत अच्छे से देख सकती है।"
+            }
+        },
+        {
+            "id": "cow",
+            "name": {
+                "en": "Cow",
+                "hi": "गाय"
+            },
+            "icon": "🐮",
+            "image_url": "https://images.unsplash.com/photo-1595365691689-6b7b4e1970cf?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Bos taurus",
+            "fact": {
+                "en": "A domestic animal that gives us milk.",
+                "hi": "यह एक पालतू जानवर है जो हमें दूध देती है।"
+            }
+        },
+        {
+            "id": "horse",
+            "name": {
+                "en": "Horse",
+                "hi": "घोड़ा"
+            },
+            "icon": "🐴",
+            "image_url": "https://images.unsplash.com/photo-1557374800-8ba4ccd60e9d?q=80&w=660&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Equus caballus",
+            "fact": {
+                "en": "Used for riding and can sleep standing up.",
+                "hi": "यह खड़े होकर भी सो सकता है और सवारी के काम आता है।"
+            }
+        },
+        {
+            "id": "monkey",
+            "name": {
+                "en": "Monkey",
+                "hi": "बंदर"
+            },
+            "icon": "🐒",
+            "image_url": "https://images.unsplash.com/photo-1615038552039-e1b271f14ec8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Macaca",
+            "fact": {
+                "en": "Loves to swing on trees and eat bananas.",
+                "hi": "इसे पेड़ों पर झूलना और केले खाना बहुत पसंद है।"
+            }
+        },
+        {
+            "id": "bear",
+            "name": {
+                "en": "Bear",
+                "hi": "भालू"
+            },
+            "icon": "🐻",
+            "image_url": "https://images.unsplash.com/photo-1599948058230-78896e742f7e?q=80&w=1082&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Ursidae",
+            "fact": {
+                "en": "Sleeps for months during the winter (hibernation).",
+                "hi": "सर्दियों के मौसम में यह महीनों तक सोता रहता है।"
+            }
+        },
+        {
+            "id": "rabbit",
+            "name": {
+                "en": "Rabbit",
+                "hi": "खरगोश"
+            },
+            "icon": "🐰",
+            "image_url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Oryctolagus cuniculus",
+            "fact": {
+                "en": "Has long ears and loves to eat carrots.",
+                "hi": "इसके कान लंबे होते हैं और इसे गाजर खाना पसंद है।"
+            }
+        },
+        {
+            "id": "panda",
+            "name": {
+                "en": "Panda",
+                "hi": "पांडा"
+            },
+            "icon": "🐼",
+            "image_url": "https://images.unsplash.com/photo-1703248187251-c897f32fe4ec?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Ailuropoda melanoleuca",
+            "fact": {
+                "en": "A bear native to China that eats mostly bamboo.",
+                "hi": "यह मुख्य रूप से चीन में पाया जाता है और बांस खाता है।"
+            }
+        },
+        {
+            "id": "kangaroo",
+            "name": {
+                "en": "Kangaroo",
+                "hi": "कंगारू"
+            },
+            "icon": "🦘",
+            "image_url": "https://plus.unsplash.com/premium_photo-1666777247057-40fd5ff166c4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Macropus",
+            "fact": {
+                "en": "Carries its baby in a pouch on its stomach.",
+                "hi": "यह अपने बच्चों को पेट में बनी थैली में रखता है।"
+            }
+        },
+        {
+            "id": "giraffe",
+            "name": {
+                "en": "Giraffe",
+                "hi": "जिराफ"
+            },
+            "icon": "🦒",
+            "image_url": "https://images.unsplash.com/photo-1534567110243-8875d64ca8ff?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Giraffa",
+            "fact": {
+                "en": "The tallest land animal with a very long neck.",
+                "hi": "ज़मीन पर रहने वाला सबसे लंबा जानवर जिसकी गर्दन बहुत लंबी होती है।"
+            }
+        },
+        {
+            "id": "zebra",
+            "name": {
+                "en": "Zebra",
+                "hi": "ज़ेबरा"
+            },
+            "icon": "🦓",
+            "image_url": "https://plus.unsplash.com/premium_photo-1661849793437-70a6f9564372?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Equus quagga",
+            "fact": {
+                "en": "Has unique black and white stripes all over its body.",
+                "hi": "इसके शरीर पर काले और सफेद रंग की धारियां होती हैं।"
+            }
+        },
+        {
+            "id": "fox",
+            "name": {
+                "en": "Fox",
+                "hi": "लोमड़ी"
+            },
+            "icon": "🦊",
+            "image_url": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Vulpes vulpes",
+            "fact": {
+                "en": "Known in stories for being very clever and sneaky.",
+                "hi": "कहानियों में इसे अपनी चालाकी के लिए जाना जाता है।"
+            }
+        },
+        {
+            "id": "wolf",
+            "name": {
+                "en": "Wolf",
+                "hi": "भेड़िया"
+            },
+            "icon": "🐺",
+            "image_url": "https://images.unsplash.com/photo-1588167056547-c183313da47c?q=80&w=831&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Canis lupus",
+            "fact": {
+                "en": "Lives and hunts in family groups called packs.",
+                "hi": "यह झुंड में रहता है और शिकार करता है।"
+            }
+        },
+        {
+            "id": "pig",
+            "name": {
+                "en": "Pig",
+                "hi": "सूअर"
+            },
+            "icon": "🐷",
+            "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Sus domesticus",
+            "fact": {
+                "en": "Highly intelligent and likes to roll in the mud to stay cool.",
+                "hi": "यह बहुत बुद्धिमान होता है और खुद को ठंडा रखने के लिए कीचड़ में लोटता है।"
+            }
+        },
+        {
+            "id": "sheep",
+            "name": {
+                "en": "Sheep",
+                "hi": "भेड़"
+            },
+            "icon": "🐑",
+            "image_url": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Ovis aries",
+            "fact": {
+                "en": "Gives us wool to make warm winter clothes.",
+                "hi": "यह हमें ऊन देती है जिससे सर्दियों के कपड़े बनते हैं।"
+            }
+        },
+        {
+            "id": "goat",
+            "name": {
+                "en": "Goat",
+                "hi": "बकरी"
+            },
+            "icon": "🐐",
+            "image_url": "https://images.unsplash.com/photo-1573578160998-4f4c7b023aec?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Capra hircus",
+            "fact": {
+                "en": "Eats grass and is domesticated for milk and meat.",
+                "hi": "यह घास खाती है और दूध के लिए पाली जाती है।"
+            }
+        },
+        {
+            "id": "camel",
+            "name": {
+                "en": "Camel",
+                "hi": "ऊंट"
+            },
+            "icon": "🐪",
+            "image_url": "https://images.unsplash.com/photo-1780747430275-63cf550d1b34?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Camelus",
+            "fact": {
+                "en": "Known as the ship of the desert; stores fat in its hump.",
+                "hi": "इसे रेगिस्तान का जहाज़ कहा जाता है।"
+            }
+        },
+        {
+            "id": "deer",
+            "name": {
+                "en": "Deer",
+                "hi": "हिरण"
+            },
+            "icon": "🦌",
+            "image_url": "https://plus.unsplash.com/premium_photo-1661833885736-e6df42210638?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Cervidae",
+            "fact": {
+                "en": "Male deer have large antlers that shed and regrow every year.",
+                "hi": "नर हिरण के बड़े सींग होते हैं जिन्हें एंटलर कहते हैं।"
+            }
+        },
+        {
+            "id": "frog",
+            "name": {
+                "en": "Frog",
+                "hi": "मेंढक"
+            },
+            "icon": "🐸",
+            "image_url": "https://images.unsplash.com/photo-1496070242169-b672c576566b?q=80&w=1043&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Anura",
+            "fact": {
+                "en": "An amphibian that can live both in water and on land.",
+                "hi": "यह ज़मीन और पानी दोनों में रह सकता है।"
+            }
+        },
+        {
+            "id": "turtle",
+            "name": {
+                "en": "Turtle",
+                "hi": "कछुआ"
+            },
+            "icon": "🐢",
+            "image_url": "https://plus.unsplash.com/premium_photo-1724311824020-d5aa35632c81?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Testudines",
+            "fact": {
+                "en": "Has a hard shell on its back to protect itself.",
+                "hi": "अपनी रक्षा के लिए इसकी पीठ पर एक कठोर खोल होता है।"
+            }
+        },
+        {
+            "id": "snake",
+            "name": {
+                "en": "Snake",
+                "hi": "सांप"
+            },
+            "icon": "🐍",
+            "image_url": "https://plus.unsplash.com/premium_photo-1661897154120-5b27cd6a0bd5?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Serpentes",
+            "fact": {
+                "en": "A reptile with no legs that slithers on the ground.",
+                "hi": "यह बिना पैरों वाला एक जीव है जो रेंगकर चलता है।"
+            }
+        },
+        {
+            "id": "crocodile",
+            "name": {
+                "en": "Crocodile",
+                "hi": "मगरमच्छ"
+            },
+            "icon": "🐊",
+            "image_url": "https://plus.unsplash.com/premium_photo-1664302983066-8ea0ffd6af05?q=80&w=709&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "scientific_name": "Crocodylidae",
+            "fact": {
+                "en": "A large aquatic reptile with very strong jaws.",
+                "hi": "यह बहुत मज़बूत जबड़े वाला एक बड़ा जलीय जीव है।"
+            }
+        }
+    ]
+}

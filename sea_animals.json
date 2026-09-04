@@ -1,0 +1,186 @@
+{
+    "sea_animals": [
+        {
+            "id": "dolphin",
+            "name": {
+                "en": "Dolphin",
+                "hi": "डॉल्फ़िन"
+            },
+            "icon": "🐬",
+            "scientific_name": "Delphinidae",
+            "fact": {
+                "en": "Highly intelligent marine mammals known for their playful behavior and communication skills.",
+                "hi": "ये बहुत बुद्धिमान समुद्री स्तनधारी हैं जो अपने चंचल स्वभाव और संचार कौशल के लिए जाने जाते हैं।"
+            }
+        },
+        {
+            "id": "shark",
+            "name": {
+                "en": "Shark",
+                "hi": "शार्क"
+            },
+            "icon": "🦈",
+            "scientific_name": "Selachimorpha",
+            "fact": {
+                "en": "A fast-swimming predator with sharp teeth that has lived in the oceans for millions of years.",
+                "hi": "तेज़ तैरने वाली एक शिकारी जिसके दांत बहुत नुकीले होते हैं और यह लाखों सालों से महासागरों में रह रही है।"
+            }
+        },
+        {
+            "id": "blue_whale",
+            "name": {
+                "en": "Blue Whale",
+                "hi": "ब्लू व्हेल"
+            },
+            "icon": "🐋",
+            "scientific_name": "Balaenoptera musculus",
+            "fact": {
+                "en": "The largest animal to have ever lived on Earth. Its heart is the size of a car!",
+                "hi": "यह पृथ्वी पर अब तक का सबसे बड़ा ज्ञात जानवर है। इसका दिल एक कार के आकार का होता है!"
+            }
+        },
+        {
+            "id": "octopus",
+            "name": {
+                "en": "Octopus",
+                "hi": "ऑक्टोपस (अष्टबाहु)"
+            },
+            "icon": "🐙",
+            "scientific_name": "Octopoda",
+            "fact": {
+                "en": "Has eight arms, three hearts, and can change its color to hide from enemies.",
+                "hi": "इसके आठ हाथ, तीन दिल होते हैं और यह दुश्मनों से छिपने के लिए अपना रंग बदल सकता है।"
+            }
+        },
+        {
+            "id": "crab",
+            "name": {
+                "en": "Crab",
+                "hi": "केकड़ा"
+            },
+            "icon": "🦀",
+            "scientific_name": "Brachyura",
+            "fact": {
+                "en": "Walks sideways and has a hard outer shell with two strong claws for defense.",
+                "hi": "यह तिरछा (साइड में) चलता है और इसके पास बचाव के लिए दो मजबूत पंजों वाला एक कठोर खोल होता है।"
+            }
+        },
+        {
+            "id": "jellyfish",
+            "name": {
+                "en": "Jellyfish",
+                "hi": "जेलिफ़िश"
+            },
+            "icon": "🪼",
+            "scientific_name": "Scyphozoa",
+            "fact": {
+                "en": "Has no brain, blood, or bones, and uses its long tentacles to sting prey.",
+                "hi": "इसमें दिमाग, खून या हड्डियां नहीं होती हैं, और यह शिकार को डंक मारने के लिए अपने लंबे टेंटेकल्स का उपयोग करती है।"
+            }
+        },
+        {
+            "id": "sea_turtle",
+            "name": {
+                "en": "Sea Turtle",
+                "hi": "समुद्री कछुआ"
+            },
+            "icon": "🐢",
+            "scientific_name": "Chelonioidea",
+            "fact": {
+                "en": "Can live for over 100 years and travels thousands of miles across the ocean.",
+                "hi": "यह 100 से अधिक वर्षों तक जीवित रह सकता है और महासागर में हजारों मील की यात्रा करता है।"
+            }
+        },
+        {
+            "id": "squid",
+            "name": {
+                "en": "Squid",
+                "hi": "स्क्विड"
+            },
+            "icon": "🦑",
+            "scientific_name": "Teuthida",
+            "fact": {
+                "en": "Shoots a cloud of dark ink to confuse predators so it can quickly escape.",
+                "hi": "शिकारियों को भ्रमित करने और जल्दी से भागने के लिए यह गहरे रंग की स्याही का बादल छोड़ता है।"
+            }
+        },
+        {
+            "id": "seal",
+            "name": {
+                "en": "Seal",
+                "hi": "सील"
+            },
+            "icon": "🦭",
+            "scientific_name": "Pinnipedia",
+            "fact": {
+                "en": "A marine mammal with flippers that loves to rest on ice and hunt for fish.",
+                "hi": "फ्लिपर्स वाला एक समुद्री स्तनधारी जो बर्फ पर आराम करना और मछलियों का शिकार करना पसंद करता है।"
+            }
+        },
+        {
+            "id": "lobster",
+            "name": {
+                "en": "Lobster",
+                "hi": "लॉबस्टर (झींगा मछली)"
+            },
+            "icon": "🦞",
+            "scientific_name": "Nephropidae",
+            "fact": {
+                "en": "Lives on the ocean floor and has a hard exoskeleton that it sheds as it grows larger.",
+                "hi": "यह समुद्र तल पर रहता है और इसके शरीर पर एक कठोर खोल होता है जिसे यह बड़े होने पर उतार देता है।"
+            }
+        },
+        {
+            "id": "clownfish",
+            "name": {
+                "en": "Clownfish",
+                "hi": "क्लाउनफिश"
+            },
+            "icon": "🐠",
+            "scientific_name": "Amphiprioninae",
+            "fact": {
+                "en": "A bright orange fish that safely makes its home inside stinging sea anemones.",
+                "hi": "एक चमकीले नारंगी रंग की मछली जो डंक मारने वाले समुद्री एनीमोन के अंदर सुरक्षित रूप से अपना घर बनाती है।"
+            }
+        },
+        {
+            "id": "pufferfish",
+            "name": {
+                "en": "Pufferfish",
+                "hi": "पफ़रफ़िश"
+            },
+            "icon": "🐡",
+            "scientific_name": "Tetraodontidae",
+            "fact": {
+                "en": "Puffs up like a spiky balloon when threatened to scare away hungry predators.",
+                "hi": "खतरा महसूस होने पर शिकारियों को डराने के लिए यह कांटेदार गुब्बारे की तरह फूल जाती है।"
+            }
+        },
+        {
+            "id": "seahorse",
+            "name": {
+                "en": "Seahorse",
+                "hi": "समुद्री घोड़ा (सीहॉर्स)"
+            },
+            "icon": "🐟",
+            "scientific_name": "Hippocampus",
+            "fact": {
+                "en": "A unique fish that swims upright. The male seahorse is the one that carries the babies!",
+                "hi": "सीधे तैरने वाली एक अनोखी मछली। इसमें नर समुद्री घोड़ा बच्चों को जन्म देता है!"
+            }
+        },
+        {
+            "id": "starfish",
+            "name": {
+                "en": "Starfish (Sea Star)",
+                "hi": "तारामीन (स्टारफिश)"
+            },
+            "icon": "⭐",
+            "scientific_name": "Asteroidea",
+            "fact": {
+                "en": "It is not actually a fish! It has no brain or blood, and can regrow a lost arm.",
+                "hi": "यह वास्तव में एक मछली नहीं है! इसमें कोई दिमाग या खून नहीं होता है, और यह अपनी टूटी हुई भुजा फिर से उघा सकती है।"
+            }
+        }
+    ]
+}

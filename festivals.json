@@ -1,0 +1,245 @@
+{
+    "festivals": [
+        {
+            "id": "diwali",
+            "name": {
+                "en": "Diwali (Deepavali)",
+                "hi": "दिवाली (दीपावली)"
+            },
+            "type": {
+                "en": "Festival of Lights",
+                "hi": "प्रकाश पर्व"
+            },
+            "icon": "🪔",
+            "fact": {
+                "en": "Celebrates the return of Lord Rama to Ayodhya after 14 years in exile. People light diyas and burst firecrackers.",
+                "hi": "14 साल के वनवास के बाद भगवान राम के अयोध्या लौटने की खुशी में मनाया जाता है। लोग दीये जलाते हैं और पटाखे फोड़ते हैं।"
+            }
+        },
+        {
+            "id": "holi",
+            "name": {
+                "en": "Holi",
+                "hi": "होली"
+            },
+            "type": {
+                "en": "Festival of Colors",
+                "hi": "रंगों का त्योहार"
+            },
+            "icon": "🎨",
+            "fact": {
+                "en": "Marks the arrival of spring and the victory of good over evil by playing with colored powders and water.",
+                "hi": "रंग-बिरंगे गुलाल और पानी से खेलकर वसंत के आगमन और बुरााई पर अच्छाई की जीत का जश्न मनाया जाता है।"
+            }
+        },
+        {
+            "id": "eid_ul_fitr",
+            "name": {
+                "en": "Eid al-Fitr",
+                "hi": "ईद-उल-फितर"
+            },
+            "type": {
+                "en": "Religious Festival",
+                "hi": "धार्मिक त्योहार"
+            },
+            "icon": "🌙",
+            "scientific_name": "Islamic Calendar",
+            "fact": {
+                "en": "Celebrated at the end of Ramadan, the holy month of fasting, by sharing special sweets like Sewaiyan.",
+                "hi": "पवित्र महीने रमजान के उपवास के बाद मनाया जाता है, जिसमें सेवइयां जैसी खास मिठाइयां बांटी जाती हैं।"
+            }
+        },
+        {
+            "id": "christmas",
+            "name": {
+                "en": "Christmas",
+                "hi": "क्रिसमस (बड़ा दिन)"
+            },
+            "type": {
+                "en": "Global Festival",
+                "hi": "वैश्विक त्योहार"
+            },
+            "icon": "🎄",
+            "fact": {
+                "en": "Celebrates the birth of Jesus Christ on December 25th, featuring decorated Christmas trees and Santa Claus.",
+                "hi": "25 दिसंबर को ईसा मसीह के जन्म के उपलक्ष्य में मनाया जाता है, जिसमें सजाए गए क्रिसमस ट्री और सांता क्लॉस होते हैं।"
+            }
+        },
+        {
+            "id": "republic_day",
+            "name": {
+                "en": "Republic Day",
+                "hi": "गणतंत्र दिवस"
+            },
+            "type": {
+                "en": "National Festival",
+                "hi": "राष्ट्रीय पर्व"
+            },
+            "icon": "🇮🇳",
+            "fact": {
+                "en": "Celebrated on January 26th every year to honor the day the Constitution of India came into effect.",
+                "hi": "हर साल 26 जनवरी को उस दिन के सम्मान में मनाया जाता है जब भारत का संविधान लागू हुआ था।"
+            }
+        },
+        {
+            "id": "independence_day",
+            "name": {
+                "en": "Independence Day",
+                "hi": "स्वतंत्रता दिवस"
+            },
+            "type": {
+                "en": "National Festival",
+                "hi": "राष्ट्रीय पर्व"
+            },
+            "icon": "🪁",
+            "fact": {
+                "en": "Celebrated on August 15th to commemorate India's freedom from British rule in 1947.",
+                "hi": "1947 में ब्रिटिश शासन से भारत की आजादी की याद में 15 अगस्त को मनाया जाता है।"
+            }
+        },
+        {
+            "id": "gandhi_jayanti",
+            "name": {
+                "en": "Gandhi Jayanti",
+                "hi": "गांधी जयंती"
+            },
+            "type": {
+                "en": "National Festival",
+                "hi": "राष्ट्रीय पर्व"
+            },
+            "icon": "🕊️",
+            "fact": {
+                "en": "Observed on October 2nd to mark the birth anniversary of Mahatma Gandhi, the Father of the Nation.",
+                "hi": "राष्ट्रपिता महात्मा गांधी की जन्म वर्षगांठ के उपलक्ष्य में 2 अक्टूबर को मनाया जाता है।"
+            }
+        },
+        {
+            "id": "navaratri_durga_puja",
+            "name": {
+                "en": "Navaratri & Durga Puja",
+                "hi": "नवरात्रि और दुर्गा पूजा"
+            },
+            "type": {
+                "en": "Cultural Festival",
+                "hi": "सांस्कृतिक त्योहार"
+            },
+            "icon": "🐅",
+            "fact": {
+                "en": "Celebrates the worship of Goddess Durga and the triumph of good over evil with grand pandals and dance.",
+                "hi": "भव्य पंडालों और नृत्य के साथ देवी दुर्गा की पूजा और बुराई पर अच्छाई की जीत का जश्न मनाया जाता है।"
+            }
+        },
+        {
+            "id": "dussehra",
+            "name": {
+                "en": "Dussehra (Vijayadashami)",
+                "hi": "दशहरा (विजयादशमी)"
+            },
+            "type": {
+                "en": "Festival of Victory",
+                "hi": "विजय पर्व"
+            },
+            "icon": "🏹",
+            "fact": {
+                "en": "Marks Lord Rama's victory over Ravana, celebrated by burning giant effigies of Ravana.",
+                "hi": "रावण पर भगवान राम की जीत का प्रतीक, जिसे रावण के बड़े पुतले जलाकर मनाया जाता है।"
+            }
+        },
+        {
+            "id": "makar_sankranti_pongal",
+            "name": {
+                "en": "Makar Sankranti / Pongal",
+                "hi": "मकर संक्रांति / पोंगल"
+            },
+            "type": {
+                "en": "Harvest Festival",
+                "hi": "फसल कटाई का त्योहार"
+            },
+            "icon": "🌾",
+            "fact": {
+                "en": "A harvest festival dedicated to thanking nature, the Sun God, and farmers; famous for kite flying.",
+                "hi": "प्रकृति, सूर्य देव और किसानों को धन्यवाद देने के लिए समर्पित फसल उत्सव; पतंगबाजी के लिए प्रसिद्ध।"
+            }
+        },
+        {
+            "id": "baisakhi",
+            "name": {
+                "en": "Baisakhi",
+                "hi": "बैसाखी"
+            },
+            "type": {
+                "en": "Spring / Harvest Festival",
+                "hi": "वसंत / फसल उत्सव"
+            },
+            "icon": "🌾",
+            "fact": {
+                "en": "Celebrated mainly in Punjab to mark the spring harvest and the formation of the Khalsa Panth in 1699.",
+                "hi": "मुख्य रूप से पंजाब में वसंत की फसल और 1699 में खालसा पंथ की स्थापना की याद में मनाया जाता है।"
+            }
+        },
+        {
+            "id": "onam",
+            "name": {
+                "en": "Onam",
+                "hi": "ओणम"
+            },
+            "type": {
+                "en": "Harvest Festival",
+                "hi": "फसल कटाई का त्योहार"
+            },
+            "icon": "🛶",
+            "fact": {
+                "en": "The grand state festival of Kerala featuring traditional boat races, gorgeous flower carpets (Pookalam), and feasts.",
+                "hi": "केरल का भव्य राजकीय त्योहार जिसमें पारंपरिक नौका दौड़, सुंदर फूलों की रंगोली (पookalam) और दावतें शामिल हैं।"
+            }
+        },
+        {
+            "id": "raksha_bandhan",
+            "name": {
+                "en": "Raksha Bandhan",
+                "hi": "रक्षा बंधन"
+            },
+            "type": {
+                "en": "Family Festival",
+                "hi": "पारिवारिक त्योहार"
+            },
+            "icon": "🎀",
+            "fact": {
+                "en": "Celebrates the special bond of love and protection between brothers and sisters.",
+                "hi": "भाई और बहन के बीच प्यार और सुरक्षा के विशेष बंधन का जश्न मनाता है।"
+            }
+        },
+        {
+            "id": "janmashtami",
+            "name": {
+                "en": "Krishna Janmashtami",
+                "hi": "कृष्ण जन्माष्टमी"
+            },
+            "type": {
+                "en": "Religious Festival",
+                "hi": "धार्मिक त्योहार"
+            },
+            "icon": "🪈",
+            "fact": {
+                "en": "Marks the joyous birth anniversary of Lord Krishna, featuring the fun tradition of breaking the Dahi Handi.",
+                "hi": "भगवान कृष्ण के जन्मोत्सव का प्रतीक, जिसमें दही हांडी फोड़ने की मजेदार परंपरा शामिल है।"
+            }
+        },
+        {
+            "id": "ganesh_chaturthi",
+            "name": {
+                "en": "Ganesh Chaturthi",
+                "hi": "गणेश चतुर्थी"
+            },
+            "type": {
+                "en": "Cultural Festival",
+                "hi": "सांस्कृतिक त्योहार"
+            },
+            "icon": "🕉️",
+            "fact": {
+                "en": "A 10-day grand festival honoring Lord Ganesha, the elephant-headed god of wisdom and new beginnings.",
+                "hi": "बुद्धि और नए कार्यों के देवता भगवान गणेश के सम्मान में 10 दिवसीय भव्य त्योहार।"
+            }
+        }
+    ]
+}
