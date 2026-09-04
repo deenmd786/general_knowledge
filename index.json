@@ -23,6 +23,16 @@
             "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/states_and_capital.json"
         },
         {
+            "id": "countries_and_capitals",
+            "title": {
+                "en": "Countries & Capitals",
+                "hi": "देश और राजधानियां"
+            },
+            "icon": "🗺️",
+            "file_name": "countries_and_capitals.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/countries_and_capitals.json"
+        },
+        {
             "id": "fruits",
             "title": {
                 "en": "Fruits",

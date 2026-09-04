@@ -1,0 +1,508 @@
+{
+    "category": {
+        "en": "Countries, Capitals & Currencies",
+        "hi": "देश, राजधानियाँ और मुद्राएं"
+    },
+    "nations": [
+        {
+            "id": "IN",
+            "flag": "🇮🇳",
+            "country": {
+                "en": "India",
+                "hi": "भारत"
+            },
+            "capital": {
+                "en": "New Delhi",
+                "hi": "नई दिल्ली"
+            },
+            "currency": {
+                "en": "Indian Rupee (INR)",
+                "hi": "भारतीय रुपया (INR)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "US",
+            "flag": "🇺🇸",
+            "country": {
+                "en": "United States",
+                "hi": "संयुक्त राज्य अमेरिका"
+            },
+            "capital": {
+                "en": "Washington, D.C.",
+                "hi": "वाशिंगटन, डी.सी."
+            },
+            "currency": {
+                "en": "United States Dollar (USD)",
+                "hi": "अमेरिकी डॉलर (USD)"
+            },
+            "continent": {
+                "en": "North America",
+                "hi": "उत्तरी अमेरिका"
+            }
+        },
+        {
+            "id": "GB",
+            "flag": "🇬🇧",
+            "country": {
+                "en": "United Kingdom",
+                "hi": "यूनाइटेड किंगडम"
+            },
+            "capital": {
+                "en": "London",
+                "hi": "लंदन"
+            },
+            "currency": {
+                "en": "Pound Sterling (GBP)",
+                "hi": "पाउंड स्टर्लिंग (GBP)"
+            },
+            "continent": {
+                "en": "Europe",
+                "hi": "यूरोप"
+            }
+        },
+        {
+            "id": "RU",
+            "flag": "🇷🇺",
+            "country": {
+                "en": "Russia",
+                "hi": "रूस"
+            },
+            "capital": {
+                "en": "Moscow",
+                "hi": "मास्को"
+            },
+            "currency": {
+                "en": "Russian Ruble (RUB)",
+                "hi": "रूसी रूबल (RUB)"
+            },
+            "continent": {
+                "en": "Europe/Asia",
+                "hi": "यूरोप/एशिया"
+            }
+        },
+        {
+            "id": "CN",
+            "flag": "🇨🇳",
+            "country": {
+                "en": "China",
+                "hi": "चीन"
+            },
+            "capital": {
+                "en": "Beijing",
+                "hi": "बीजिंग"
+            },
+            "currency": {
+                "en": "Renminbi / Yuan (CNY)",
+                "hi": "रेन्मिन्बी / युआन (CNY)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "JP",
+            "flag": "🇯🇵",
+            "country": {
+                "en": "Japan",
+                "hi": "जापान"
+            },
+            "capital": {
+                "en": "Tokyo",
+                "hi": "टोक्यो"
+            },
+            "currency": {
+                "en": "Japanese Yen (JPY)",
+                "hi": "जापानी येन (JPY)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "FR",
+            "flag": "🇫🇷",
+            "country": {
+                "en": "France",
+                "hi": "फ्रांस"
+            },
+            "capital": {
+                "en": "Paris",
+                "hi": "पेरिस"
+            },
+            "currency": {
+                "en": "Euro (EUR)",
+                "hi": "यूरो (EUR)"
+            },
+            "continent": {
+                "en": "Europe",
+                "hi": "यूरोप"
+            }
+        },
+        {
+            "id": "DE",
+            "flag": "🇩🇪",
+            "country": {
+                "en": "Germany",
+                "hi": "जर्मनी"
+            },
+            "capital": {
+                "en": "Berlin",
+                "hi": "बर्लिन"
+            },
+            "currency": {
+                "en": "Euro (EUR)",
+                "hi": "यूरो (EUR)"
+            },
+            "continent": {
+                "en": "Europe",
+                "hi": "यूरोप"
+            }
+        },
+        {
+            "id": "AU",
+            "flag": "🇦🇺",
+            "country": {
+                "en": "Australia",
+                "hi": "ऑस्ट्रेलिया"
+            },
+            "capital": {
+                "en": "Canberra",
+                "hi": "कैनबरा"
+            },
+            "currency": {
+                "en": "Australian Dollar (AUD)",
+                "hi": "ऑस्ट्रेलियाई डॉलर (AUD)"
+            },
+            "continent": {
+                "en": "Oceania",
+                "hi": "ओशिआनिया"
+            }
+        },
+        {
+            "id": "ZA",
+            "flag": "🇿🇦",
+            "country": {
+                "en": "South Africa",
+                "hi": "दक्षिण अफ्रीका"
+            },
+            "capital": {
+                "en": "Pretoria, Cape Town, Bloemfontein",
+                "hi": "प्रिटोरिया, केपटाउन, ब्लोमफ़ोन्टेन"
+            },
+            "currency": {
+                "en": "South African Rand (ZAR)",
+                "hi": "दक्षिण अफ़्रीकी रैंड (ZAR)"
+            },
+            "continent": {
+                "en": "Africa",
+                "hi": "अफ्रीका"
+            }
+        },
+        {
+            "id": "BR",
+            "flag": "🇧🇷",
+            "country": {
+                "en": "Brazil",
+                "hi": "ब्राज़ील"
+            },
+            "capital": {
+                "en": "Brasilia",
+                "hi": "ब्रासीलिया"
+            },
+            "currency": {
+                "en": "Brazilian Real (BRL)",
+                "hi": "ब्राज़ीलियाई रियाल (BRL)"
+            },
+            "continent": {
+                "en": "South America",
+                "hi": "दक्षिण अमेरिका"
+            }
+        },
+        {
+            "id": "CA",
+            "flag": "🇨🇦",
+            "country": {
+                "en": "Canada",
+                "hi": "कनाडा"
+            },
+            "capital": {
+                "en": "Ottawa",
+                "hi": "ओटावा"
+            },
+            "currency": {
+                "en": "Canadian Dollar (CAD)",
+                "hi": "कनाडाई डॉलर (CAD)"
+            },
+            "continent": {
+                "en": "North America",
+                "hi": "उत्तरी अमेरिका"
+            }
+        },
+        {
+            "id": "PK",
+            "flag": "🇵🇰",
+            "country": {
+                "en": "Pakistan",
+                "hi": "पाकिस्तान"
+            },
+            "capital": {
+                "en": "Islamabad",
+                "hi": "इस्लामाबाद"
+            },
+            "currency": {
+                "en": "Pakistani Rupee (PKR)",
+                "hi": "पाकिस्तानी रुपया (PKR)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "BD",
+            "flag": "🇧🇩",
+            "country": {
+                "en": "Bangladesh",
+                "hi": "बांग्लादेश"
+            },
+            "capital": {
+                "en": "Dhaka",
+                "hi": "ढाका"
+            },
+            "currency": {
+                "en": "Bangladeshi Taka (BDT)",
+                "hi": "बांग्लादेशी टका (BDT)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "LK",
+            "flag": "🇱🇰",
+            "country": {
+                "en": "Sri Lanka",
+                "hi": "श्रीलंका"
+            },
+            "capital": {
+                "en": "Sri Jayawardenepura Kotte",
+                "hi": "श्री जयवर्धनेपुरा कोट्टे"
+            },
+            "currency": {
+                "en": "Sri Lankan Rupee (LKR)",
+                "hi": "श्रीलंकाई रुपया (LKR)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "NP",
+            "flag": "🇳🇵",
+            "country": {
+                "en": "Nepal",
+                "hi": "नेपाल"
+            },
+            "capital": {
+                "en": "Kathmandu",
+                "hi": "काठमांडू"
+            },
+            "currency": {
+                "en": "Nepalese Rupee (NPR)",
+                "hi": "नेपाली रुपया (NPR)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "BT",
+            "flag": "🇧🇹",
+            "country": {
+                "en": "Bhutan",
+                "hi": "भूटान"
+            },
+            "capital": {
+                "en": "Thimphu",
+                "hi": "थिम्पू"
+            },
+            "currency": {
+                "en": "Bhutanese Ngultrum (BTN)",
+                "hi": "भूटानी न्गुल्त्रुम (BTN)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "MM",
+            "flag": "🇲🇲",
+            "country": {
+                "en": "Myanmar",
+                "hi": "म्यांमार"
+            },
+            "capital": {
+                "en": "Naypyidaw",
+                "hi": "नेपीडाॅ"
+            },
+            "currency": {
+                "en": "Myanmar Kyat (MMK)",
+                "hi": "म्यांमार क्यात (MMK)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "AF",
+            "flag": "🇦🇫",
+            "country": {
+                "en": "Afghanistan",
+                "hi": "अफगानिस्तान"
+            },
+            "capital": {
+                "en": "Kabul",
+                "hi": "काबुल"
+            },
+            "currency": {
+                "en": "Afghan Afghani (AFN)",
+                "hi": "अफगान अफगानी (AFN)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "SA",
+            "flag": "🇸🇦",
+            "country": {
+                "en": "Saudi Arabia",
+                "hi": "सऊदी अरब"
+            },
+            "capital": {
+                "en": "Riyadh",
+                "hi": "रियाद"
+            },
+            "currency": {
+                "en": "Saudi Riyal (SAR)",
+                "hi": "सऊदी रियाल (SAR)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "AE",
+            "flag": "🇦🇪",
+            "country": {
+                "en": "United Arab Emirates",
+                "hi": "संयुक्त अरब अमीरात"
+            },
+            "capital": {
+                "en": "Abu Dhabi",
+                "hi": "अबू धाबी"
+            },
+            "currency": {
+                "en": "UAE Dirham (AED)",
+                "hi": "यूएई दिरहम (AED)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        },
+        {
+            "id": "EG",
+            "flag": "🇪🇬",
+            "country": {
+                "en": "Egypt",
+                "hi": "मिस्र"
+            },
+            "capital": {
+                "en": "Cairo",
+                "hi": "काहिरा"
+            },
+            "currency": {
+                "en": "Egyptian Pound (EGP)",
+                "hi": "मिस्री पाउंड (EGP)"
+            },
+            "continent": {
+                "en": "Africa",
+                "hi": "अफ्रीका"
+            }
+        },
+        {
+            "id": "IT",
+            "flag": "🇮🇹",
+            "country": {
+                "en": "Italy",
+                "hi": "इटली"
+            },
+            "capital": {
+                "en": "Rome",
+                "hi": "रोम"
+            },
+            "currency": {
+                "en": "Euro (EUR)",
+                "hi": "यूरो (EUR)"
+            },
+            "continent": {
+                "en": "Europe",
+                "hi": "यूरोप"
+            }
+        },
+        {
+            "id": "AR",
+            "flag": "🇦🇷",
+            "country": {
+                "en": "Argentina",
+                "hi": "अर्जेंटीना"
+            },
+            "capital": {
+                "en": "Buenos Aires",
+                "hi": "ब्यूनस आयर्स"
+            },
+            "currency": {
+                "en": "Argentine Peso (ARS)",
+                "hi": "अर्जेंटीना पेसो (ARS)"
+            },
+            "continent": {
+                "en": "South America",
+                "hi": "दक्षिण अमेरिका"
+            }
+        },
+        {
+            "id": "KR",
+            "flag": "🇰🇷",
+            "country": {
+                "en": "South Korea",
+                "hi": "दक्षिण कोरिया"
+            },
+            "capital": {
+                "en": "Seoul",
+                "hi": "सियोल"
+            },
+            "currency": {
+                "en": "South Korean Won (KRW)",
+                "hi": "दक्षिण कोरियाई वॉन (KRW)"
+            },
+            "continent": {
+                "en": "Asia",
+                "hi": "एशिया"
+            }
+        }
+    ]
+}
