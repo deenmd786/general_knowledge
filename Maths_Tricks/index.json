@@ -1,0 +1,66 @@
+{
+    "app_name": "Maths Tricks for Students",
+    "base_url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/Maths_Tricks/",
+    "categories": [
+        {
+            "id": "addition_subtraction",
+            "title": {
+                "en": "Addition & Subtraction",
+                "hi": "जोड़ और घटाव ट्रिक्स"
+            },
+            "icon": "➕",
+            "file_name": "addition_subtraction_tricks.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/Maths_Tricks/addition_subtraction_tricks.json"
+        },
+        {
+            "id": "multiplication",
+            "title": {
+                "en": "Multiplication Tricks",
+                "hi": "गुणा के ट्रिक्स"
+            },
+            "icon": "✖️",
+            "file_name": "multiplication_tricks.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/Maths_Tricks/multiplication_tricks.json"
+        },
+        {
+            "id": "division_divisibility",
+            "title": {
+                "en": "Division & Divisibility",
+                "hi": "भाग और विभाज्यता ट्रिक्स"
+            },
+            "icon": "➗",
+            "file_name": "division_divisibility_tricks.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/Maths_Tricks/division_divisibility_tricks.json"
+        },
+        {
+            "id": "squares_roots",
+            "title": {
+                "en": "Squares & Square Roots",
+                "hi": "वर्ग और वर्गमूल ट्रिक्स"
+            },
+            "icon": "🟥",
+            "file_name": "squares_roots_tricks.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/Maths_Tricks/squares_roots_tricks.json"
+        },
+        {
+            "id": "cubes_roots",
+            "title": {
+                "en": "Cubes & Cube Roots",
+                "hi": "घन और घनमूल ट्रिक्स"
+            },
+            "icon": "🧊",
+            "file_name": "cubes_roots_tricks.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/Maths_Tricks/cubes_roots_tricks.json"
+        },
+        {
+            "id": "percentages_fractions",
+            "title": {
+                "en": "Percentages & Fractions",
+                "hi": "प्रतिशत और भिन्न ट्रिक्स"
+            },
+            "icon": "💯",
+            "file_name": "percentages_fractions_tricks.json",
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/Maths_Tricks/percentages_fractions_tricks.json"
+        }
+    ]
+}
