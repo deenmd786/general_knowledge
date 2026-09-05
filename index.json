@@ -1,6 +1,6 @@
 {
     "app_name": "General Knowledge for Students",
-    "base_url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/",
+    "base_url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/",
     "categories": [
         {
             "id": "gk_india",
@@ -10,7 +10,7 @@
             },
             "icon": "🇮🇳",
             "file_name": "gk.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/gk.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/gk.json"
         },
         {
             "id": "states_capitals",
@@ -20,7 +20,7 @@
             },
             "icon": "🗺️",
             "file_name": "states_and_capital.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/states_and_capital.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/states_and_capital.json"
         },
         {
             "id": "countries_and_capitals",
@@ -30,7 +30,7 @@
             },
             "icon": "🗺️",
             "file_name": "countries_and_capitals.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/countries_and_capitals.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/countries_and_capitals.json"
         },
         {
             "id": "fruits",
@@ -40,7 +40,7 @@
             },
             "icon": "🥭",
             "file_name": "fruits.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/fruits.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/fruits.json"
         },
         {
             "id": "animals",
@@ -50,7 +50,7 @@
             },
             "icon": "🦁",
             "file_name": "animals.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/animals.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/animals.json"
         },
         {
             "id": "birds",
@@ -60,7 +60,7 @@
             },
             "icon": "🦚",
             "file_name": "birds.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/birds.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/birds.json"
         },
         {
             "id": "insects",
@@ -70,7 +70,7 @@
             },
             "icon": "🦋",
             "file_name": "insects.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/insects.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/insects.json"
         },
         {
             "id": "solar_system",
@@ -80,7 +80,7 @@
             },
             "icon": "🪐",
             "file_name": "solar_system.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/solar_system.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/solar_system.json"
         },
         {
             "id": "human_body",
@@ -90,7 +90,7 @@
             },
             "icon": "🧠",
             "file_name": "human_body_organs.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/human_body_organs.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/human_body_organs.json"
         },
         {
             "id": "monuments",
@@ -100,7 +100,7 @@
             },
             "icon": " ताज",
             "file_name": "famous_monuments.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/famous_monuments.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/famous_monuments.json"
         },
         {
             "id": "transport",
@@ -110,7 +110,7 @@
             },
             "icon": "🚀",
             "file_name": "modes_of_transport.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/modes_of_transport.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/modes_of_transport.json"
         },
         {
             "id": "community_helpers",
@@ -120,7 +120,7 @@
             },
             "icon": "👨‍🏫",
             "file_name": "community_helpers.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/community_helpers.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/community_helpers.json"
         },
         {
             "id": "inventions",
@@ -130,7 +130,7 @@
             },
             "icon": "💡",
             "file_name": "famous_inventions.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/famous_inventions.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/famous_inventions.json"
         },
         {
             "id": "sea_animals",
@@ -140,7 +140,7 @@
             },
             "icon": "🐬",
             "file_name": "sea_animals.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/sea_animals.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/sea_animals.json"
         },
         {
             "id": "deep_sea_animals",
@@ -150,17 +150,7 @@
             },
             "icon": "🦑",
             "file_name": "deep_sea_animals.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/deep_sea_animals.json"
-        },
-        {
-            "id": "world_capitals",
-            "title": {
-                "en": "World Capitals",
-                "hi": "विश्व की राजधानियां"
-            },
-            "icon": "🌍",
-            "file_name": "world_capitals.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/world_capitals.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/deep_sea_animals.json"
         },
         {
             "id": "festivals",
@@ -170,7 +160,7 @@
             },
             "icon": "🪔",
             "file_name": "festivals.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/festivals.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/festivals.json"
         },
         {
             "id": "civic_sense",
@@ -180,7 +170,7 @@
             },
             "icon": "🤝",
             "file_name": "civic_sense.json",
-            "url": "https://raw.githubusercontent.com/deenmd786/All_Exams_Data_Set/refs/heads/main/Genral_Knowledge/civic_sense.json"
+            "url": "https://raw.githubusercontent.com/deenmd786/general_knowledge/refs/heads/main/civic_sense.json"
         }
     ]
 }
