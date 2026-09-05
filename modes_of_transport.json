@@ -11,6 +11,7 @@
                 "hi": "सड़क परिवहन"
             },
             "icon": "🚲",
+            "image_url": "https",
             "fact": {
                 "en": "An eco-friendly vehicle with two wheels that you move by pedaling.",
                 "hi": "यह दो पहियों वाला एक पर्यावरण के अनुकूल वाहन है जिसे पैडल मारकर चलाया जाता है।"
@@ -27,6 +28,7 @@
                 "hi": "सड़क परिवहन"
             },
             "icon": "🏍️",
+            "image_url": "https",
             "fact": {
                 "en": "A fast, two-wheeled vehicle powered by an engine. Always wear a helmet!",
                 "hi": "इंजन से चलने वाला एक तेज़ दोपहिया वाहन। इसे चलाते समय हमेशा हेलमेट पहनना चाहिए!"
@@ -43,6 +45,7 @@
                 "hi": "सड़क परिवहन"
             },
             "icon": "🛺",
+            "image_url": "https",
             "fact": {
                 "en": "A very common three-wheeled public transport vehicle found all over India.",
                 "hi": "यह पूरे भारत में पाया जाने वाला एक बहुत ही आम तीन पहियों वाला सार्वजनिक वाहन है।"
@@ -59,6 +62,7 @@
                 "hi": "सड़क परिवहन"
             },
             "icon": "🚗",
+            "image_url": "https",
             "fact": {
                 "en": "A four-wheeled vehicle used mostly by families to travel together on roads.",
                 "hi": "सड़कों पर एक साथ यात्रा करने के लिए परिवारों द्वारा उपयोग किया जाने वाला चार पहियों वाला वाहन।"
@@ -75,6 +79,7 @@
                 "hi": "सड़क परिवहन"
             },
             "icon": "🚌",
+            "image_url": "https",
             "fact": {
                 "en": "A large vehicle designed to carry many passengers at the same time.",
                 "hi": "एक बड़ा वाहन जिसे एक ही समय में कई यात्रियों को ले जाने के लिए बनाया गया है।"
@@ -91,6 +96,7 @@
                 "hi": "सड़क परिवहन"
             },
             "icon": "🚑",
+            "image_url": "https",
             "fact": {
                 "en": "An emergency vehicle that takes sick or injured people to the hospital quickly.",
                 "hi": "एक आपातकालीन वाहन जो बीमार या घायल लोगों को जल्दी से अस्पताल ले जाता है।"
@@ -107,6 +113,7 @@
                 "hi": "सड़क परिवहन"
             },
             "icon": "🚜",
+            "image_url": "https",
             "fact": {
                 "en": "A powerful vehicle used by farmers to plow fields and grow crops.",
                 "hi": "किसानों द्वारा खेतों की जुताई करने और फसल उगाने के लिए उपयोग किया जाने वाला एक शक्तिशाली वाहन।"
@@ -123,6 +130,7 @@
                 "hi": "रेल परिवहन"
             },
             "icon": "🚂",
+            "image_url": "https",
             "fact": {
                 "en": "It runs on iron tracks and can carry hundreds of people or heavy goods over long distances.",
                 "hi": "यह लोहे की पटरियों पर चलती है और लंबी दूरी तक सैकड़ों लोगों या भारी सामान को ले जा सकती है।"
@@ -139,6 +147,7 @@
                 "hi": "रेल परिवहन"
             },
             "icon": "🚇",
+            "image_url": "https",
             "fact": {
                 "en": "A fast, electric train system used for public transport inside big cities.",
                 "hi": "बड़े शहरों के अंदर सार्वजनिक परिवहन के लिए उपयोग की जाने वाली एक तेज़, इलेक्ट्रिक ट्रेन प्रणाली।"
@@ -155,6 +164,7 @@
                 "hi": "जल परिवहन"
             },
             "icon": "⛵",
+            "image_url": "https",
             "fact": {
                 "en": "A small watercraft used for traveling on rivers and lakes.",
                 "hi": "नदियों और झीलों पर यात्रा करने के लिए उपयोग किया जाने वाला एक छोटा जलयान।"
@@ -171,6 +181,7 @@
                 "hi": "जल परिवहन"
             },
             "icon": "🚢",
+            "image_url": "https",
             "fact": {
                 "en": "A very large vessel that travels across oceans carrying people or cargo.",
                 "hi": "एक बहुत बड़ा जलयान जो लोगों या सामान को लेकर महासागरों को पार करता है।"
@@ -187,6 +198,7 @@
                 "hi": "वायु परिवहन"
             },
             "icon": "✈️",
+            "image_url": "https",
             "fact": {
                 "en": "The fastest way to travel long distances by flying high up in the sky.",
                 "hi": "आसमान में ऊंची उड़ान भरकर लंबी दूरी तय करने का सबसे तेज़ तरीका।"
@@ -203,6 +215,7 @@
                 "hi": "वायु परिवहन"
             },
             "icon": "🚁",
+            "image_url": "https",
             "fact": {
                 "en": "An aircraft with spinning blades on top that can take off and land straight up and down.",
                 "hi": "ऊपर घूमने वाले ब्लेड वाला एक विमान जो सीधे ऊपर और नीचे उड़ान भर और उतर सकता है।"
@@ -219,6 +232,7 @@
                 "hi": "अंतरिक्ष परिवहन"
             },
             "icon": "🚀",
+            "image_url": "https",
             "fact": {
                 "en": "A powerful vehicle designed to travel completely out of Earth's atmosphere and into space.",
                 "hi": "एक शक्तिशाली वाहन जिसे पृथ्वी के वायुमंडल से पूरी तरह बाहर अंतरिक्ष में यात्रा करने के लिए बनाया गया है।"

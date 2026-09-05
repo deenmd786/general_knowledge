@@ -7,6 +7,7 @@
                 "hi": "चींटी"
             },
             "icon": "🐜",
+            "image_url": "https",
             "scientific_name": "Formicidae",
             "fact": {
                 "en": "Can carry items much heavier than their own body weight.",
@@ -20,6 +21,7 @@
                 "hi": "तितली"
             },
             "icon": "🦋",
+            "image_url": "https",
             "scientific_name": "Rhopalocera",
             "fact": {
                 "en": "Tastes its food using its feet.",
@@ -33,6 +35,7 @@
                 "hi": "मधुमक्खी"
             },
             "icon": "🐝",
+            "image_url": "https",
             "scientific_name": "Apis",
             "fact": {
                 "en": "Collects nectar from flowers to make honey.",
@@ -46,6 +49,7 @@
                 "hi": "मच्छर"
             },
             "icon": "🦟",
+            "image_url": "https",
             "scientific_name": "Culicidae",
             "fact": {
                 "en": "Only female mosquitoes bite humans and animals for blood.",
@@ -59,6 +63,7 @@
                 "hi": "मक्खी"
             },
             "icon": "🪰",
+            "image_url": "https",
             "scientific_name": "Musca domestica",
             "fact": {
                 "en": "Can walk upside down on ceilings thanks to sticky pads on its feet.",
@@ -72,6 +77,7 @@
                 "hi": "तिलचट्टा / कॉकरोच"
             },
             "icon": "🪳",
+            "image_url": "https",
             "scientific_name": "Blattodea",
             "fact": {
                 "en": "Can live for up to a week even without its head.",
@@ -85,6 +91,7 @@
                 "hi": "सोनपंखी (लेडीबग)"
             },
             "icon": "🐞",
+            "image_url": "https",
             "scientific_name": "Coccinellidae",
             "fact": {
                 "en": "Has a red shell with black spots and eats pests that harm plants.",
@@ -98,6 +105,7 @@
                 "hi": "टिड्डा"
             },
             "icon": "🦗",
+            "image_url": "https",
             "scientific_name": "Caelifera",
             "fact": {
                 "en": "Can leap 20 times the length of its own body.",
@@ -111,6 +119,7 @@
                 "hi": "भृंग (बीटल)"
             },
             "icon": "🪲",
+            "image_url": "https",
             "scientific_name": "Coleoptera",
             "fact": {
                 "en": "They have hard, shell-like front wings to protect their bodies.",
@@ -124,6 +133,7 @@
                 "hi": "इल्ली (कैटरपिलर)"
             },
             "icon": "🐛",
+            "image_url": "https",
             "scientific_name": "Lepidoptera (Larva)",
             "fact": {
                 "en": "Spins a cocoon and later transforms into a beautiful butterfly or moth.",
@@ -137,6 +147,7 @@
                 "hi": "मकड़ी"
             },
             "icon": "🕷️",
+            "image_url": "https",
             "scientific_name": "Araneae",
             "fact": {
                 "en": "Not an insect! It is an arachnid because it has 8 legs instead of 6.",
@@ -150,6 +161,7 @@
                 "hi": "बिच्छू"
             },
             "icon": "🦂",
+            "image_url": "https",
             "scientific_name": "Scorpiones",
             "fact": {
                 "en": "Also an arachnid, known for the venomous stinger at the end of its tail.",
@@ -163,6 +175,7 @@
                 "hi": "केंचुआ"
             },
             "icon": "🪱",
+            "image_url": "https",
             "scientific_name": "Lumbricina",
             "fact": {
                 "en": "Known as the farmer's friend because it makes the soil fertile.",
@@ -176,6 +189,7 @@
                 "hi": "घोंघा"
             },
             "icon": "🐌",
+            "image_url": "https",
             "scientific_name": "Gastropoda",
             "fact": {
                 "en": "A mollusk that carries its shell home on its back and moves very slowly.",
@@ -189,6 +203,7 @@
                 "hi": "झींगुर"
             },
             "icon": "🦗",
+            "image_url": "https",
             "scientific_name": "Grylloidea",
             "fact": {
                 "en": "Makes a loud chirping sound at night by rubbing its wings together.",
@@ -202,6 +217,7 @@
                 "hi": "जुगनू"
             },
             "icon": "🌟",
+            "image_url": "https",
             "scientific_name": "Lampyridae",
             "fact": {
                 "en": "A type of beetle that produces its own light to glow in the dark.",
@@ -215,6 +231,7 @@
                 "hi": "ततैया (बर्र)"
             },
             "icon": "🐝",
+            "image_url": "https",
             "scientific_name": "Vespidae",
             "fact": {
                 "en": "Unlike a honey bee, a wasp can sting multiple times without losing its stinger.",
@@ -228,6 +245,7 @@
                 "hi": "दीमक"
             },
             "icon": "🪵",
+            "image_url": "https",
             "scientific_name": "Isoptera",
             "fact": {
                 "en": "Eats dead plant material and wood, which can destroy wooden furniture.",
@@ -241,6 +259,7 @@
                 "hi": "पतंगा"
             },
             "icon": "🦋",
+            "image_url": "https",
             "scientific_name": "Lepidoptera",
             "fact": {
                 "en": "Looks like a butterfly but mostly flies at night and loves light.",
@@ -254,6 +273,7 @@
                 "hi": "व्याध पतंग (ड्रैगनफ्लाई)"
             },
             "icon": "🚁",
+            "image_url": "https",
             "scientific_name": "Anisoptera",
             "fact": {
                 "en": "An amazing flier that can fly straight up, down, and even backwards like a helicopter.",

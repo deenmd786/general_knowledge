@@ -11,6 +11,7 @@
                 "hi": "तंत्रिका तंत्र"
             },
             "icon": "🧠",
+            "image_url": "https",
             "fact": {
                 "en": "The control center of your body. It helps you think, learn, and feel.",
                 "hi": "यह आपके शरीर का नियंत्रण केंद्र है। यह आपको सोचने, सीखने और महसूस करने में मदद करता है।"
@@ -27,6 +28,7 @@
                 "hi": "परिसंचरण तंत्र"
             },
             "icon": "🫀",
+            "image_url": "https",
             "fact": {
                 "en": "It pumps oxygen-rich blood to every part of your body.",
                 "hi": "यह आपके शरीर के हर हिस्से में ऑक्सीजन युक्त रक्त (खून) पंप करता है।"
@@ -43,6 +45,7 @@
                 "hi": "श्वसन तंत्र"
             },
             "icon": "🫁",
+            "image_url": "https",
             "fact": {
                 "en": "They help you breathe in oxygen and breathe out carbon dioxide.",
                 "hi": "ये आपको ऑक्सीजन अंदर लेने और कार्बन डाइऑक्साइड बाहर छोड़ने में मदद करते हैं।"
@@ -59,6 +62,7 @@
                 "hi": "पाचन तंत्र"
             },
             "icon": "🍲",
+            "image_url": "https",
             "fact": {
                 "en": "It uses special acids to break down and digest the food you eat.",
                 "hi": "यह आपके द्वारा खाए गए भोजन को तोड़ने और पचाने के लिए विशेष एसिड का उपयोग करता है।"
@@ -75,6 +79,7 @@
                 "hi": "पाचन तंत्र"
             },
             "icon": "🩸",
+            "image_url": "https",
             "fact": {
                 "en": "It cleans your blood and produces a liquid called bile to help digest fat.",
                 "hi": "यह आपके खून को साफ करता है और वसा (फैट) को पचाने के लिए पित्त नामक तरल पदार्थ बनाता है।"
@@ -91,6 +96,7 @@
                 "hi": "उत्सर्जन तंत्र"
             },
             "icon": "🫘",
+            "image_url": "https",
             "fact": {
                 "en": "Two bean-shaped organs that filter waste from your blood to make urine.",
                 "hi": "सेम के आकार के दो अंग जो मूत्र (पेशाब) बनाने के लिए खून से कचरे को छानते हैं।"
@@ -107,6 +113,7 @@
                 "hi": "कंकाल तंत्र"
             },
             "icon": "🦴",
+            "image_url": "https",
             "fact": {
                 "en": "An adult human has 206 bones that give the body its shape and protect internal organs.",
                 "hi": "एक वयस्क इंसान में 206 हड्डियां होती हैं जो शरीर को आकार देती हैं और अंगों की रक्षा करती हैं।"
@@ -123,6 +130,7 @@
                 "hi": "मांसपेशी तंत्र"
             },
             "icon": "💪",
+            "image_url": "https",
             "fact": {
                 "en": "They attach to your bones and pull on them so you can move, run, and jump.",
                 "hi": "ये आपकी हड्डियों से जुड़ी होती हैं और आपको चलने, दौड़ने और कूदने में मदद करती हैं।"
@@ -139,6 +147,7 @@
                 "hi": "अध्यावरणी तंत्र"
             },
             "icon": "🤚",
+            "image_url": "https",
             "fact": {
                 "en": "The largest organ of the human body. It protects everything inside you.",
                 "hi": "मानव शरीर का सबसे बड़ा अंग। यह आपके अंदर की हर चीज़ की रक्षा करता है।"
@@ -155,6 +164,7 @@
                 "hi": "संवेदी अंग"
             },
             "icon": "👀",
+            "image_url": "https",
             "fact": {
                 "en": "They take in light and send pictures to your brain so you can see the world.",
                 "hi": "ये प्रकाश को ग्रहण करती हैं और आपके मस्तिष्क को चित्र भेजती हैं ताकि आप दुनिया देख सकें।"
@@ -171,6 +181,7 @@
                 "hi": "संवेदी अंग"
             },
             "icon": "👂",
+            "image_url": "https",
             "fact": {
                 "en": "They help you hear sounds and also help you keep your balance when you walk.",
                 "hi": "ये आपको सुनने में मदद करते हैं और चलते समय शरीर का संतुलन बनाए रखने में भी मदद करते हैं।"
@@ -187,6 +198,7 @@
                 "hi": "पाचन तंत्र"
             },
             "icon": "🦷",
+            "image_url": "https",
             "fact": {
                 "en": "They are the hardest substance in the human body, used for biting and chewing food.",
                 "hi": "ये मानव शरीर का सबसे कठोर हिस्सा हैं, जिनका उपयोग भोजन को काटने और चबाने के लिए किया जाता है।"

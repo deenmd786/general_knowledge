@@ -1,6 +1,91 @@
 {
     "famous_inventions": [
         {
+            "id": "zero",
+            "name": {
+                "en": "The Concept of Zero",
+                "hi": "शून्य की अवधारणा"
+            },
+            "inventor": {
+                "en": "Ancient Indian Mathematicians (Aryabhata)",
+                "hi": "प्राचीन भारतीय गणितज्ञ (आर्यभट्ट)"
+            },
+            "icon": "0️⃣",
+            "image_url": "https://www.adda247.com/jobs/wp-content/uploads/sites/2/2021/12/14213754/aryabhata-5-1.jpg",
+            "fact": {
+                "en": "Ancient Indians developed zero not just as a placeholder, but as a full numeral with its own arithmetic rules, transforming modern mathematics.",
+                "hi": "प्राचीन भारतीयों ने शून्य को केवल एक प्रतीक नहीं बल्कि नियमों सहित एक स्वतंत्र अंक के रूप में विकसित किया, जिसने आधुनिक गणित की नींव रखी।"
+            }
+        },
+        {
+            "id": "chess",
+            "name": {
+                "en": "Chess (Chaturanga)",
+                "hi": "शतरंज (चतुरंग)"
+            },
+            "inventor": {
+                "en": "Ancient Indians (Gupta Empire)",
+                "hi": "प्राचीन भारतीय (गुप्त साम्राज्य)"
+            },
+            "icon": "♟️",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnS2eGQsLexuDj85bIsXyfVOK3Zw6HknvdvggAYWImaj_9boDT5h0B9Pq8&s=10",
+            "fact": {
+                "en": "Invented as 'Chaturanga' in 6th-century India, the game represented the four divisions of the military: infantry, cavalry, elephants, and chariots.",
+                "hi": "छठी शताब्दी के भारत में 'चतुरंग' के रूप में उत्पन्न, यह खेल सेना के चार अंगों—पैदल, घुड़सवार, गज (हाथी), और रथ का प्रतिनिधित्व करता था।"
+            }
+        },
+        {
+            "id": "plastic_surgery",
+            "name": {
+                "en": "Plastic & Cataract Surgery",
+                "hi": "प्लास्टिक एवं मोतियाबिंद शल्यक्रिया"
+            },
+            "inventor": {
+                "en": "Maharshi Sushruta",
+                "hi": "महर्षि सुश्रुत"
+            },
+            "icon": "🩺",
+            "image_url": "https://static.wixstatic.com/media/1e84e2_7648c5ad1c2949d4ad7861e85521d248~mv2.png/v1/fill/w_320,h_320,al_c/1e84e2_7648c5ad1c2949d4ad7861e85521d248~mv2.png",
+            "fact": {
+                "en": "Sushruta, known as the 'Father of Surgery,' documented complex reconstructive techniques like rhinoplasty (nasal reconstruction) around the 6th century BCE.",
+                "hi": "'शल्य चिकित्सा के जनक' कहे जाने वाले सुश्रुत ने ईसा पूर्व छठी शताब्दी में राइनोप्लास्टी (नाक की पुनर्निर्माण सर्जरी) और मोतियाबिंद के ऑपरेशन की विधियां दर्ज की थीं।"
+            }
+        },
+        {
+            "id": "snakes_and_ladders",
+            "name": {
+                "en": "Snakes and Ladders (Moksha Patam)",
+                "hi": "सांप-सीढ़ी (मोक्ष पटम)"
+            },
+            "inventor": {
+                "en": "Ancient Indian Philosophers",
+                "hi": "प्राचीन भारतीय दार्शनिक"
+            },
+            "icon": "🪜",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH3gfiIgedejutrabxT3b_wGmDBXbDOmmR-odESUMXG4QzW0PItEHbhQ&s=10",
+            "fact": {
+                "en": "Originally designed to teach morals and karma, ladders represented virtues leading to liberation (Moksha), while snakes represented vices leading to rebirth.",
+                "hi": "यह खेल मूल रूप से कर्म और नैतिकता सिखाने के लिए बनाया गया था, जहाँ सीढ़ियाँ मुक्ति (मोक्ष) की ओर ले जाने वाले गुणों और सांप दुर्गुणों का प्रतीक थे।"
+            }
+        },
+        {
+            "id": "buttons",
+            "name": {
+                "en": "Ornamental Buttons",
+                "hi": "बटन"
+            },
+            "inventor": {
+                "en": "Indus Valley Civilization",
+                "hi": "सिंधु घाटी सभ्यता"
+            },
+            "icon": "🔘",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*3o5nJBcQlsQIfClV9fZmAQ.jpeg",
+            "fact": {
+                "en": "Curved seashell buttons with perforations were used for ornamental fastening in Mohenjo-daro as early as 2800–2600 BCE.",
+                "hi": "सिंधु घाटी के मोहनजोदड़ो में लगभग 2800-2600 ईसा पूर्व में समुद्री सीपियों से बने सजावटी और जोड़ने वाले बटनों का उपयोग शुरू हुआ था।"
+            }
+        },
+        {
             "id": "telephone",
             "name": {
                 "en": "Telephone",
@@ -11,6 +96,7 @@
                 "hi": "अलेक्जेंडर ग्राहम बेल"
             },
             "icon": "☎️",
+            "image_url": "https://images.unsplash.com/photo-1778867127737-1e6f8eb32623?q=80&w=725&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Invented in 1876, it allowed people to talk to each other across long distances for the first time.",
                 "hi": "1876 में इसका आविष्कार हुआ, जिससे लोगों ने पहली बार लंबी दूरी पर एक-दूसरे से बात की।"
@@ -27,6 +113,7 @@
                 "hi": "थॉमस एडिसन"
             },
             "icon": "💡",
+            "image_url": "https://plus.unsplash.com/premium_photo-1682125710267-110e0f126565?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Edison created a practical and long-lasting electric light bulb that changed how the world lived after dark.",
                 "hi": "एडिसन ने एक व्यावहारिक और लंबे समय तक चलने वाला बल्ब बनाया जिसने रात के समय दुनिया के जीने का तरीका बदल दिया।"
@@ -43,6 +130,7 @@
                 "hi": "राइट ब्रदर्स (ऑरविल और विल्बर)"
             },
             "icon": "✈️",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wright_Brothers_at_home%2C_1909.jpg/250px-Wright_Brothers_at_home%2C_1909.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
             "fact": {
                 "en": "In 1903, they successfully flew the first engine-powered airplane in the sky.",
                 "hi": "1903 में, उन्होंने आसमान में पहला इंजन से चलने वाला हवाई जहाज़ सफलतापूर्वक उड़ाया था।"
@@ -59,6 +147,7 @@
                 "hi": "चार्ल्स बैबेज"
             },
             "icon": "💻",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVb3gOX7663Rsy15E1rSW4quiazwRDR67XbkXLDk_ZXB5T9gUmOJjWXU0Q&s=10",
             "fact": {
                 "en": "Known as the 'Father of the Computer', he designed the first mechanical computing machine.",
                 "hi": "उन्हें 'कंप्यूटर का जनक' कहा जाता है, उन्होंने पहली यांत्रिक कंप्यूटिंग मशीन डिज़ाइन की थी।"
@@ -75,6 +164,7 @@
                 "hi": "जॉन लॉगी बेयर्ड"
             },
             "icon": "📺",
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1790A/production/_92622569_mediaitem92622568.jpg",
             "fact": {
                 "en": "He demonstrated the first working mechanical television system in the 1920s.",
                 "hi": "उन्होंने 1920 के दशक में पहली काम करने वाली मैकेनिकल टेलीविज़न प्रणाली का प्रदर्शन किया था।"
@@ -91,6 +181,7 @@
                 "hi": "गुग्लिल्मो मार्कोनी"
             },
             "icon": "📻",
+            "image_url": "https://www.thoughtco.com/thmb/MLGNtRUcN7HomM_zmzRxxu-Ks5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/guglielmo-marconi--1874-1937---italian-physicist-and-radio-pioneer-654313946-5baa7d23c9e77c002c954e55.jpg",
             "fact": {
                 "en": "He developed the first practical system for sending messages wirelessly using radio waves.",
                 "hi": "उन्होंने रेडियो तरंगों का उपयोग करके बिना तारों के संदेश भेजने की पहली व्यावहारिक प्रणाली विकसित की।"
@@ -107,6 +198,7 @@
                 "hi": "गैलीलियो गैलीली (खगोल विज्ञान के लिए सुधारा)"
             },
             "icon": "🔭",
+            "image_url": "https://pbs.twimg.com/media/G-KB2U4a0AAaRgH.jpg",
             "fact": {
                 "en": "Galileo used it to look at the night sky and discovered the moons of Jupiter.",
                 "hi": "गैलीलियो ने इसका उपयोग रात के आकाश को देखने के लिए किया और बृहस्पति के चंद्रमाओं की खोज की।"
@@ -123,6 +215,7 @@
                 "hi": "जोहान्स गुटेनबर्ग"
             },
             "icon": "🖨️",
+            "image_url": "https://todomedieval.com/cdn/shop/articles/imagen_2025-12-07_210100845_e56a7203-8d55-458c-b4e2-f8050a68284b.png?v=1779957106&width=1024",
             "fact": {
                 "en": "It made it possible to print books quickly and cheaply, helping to spread knowledge across the world.",
                 "hi": "इसने किताबों को जल्दी और सस्ते में छापना संभव बनाया, जिससे दुनिया भर में ज्ञान फैलाने में मदद मिली।"
@@ -139,6 +232,7 @@
                 "hi": "जेम्स वाट"
             },
             "icon": "🚂",
+            "image_url": "https://images.unsplash.com/photo-1585076800574-8fe7fd4f8b3e?q=80&w=761&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "His improvements to the steam engine powered the Industrial Revolution, running early factories and trains.",
                 "hi": "भाप के इंजन में उनके सुधारों ने औद्योगिक क्रांति को शक्ति दी, जिससे शुरुआती कारखाने और ट्रेनें चलीं।"
@@ -155,6 +249,7 @@
                 "hi": "टिम बर्नर्स-ली"
             },
             "icon": "🌐",
+            "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/e9de6f62-f0ff-11e2-8c7c-d4ae52e62bcc.jpg",
             "fact": {
                 "en": "He invented the World Wide Web, which allows us to browse websites and share information globally.",
                 "hi": "उन्होंने वर्ल्ड वाइड वेब का आविष्कार किया, जो हमें वेबसाइट ब्राउज़ करने और विश्व स्तर पर जानकारी साझा करने की अनुमति देता है।"
@@ -171,6 +266,7 @@
                 "hi": "प्राचीन चीनी आविष्कारक"
             },
             "icon": "🧭",
+            "image_url": "https://i.cchatty2.com/filters:format(webp)/fit-in/0x0/img/201911/The-Four-Major-Inventions-of-China+Hello+Compass-article-1574298885.jpg",
             "fact": {
                 "en": "Invented in ancient China, it helped sailors navigate the oceans safely by always pointing North.",
                 "hi": "प्राचीन चीन में आविष्कार किया गया, इसने हमेशा उत्तर दिशा दिखाकर नाविकों को सुरक्षित यात्रा करने में मदद की।"
@@ -187,6 +283,7 @@
                 "hi": "प्राचीन मेसोपोटामियाई"
             },
             "icon": "🛞",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH5H5gJyblvGUInrdfZQSX7p9fUMJPGdltn4Lqj7eCQ-kDtLkHgrbxguyW&s=10",
             "fact": {
                 "en": "One of the oldest and most important inventions, it completely changed transport and machinery.",
                 "hi": "सबसे पुराने और सबसे महत्वपूर्ण आविष्कारों में से एक, इसने परिवहन और मशीनरी को पूरी तरह से बदल दिया।"

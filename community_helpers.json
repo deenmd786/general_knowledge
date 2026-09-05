@@ -7,6 +7,7 @@
                 "hi": "शिक्षक / अध्यापक"
             },
             "icon": "👨‍🏫",
+            "image_url": "https://plus.unsplash.com/premium_photo-1661380797814-d0bcc01342b7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Helps students learn new things, read, write, and gain knowledge at school.",
                 "hi": "स्कूल में छात्रों को नई चीजें सीखने, पढ़ने, लिखने और ज्ञान प्राप्त करने में मदद करते हैं।"
@@ -19,6 +20,7 @@
                 "hi": "डॉक्टर / चिकित्सक"
             },
             "icon": "🧑‍⚕️",
+            "image_url": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Diagnoses illnesses and gives medicine to help sick or injured people feel better.",
                 "hi": "बीमारियों की पहचान करते हैं और बीमार या घायल लोगों को ठीक करने के लिए दवा देते हैं।"
@@ -31,6 +33,7 @@
                 "hi": "नर्स / परिचारिका"
             },
             "icon": "👩‍⚕️",
+            "image_url": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Works in hospitals to care for patients and helps doctors do their jobs.",
                 "hi": "अस्पतालों में मरीजों की देखभाल करती हैं और डॉक्टरों को उनके काम में मदद करती हैं।"
@@ -43,6 +46,7 @@
                 "hi": "किसान"
             },
             "icon": "🧑‍🌾",
+            "image_url": "https://images.unsplash.com/photo-1620901433789-1d2f85a93653?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Works hard in the fields to grow crops, vegetables, and fruits for us to eat.",
                 "hi": "हमारे खाने के लिए फसलें, सब्जियां और फल उगाने के लिए खेतों में कड़ी मेहनत करते हैं।"
@@ -55,6 +59,7 @@
                 "hi": "पुलिस अधिकारी"
             },
             "icon": "👮",
+            "image_url": "https://images.unsplash.com/photo-1615482317155-9d26e2574de2?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Protects the community, stops crime, and makes sure everyone follows the law.",
                 "hi": "समुदाय की रक्षा करते हैं, अपराध रोकते हैं और सुनिश्चित करते हैं कि हर कोई कानून का पालन करे।"
@@ -67,6 +72,7 @@
                 "hi": "दमकलकर्मी (फायरफाइटर)"
             },
             "icon": "🧑‍🚒",
+            "image_url": "https://images.unsplash.com/photo-1576707995936-a6cffe26ef7b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Drives a big red truck and bravely puts out dangerous fires to save people.",
                 "hi": "एक बड़ा लाल ट्रक चलाते हैं और लोगों को बचाने के लिए बहादुरी से खतरनाक आग बुझाते हैं।"
@@ -79,6 +85,7 @@
                 "hi": "सैनिक / फौजी"
             },
             "icon": "🪖",
+            "image_url": "https://images.unsplash.com/flagged/photo-1560177776-295b9cd779de?q=80&w=802&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Serves in the army to protect our country's borders and keep the nation safe.",
                 "hi": "हमारे देश की सीमाओं की रक्षा करने और राष्ट्र को सुरक्षित रखने के लिए सेना में सेवा करते हैं।"
@@ -91,6 +98,7 @@
                 "hi": "डाकिया"
             },
             "icon": "📮",
+            "image_url": "https://m.media-amazon.com/images/I/61uyiPrdswL._AC_UF894,1000_QL80_.jpg",
             "fact": {
                 "en": "Delivers important letters, bills, and packages right to our homes.",
                 "hi": "महत्वपूर्ण चिट्ठियां, बिल और पार्सल सीधे हमारे घरों तक पहुंचाते हैं।"
@@ -103,6 +111,7 @@
                 "hi": "वैज्ञानिक"
             },
             "icon": "🧑‍🔬",
+            "image_url": "https://plus.unsplash.com/premium_photo-1661374909989-d653eaa4f62d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Does experiments in a lab to discover new things and invent new technologies.",
                 "hi": "नई चीजों की खोज करने और नई तकनीकों का आविष्कार करने के लिए लैब में प्रयोग करते हैं।"
@@ -115,6 +124,7 @@
                 "hi": "रसोइया (शेफ)"
             },
             "icon": "🧑‍🍳",
+            "image_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Prepares and cooks delicious and safe food for people in restaurants.",
                 "hi": "रेस्तरां में लोगों के लिए स्वादिष्ट और सुरक्षित भोजन तैयार करते हैं और पकाते हैं।"
@@ -127,6 +137,7 @@
                 "hi": "मैकेनिक"
             },
             "icon": "🧑‍🔧",
+            "image_url": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Uses tools to fix cars, bikes, and other machines when they break down.",
                 "hi": "खराब होने पर कारों, बाइकों और अन्य मशीनों को ठीक करने के लिए औजारों का उपयोग करते हैं।"
@@ -139,6 +150,7 @@
                 "hi": "प्लंबर"
             },
             "icon": "🪠",
+            "image_url": "https://plus.unsplash.com/premium_photo-1663045495725-89f23b57cfc5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Repairs broken water pipes, taps, and toilets so we always have clean water.",
                 "hi": "टूटे हुए पानी के पाइप, नल और शौचालय की मरम्मत करते हैं ताकि हमें हमेशा साफ पानी मिल सके।"
@@ -151,6 +163,7 @@
                 "hi": "बिजली मिस्त्री (इलेक्ट्रीशियन)"
             },
             "icon": "💡",
+            "image_url": "https://images.unsplash.com/photo-1555963966-b7ae5404b6ed?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Safely installs and fixes wires, fans, and lights so our homes have electricity.",
                 "hi": "सुरक्षित रूप से तार, पंखे और लाइट लगाते हैं और ठीक करते हैं ताकि हमारे घरों में बिजली रहे।"
@@ -163,6 +176,7 @@
                 "hi": "पायलट"
             },
             "icon": "🧑‍✈️",
+            "image_url": "https://plus.unsplash.com/premium_photo-1661504402886-4a4fefe9dc99?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Flies airplanes safely through the sky to take passengers to different cities or countries.",
                 "hi": "यात्रियों को विभिन्न शहरों या देशों में ले जाने के लिए आसमान में सुरक्षित रूप से हवाई जहाज उड़ाते हैं।"
@@ -175,6 +189,7 @@
                 "hi": "सफाई कर्मचारी"
             },
             "icon": "🧹",
+            "image_url": "https://plus.unsplash.com/premium_photo-1663047397245-2ddad26c5dd7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "fact": {
                 "en": "Works hard to collect trash and keep our streets, schools, and cities clean and healthy.",
                 "hi": "कचरा इकट्ठा करने और हमारी सड़कों, स्कूलों और शहरों को साफ और स्वस्थ रखने के लिए कड़ी मेहनत करते हैं।"
