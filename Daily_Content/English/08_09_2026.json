@@ -1,0 +1,45 @@
+{
+    "date": "08-09-2026",
+    "daily_content": {
+        "paheli": {
+            "icon": "🤔",
+            "question": "A bowl upon a bowl, the son is fairer than the father! What am I?",
+            "answer": "Coconut"
+        },
+        "joke": {
+            "icon": "😂",
+            "characters": "Teacher and Chintu",
+            "dialogue": [
+                "Teacher: Chintu, tell me, what is Newton's Law?",
+                "Chintu: Sir, Newton's Law states that studying happens at maximum speed only the day before the exam!",
+                "Teacher: (Surprised) And what about the rest of the days?",
+                "Chintu: On the rest of the days, the 'Law of Rest' applies!"
+            ]
+        },
+        "prerak_kahani": {
+            "icon": "📖",
+            "title": "The Power of Continuous Practice",
+            "story": "Once, a boy named Rohan was very weak in Mathematics and always scored low marks. Instead of getting discouraged, he made a rule to practice math for an extra half hour every day. In the beginning, he made many mistakes, but he didn't give up. Gradually, his understanding improved, and he scored the highest marks in his class in the annual exams.",
+            "moral": "With true dedication and continuous practice, even the impossible becomes possible."
+        },
+        "word_of_the_day": {
+            "icon": "📚",
+            "word": "Perseverance",
+            "meaning": "Persistence and continued effort to achieve a goal despite difficulties or delays.",
+            "example": "Perseverance is essential to achieve success in life."
+        },
+        "today_in_history": {
+            "icon": "🏛️",
+            "fact": "September 8 is celebrated worldwide as 'International Literacy Day'. UNESCO established this day in 1966 to highlight the importance of literacy in society."
+        },
+        "did_you_know": {
+            "icon": "💡",
+            "fact": "Did you know that butterflies taste things with their feet? They have special chemosensory organs on their feet that help them identify food."
+        },
+        "quote_of_the_day": {
+            "icon": "✨",
+            "quote": "Education is the most powerful weapon which you can use to change the world.",
+            "author": "Nelson Mandela"
+        }
+    }
+}
