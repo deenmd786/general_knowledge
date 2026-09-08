@@ -1,0 +1,43 @@
+{
+    "date": "09-09-2026",
+    "daily_content": {
+        "paheli": {
+            "icon": "🤔",
+            "question": "What is something that is bought to eat, but is never eaten?",
+            "answer": "A plate or a spoon"
+        },
+        "joke": {
+            "icon": "😂",
+            "characters": "Teacher - Raju",
+            "dialogue": [
+                "Teacher: Raju, tell me, if you have 10 candies and you give 5 to your friend, what will you be left with?",
+                "Raju: Sir, a new and very true friend!"
+            ]
+        },
+        "prerak_kahani": {
+            "icon": "📖",
+            "title": "The Importance of Continuous Effort",
+            "story": "A boy named Rohan lived in a village and was very weak in mathematics. Disappointed by his low marks in the exam, he felt disheartened. His teacher explained to him that just as repeated rubbing of a rope leaves a mark on a hard stone, regular practice makes every subject easy. Rohan made up his mind and began practicing math for an extra hour every day. In just a few months, his hard work paid off, and he scored the highest marks in mathematics in the annual exam.",
+            "moral": "With true dedication and continuous practice, even the impossible becomes possible."
+        },
+        "word_of_the_day": {
+            "icon": "📚",
+            "word": "Perseverance",
+            "meaning": "Persistence in doing something despite difficulty or delay in achieving success; steadfastness.",
+            "example": "Despite the difficult circumstances, Rohan achieved success through his perseverance."
+        },
+        "today_in_history": {
+            "icon": "🏛️",
+            "fact": "On September 9, 1887, Pandit Govind Ballabh Pant, the renowned freedom fighter and Bharat Ratna awardee, was born."
+        },
+        "did_you_know": {
+            "icon": "💡",
+            "fact": "Did you know that a giraffe's tongue is about 21 inches (53 cm) long, and it can even use its tongue to clean its own ears!"
+        },
+        "quote_of_the_day": {
+            "icon": "✨",
+            "quote": "Dreams are not those which you see while sleeping, dreams are those which don't let you sleep.",
+            "author": "Dr. A.P.J. Abdul Kalam"
+        }
+    }
+}
