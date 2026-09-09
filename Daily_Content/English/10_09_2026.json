@@ -1,0 +1,43 @@
+{
+    "date": "10-09-2026",
+    "daily_content": {
+        "paheli": {
+            "icon": "🤔",
+            "question": "The red horse stays still while the black horse keeps running. What am I?",
+            "answer": "Fire and Smoke"
+        },
+        "joke": {
+            "icon": "😂",
+            "characters": "Teacher and Chintu",
+            "dialogue": [
+                "Teacher: Chintu, if the Earth is spinning, why don't we feel it?",
+                "Chintu: Sir, I think the Earth spins on 'silent mode'!"
+            ]
+        },
+        "prerak_kahani": {
+            "icon": "📖",
+            "title": "The Ant's Effort",
+            "story": "Once, a tiny ant was trying to carry a piece of food heavier than its own weight. It kept falling, but it did not give up. A butterfly sitting nearby said, 'You are so small, you won't be able to do this.' The ant paid no attention and kept trying continuously. Eventually, it succeeded in bringing the food back to its burrow.",
+            "moral": "With continuous effort and strong determination, even the hardest tasks become possible."
+        },
+        "word_of_the_day": {
+            "icon": "📚",
+            "word": "Perseverance",
+            "meaning": "Persistence and continuous effort to achieve something despite difficulties.",
+            "example": "Hard work and perseverance are essential to succeed in exams."
+        },
+        "today_in_history": {
+            "icon": "🏛️",
+            "fact": "On September 10, 1887, Pandit Govind Ballabh Pant, a great freedom fighter of India and the first Chief Minister of Uttar Pradesh, was born."
+        },
+        "did_you_know": {
+            "icon": "💡",
+            "fact": "Did you know? Honey is the only food in the world that never spoils. Even thousands-of-years-old honey remains edible."
+        },
+        "quote_of_the_day": {
+            "icon": "✨",
+            "quote": "Dreams are not those which you see while sleeping, dreams are those which don't let you sleep.",
+            "author": "Dr. A. P. J. Abdul Kalam"
+        }
+    }
+}
