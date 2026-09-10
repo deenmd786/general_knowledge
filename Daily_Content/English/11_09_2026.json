@@ -1,0 +1,45 @@
+{
+    "date": "11-09-2026",
+    "daily_content": {
+        "paheli": {
+            "icon": "🤔",
+            "question": "The more of this you have, the less you can see! What is it?",
+            "answer": "Darkness"
+        },
+        "joke": {
+            "icon": "😂",
+            "characters": "Teacher - Sanju",
+            "dialogue": [
+                "Teacher: Sanju, tell me, what remains if you subtract 5 from 10?",
+                "Sanju: Sir, all 10 will still remain!",
+                "Teacher (angrily): How is that possible?",
+                "Sanju: Because you subtracted 5, but the 10 written on the board is still right there!"
+            ]
+        },
+        "prerak_kahani": {
+            "icon": "📖",
+            "title": "The Magic of Continuous Effort",
+            "story": "A boy named Rohan lived in a village. He was very weak in mathematics and always scored low marks. One day, his teacher showed him a rope at the well, which had worn a deep groove into the hard stone over time. The teacher explained that just as continuous rubbing allows a soft rope to cut stone, regular practice can make any subject easy. Rohan made it a rule to practice math for two hours every day. Within a few months, he became the top-scoring student in his class.",
+            "moral": "Consistent effort and hard work can overcome any obstacle."
+        },
+        "word_of_the_day": {
+            "icon": "📚",
+            "word": "Perseverance",
+            "meaning": "Continued effort to do or achieve something despite difficulties or delays",
+            "example": "Rohan showed great perseverance in his studies to secure the top rank in his exams."
+        },
+        "today_in_history": {
+            "icon": "🏛️",
+            "fact": "On September 11, 1893, Swami Vivekananda delivered his historic speech at the Parliament of the World's Religions in Chicago, USA, which he famously began with the words, 'Sisters and brothers of America!'"
+        },
+        "did_you_know": {
+            "icon": "💡",
+            "fact": "Did you know? Honey is the only food in the world that never spoils. If stored properly, it remains edible even after thousands of years!"
+        },
+        "quote_of_the_day": {
+            "icon": "✨",
+            "quote": "Arise, awake, and stop not till the goal is reached.",
+            "author": "Swami Vivekananda"
+        }
+    }
+}
