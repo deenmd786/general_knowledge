@@ -1,0 +1,43 @@
+{
+    "date": "12-09-2026",
+    "daily_content": {
+        "paheli": {
+            "icon": "🤔",
+            "question": "Listen to the story of a stick that is filled with sweet water. What am I?",
+            "answer": "Sugarcane"
+        },
+        "joke": {
+            "icon": "😂",
+            "characters": "Teacher and Sanju",
+            "dialogue": [
+                "Teacher: Sanju, tell me, why is air invisible?",
+                "Sanju: Sir, if air became visible, how would we ever play hide-and-seek!"
+            ]
+        },
+        "prerak_kahani": {
+            "icon": "📖",
+            "title": "Continuous Effort",
+            "story": "Once, a little ant was climbing a wall carrying a grain of food. She kept slipping and falling down, but she did not lose heart. She tried hard once again and finally reached the top of the wall. The ant's dedication proved that those who keep trying never lose.",
+            "moral": "With true dedication and continuous effort, even the most difficult task becomes easy."
+        },
+        "word_of_the_day": {
+            "icon": "📚",
+            "word": "Perseverance",
+            "meaning": "Persistence and determination in doing something despite difficulties or delays",
+            "example": "Hard work and perseverance are essential to achieve success in life."
+        },
+        "today_in_history": {
+            "icon": "🏛️",
+            "fact": "On September 12, 1897, the historic 'Battle of Saragarhi' took place, in which 21 Sikh soldiers bravely fought against more than 10,000 Afghan invaders with invincible courage."
+        },
+        "did_you_know": {
+            "icon": "💡",
+            "fact": "Did you know that butterflies taste their food not with their mouths, but with their feet!"
+        },
+        "quote_of_the_day": {
+            "icon": "✨",
+            "quote": "Arise, awake, and stop not till the goal is reached.",
+            "author": "Swami Vivekananda"
+        }
+    }
+}
